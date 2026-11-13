@@ -6,6 +6,11 @@
 <meta name="robots" content="noindex, nofollow">
 <meta name="referrer" content="no-referrer">
 <title>Trading-Cockpit</title>
+<link rel="icon" type="image/png" sizes="32x32" href="icon-32.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0b0b0c">
+<meta name="apple-mobile-web-app-title" content="Cockpit">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&display=swap" rel="stylesheet">
 <style>
   :root { color-scheme: dark; }
@@ -49,6 +54,7 @@
 (function () {
   'use strict';
   function $(id) { return document.getElementById(id); }
+  var SYMBOLE = '<link rel="icon" type="image/png" sizes="32x32" href="icon-32.png"><link rel="apple-touch-icon" href="icon-180.png"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#0b0b0c"><meta name="apple-mobile-web-app-title" content="Cockpit">';
   function b64(s) { var b = atob(s), u = new Uint8Array(b.length); for (var i = 0; i < b.length; i++) u[i] = b.charCodeAt(i); return u; }
   function zeige(form) { $('lade').hidden = form; $('form').hidden = !form; if (form) setTimeout(function () { $('pw').focus(); }, 30); }
   function status(t, fertig) { $('status').textContent = t; if (fertig) $('lade').querySelector('i').hidden = true; }
@@ -91,7 +97,7 @@
       }).then(function (gz) {
         return new Response(new Blob([gz]).stream().pipeThrough(new DecompressionStream('gzip'))).text();
       }).then(function (html) {
-        var marke = '<script>window.__privat=' + JSON.stringify({ version: String(p.version || '') }) + ';<\/script>';
+        var marke = '<script>window.__privat=' + JSON.stringify({ version: String(p.version || '') }) + ';<\/script>' + SYMBOLE;
         var i = html.indexOf('<head>');
         html = i >= 0 ? html.slice(0, i + 6) + marke + html.slice(i + 6) : marke + html;
         document.open(); document.write(html); document.close();
