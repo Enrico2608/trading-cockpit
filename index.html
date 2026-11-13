@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<title>Trading-Cockpit</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&display=swap" rel="stylesheet">
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: radial-gradient(ellipse at 50% 20%, rgba(207, 168, 79, 0.10), transparent 60%), #0b0b0c; color: #efe9dc; font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .box { width: min(390px, calc(100% - 32px)); background: #131312; border: 1px solid #2a2822; border-radius: 14px; padding: 26px 24px; display: grid; gap: 14px; box-shadow: 0 24px 70px rgba(0, 0, 0, 0.55); }
+  h1 { margin: 0; font-family: "Cormorant Garamond", Georgia, serif; font-size: 31px; font-weight: 600; color: #cfa84f; letter-spacing: 0.01em; }
+  p { margin: 0; color: #bdb4a1; }
+  form { display: grid; gap: 12px; }
+  label { font-size: 13px; color: #918a79; }
+  input[type=password] { width: 100%; background: #0b0b0c; border: 1px solid #3d392f; border-radius: 8px; padding: 10px 12px; color: #efe9dc; font-size: 16px; }
+  input[type=password]:focus { outline: none; border-color: #cfa84f; box-shadow: 0 0 0 3px rgba(207, 168, 79, 0.15); }
+  .cb { display: flex; gap: 8px; align-items: center; font-size: 14px; color: #bdb4a1; }
+  input[type=checkbox] { accent-color: #cfa84f; width: 16px; height: 16px; }
+  button { background: #cfa84f; color: #141107; border: 0; border-radius: 8px; padding: 10px 14px; font-weight: 600; font-size: 15px; cursor: pointer; }
+  button:hover { background: #e8c773; }
+  button:disabled { opacity: 0.55; cursor: wait; }
+  .fehler { color: #ec835a; font-size: 14px; min-height: 1.3em; }
+  .klein { font-size: 12.5px; color: #918a79; }
+  .lade { display: flex; align-items: center; gap: 10px; color: #bdb4a1; }
+  .lade i { flex: none; width: 14px; height: 14px; border-radius: 50%; border: 2px solid #3d392f; border-top-color: #cfa84f; animation: dreh 0.8s linear infinite; }
+  @keyframes dreh { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .lade i { animation: none; } }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<main class="box">
+  <h1>Trading-Cockpit</h1>
+  <div class="lade" id="lade" role="status"><i aria-hidden="true"></i><span id="status">Wird geöffnet …</span></div>
+  <form id="form" hidden>
+    <p>Privates Cockpit. Einmal pro Gerät mit deinem Passwort öffnen.</p>
+    <div style="display:grid;gap:6px"><label for="pw">Passwort</label><input id="pw" type="password" autocomplete="current-password" required></div>
+    <label class="cb"><input id="merken" type="checkbox" checked> Auf diesem Gerät merken</label>
+    <button id="los" type="submit">Öffnen</button>
+    <p class="fehler" id="fehler" role="alert"></p>
+  </form>
+  <p class="klein">Inhalt verschlüsselt · ohne Passwort nicht lesbar.</p>
+</main>
+<script>
+(function () {
+  'use strict';
+  function $(id) { return document.getElementById(id); }
+  function b64(s) { var b = atob(s), u = new Uint8Array(b.length); for (var i = 0; i < b.length; i++) u[i] = b.charCodeAt(i); return u; }
+  function zeige(form) { $('lade').hidden = form; $('form').hidden = !form; if (form) setTimeout(function () { $('pw').focus(); }, 30); }
+  function status(t, fertig) { $('status').textContent = t; if (fertig) $('lade').querySelector('i').hidden = true; }
+  function fehler(t) { $('fehler').textContent = t; }
+  function netz(e) { return e && (e.message === 'netz' || e.name === 'TypeError'); }
+
+  if (!window.crypto || !crypto.subtle || typeof DecompressionStream === 'undefined' || !window.indexedDB || !window.fetch) {
+    status('Dieser Browser kann das Cockpit nicht öffnen. Bitte ein aktuelles Chrome, Edge, Firefox oder Safari nutzen.', true);
+    return;
+  }
+
+  function idb(modus, fn) {
+    return new Promise(function (ok, nein) {
+      var r = indexedDB.open('atc-tresor', 1);
+      r.onupgradeneeded = function () { r.result.createObjectStore('k'); };
+      r.onerror = function () { nein(r.error); };
+      r.onsuccess = function () {
+        var db = r.result, tx = db.transaction('k', modus), q = fn(tx.objectStore('k'));
+        tx.oncomplete = function () { db.close(); ok(q ? q.result : undefined); };
+        tx.onerror = tx.onabort = function () { db.close(); nein(tx.error); };
+      };
+    });
+  }
+  function holeSchluessel() { return idb('readonly', function (st) { return st.get('site'); }).catch(function () { return null; }); }
+  function merke(k) { return idb('readwrite', function (st) { return st.put(k, 'site'); }).catch(function () { }); }
+  function vergiss() { return idb('readwrite', function (st) { return st.delete('site'); }).catch(function () { }); }
+  function lade(name) {
+    return fetch(name + '?v=' + Date.now(), { cache: 'no-store' }).then(function (r) { if (!r.ok) throw new Error('netz'); return r.json(); });
+  }
+  var paket = lade('cockpit.json');
+  paket.catch(function () { });
+
+  function oeffne(priv) {
+    status('Cockpit wird entschlüsselt …');
+    return paket.then(function (p) {
+      return crypto.subtle.decrypt({ name: 'RSA-OAEP' }, priv, b64(p.k || p.schluessel)).then(function (roh) {
+        return crypto.subtle.importKey('raw', roh, 'AES-GCM', false, ['decrypt']);
+      }).then(function (k) {
+        return crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64(p.iv) }, k, b64(p.d || p.daten));
+      }).then(function (gz) {
+        return new Response(new Blob([gz]).stream().pipeThrough(new DecompressionStream('gzip'))).text();
+      }).then(function (html) {
+        var marke = '<script>window.__privat=' + JSON.stringify({ version: String(p.version || '') }) + ';<\/script>';
+        var i = html.indexOf('<head>');
+        html = i >= 0 ? html.slice(0, i + 6) + marke + html.slice(i + 6) : marke + html;
+        document.open(); document.write(html); document.close();
+      });
+    });
+  }
+  function mitPasswort(pw, merken) {
+    return paket.then(function (p) { return p.t || lade('tresor.json'); }).then(function (t) {
+      return crypto.subtle.importKey('raw', new TextEncoder().encode(pw), 'PBKDF2', false, ['deriveKey']).then(function (basis) {
+        return crypto.subtle.deriveKey({ name: 'PBKDF2', salt: b64(t.s || t.salt), iterations: t.i || t.iterationen, hash: 'SHA-256' }, basis, { name: 'AES-GCM', length: 256 }, false, ['decrypt']);
+      }).then(function (ak) {
+        return crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64(t.iv) }, ak, b64(t.d || t.daten));
+      });
+    }).then(function (pkcs8) {
+      return crypto.subtle.importKey('pkcs8', pkcs8, { name: 'RSA-OAEP', hash: 'SHA-256' }, false, ['decrypt']);
+    }).then(function (priv) {
+      return (merken ? merke(priv) : Promise.resolve()).then(function () { return priv; });
+    });
+  }
+
+  $('form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var pw = $('pw').value;
+    if (!pw) return;
+    $('los').disabled = true; fehler('');
+    mitPasswort(pw, $('merken').checked).then(function (priv) {
+      zeige(false);
+      return oeffne(priv).catch(function (err) { status(netz(err) ? 'Keine Verbindung. Internet prüfen und die Seite neu laden.' : 'Das Cockpit ließ sich nicht öffnen. Seite neu laden.', true); });
+    }).catch(function (err) {
+      $('los').disabled = false;
+      fehler(netz(err) ? 'Keine Verbindung. Internet prüfen und erneut versuchen.' : 'Passwort falsch.');
+    });
+  });
+
+  holeSchluessel().then(function (k) {
+    if (!k) { zeige(true); return; }
+    return oeffne(k).catch(function (err) {
+      if (netz(err)) { status('Keine Verbindung. Internet prüfen und die Seite neu laden.', true); return; }
+      return vergiss().then(function () { zeige(true); fehler('Bitte das Passwort neu eingeben.'); });
+    });
+  });
+})();
+</script>
+</body>
+</html>
