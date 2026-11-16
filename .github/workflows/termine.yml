@@ -1,4 +1,4 @@
-# Holt jeden Morgen die wichtigen Wirtschaftstermine (Tradays, hoch + mittel) und legt sie als
+# Holt jeden Morgen die wichtigen Wirtschaftstermine (Tradays + ForexFactory, hoch + mittel) und legt sie als
 # termine.json auf die Website (Branch gh-pages). Das Cockpit lädt die Datei beim Öffnen.
 # Von Hand starten: GitHub → Actions → „Termine aktualisieren“ → „Run workflow“.
 name: Termine aktualisieren
@@ -25,7 +25,7 @@ jobs:
         with:
           ref: gh-pages
           path: site
-      - name: Termine bei Tradays laden
+      - name: Termine bei Tradays und ForexFactory laden
         run: python3 quelle/werkzeuge/termine.py site/termine.json
       - name: Speichern, wenn sich etwas geändert hat
         working-directory: site
@@ -34,6 +34,6 @@ jobs:
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -q -m "Termine aktualisiert (Tradays)"
+          git commit -q -m "Termine aktualisiert (Tradays, ForexFactory)"
           for i in 1 2 3; do git pull -q --rebase origin gh-pages && git push -q origin HEAD:gh-pages && exit 0; sleep 15; done
           exit 1
