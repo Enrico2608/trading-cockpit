@@ -1,0 +1,18 @@
+name: Termine (Tradays) – Test
+on:
+  push:
+    branches: [termine-automatik]
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 werkzeuge/dump.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dump
+          git commit -q -m "Dump" && git push || echo "nichts zu speichern"
