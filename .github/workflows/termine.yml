@@ -10,7 +10,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - run: mkdir -p dump && python3 werkzeuge/ff_dump.py
+      - run: mkdir -p dump && python3 werkzeuge/td_dump.py && python3 werkzeuge/termine.py dump/termine_neu.json
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
