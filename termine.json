@@ -1,11 +1,8 @@
 {
- "stand": "2026-11-16T19:38:54+01:00",
- "quelle": "Tradays und ForexFactory",
- "quellen": {
-  "tradays": true,
-  "forexfactory": true
- },
- "hinweis": "Wichtige Termine (hoch und mittel) aus den Wirtschaftskalendern von Tradays und ForexFactory für USA, Eurozone und Deutschland, Uhrzeiten in deutscher Zeit. ForexFactory liefert nur die laufende Woche. Wird täglich automatisch aktualisiert.",
+ "stand": "2026-11-16T20:15:33+01:00",
+ "quelle": "Tradays",
+ "quelle_url": "https://www.tradays.com/de/economic-calendar",
+ "hinweis": "Wichtige Termine (hoch und mittel) aus dem Tradays-Wirtschaftskalender für USA, Eurozone und Deutschland, Uhrzeiten in deutscher Zeit. Wird täglich automatisch aktualisiert.",
  "von": "2026-11-16",
  "bis": "2027-01-03",
  "termine": [
@@ -16,21 +13,13 @@
    "zeitart": "",
    "titel": "Vorstandsmitglied Mauderer der BBk spricht",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech"
   },
   {
    "id": "td-327518",
@@ -39,21 +28,13 @@
    "zeitart": "",
    "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
   },
   {
    "id": "td-323207",
@@ -62,21 +43,13 @@
    "zeitart": "",
    "titel": "Industrieproduktion m/m",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm"
   },
   {
    "id": "td-321987",
@@ -85,44 +58,13 @@
    "zeitart": "",
    "titel": "NY Empire-State-Index des verarbeitenden Gewerbes",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/ny-empire-state-manufacturing-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/ny-empire-state-manufacturing-index"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "ff-2026-11-16-1800-129",
-   "datum": "2026-11-16",
-   "zeit": "18:00",
-   "zeitart": "",
-   "titel": "Fed Chairman Warsh Speaks",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "ALLE"
-   ],
-   "wichtig": "hoch",
-   "quelle": "ForexFactory",
-   "url": "https://www.forexfactory.com/calendar/129-us-fed-chairman-warsh-speaks",
-   "links": [
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/129-us-fed-chairman-warsh-speaks"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/ny-empire-state-manufacturing-index"
   },
   {
    "id": "td-287891",
@@ -135,7 +77,6 @@
     "CFTC S&P 500, nichtkommerzielle Nettopositionen",
     "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -145,14 +86,7 @@
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
   },
   {
    "id": "td-288314",
@@ -161,21 +95,13 @@
    "zeitart": "",
    "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
   },
   {
    "id": "td-316483",
@@ -184,21 +110,13 @@
    "zeitart": "",
    "titel": "ZEW Konjunkturerwartungen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment"
   },
   {
    "id": "td-316475",
@@ -209,21 +127,13 @@
    "weitere": [
     "ZEW Konjunktursituation"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator"
   },
   {
    "id": "td-270285",
@@ -237,34 +147,13 @@
     "Import Preisindex m/m",
     "Export Preisindex m/m"
    ],
-   "ff": [
-    {
-     "titel": "Core Retail Sales m/m",
-     "wichtig": "hoch"
-    },
-    {
-     "titel": "Retail Sales m/m",
-     "wichtig": "hoch"
-    }
-   ],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm"
   },
   {
    "id": "td-327514",
@@ -273,21 +162,13 @@
    "zeitart": "",
    "titel": "Fed Präsident Waller spricht",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
   },
   {
    "id": "td-280470",
@@ -298,21 +179,13 @@
    "weitere": [
     "Fed Industrieproduktion y/y"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm"
   },
   {
    "id": "td-270249",
@@ -324,21 +197,13 @@
     "Lagerbestände der Einzelhändler m/m",
     "Lagerbestände der Einzelhändler exkl. Autos m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm"
   },
   {
    "id": "td-327523",
@@ -347,21 +212,13 @@
    "zeitart": "",
    "titel": "ECB Vorstandsmitglied Lane spricht",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech"
   },
   {
    "id": "td-324092",
@@ -370,30 +227,13 @@
    "zeitart": "",
    "titel": "EZB, Finanzstabilitätsbericht",
    "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB Financial Stability Review",
-     "wichtig": "mittel"
-    }
-   ],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-financial-stability-review",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-financial-stability-review"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/616-ez-ecb-financial-stability-review"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-financial-stability-review"
   },
   {
    "id": "td-323841",
@@ -406,21 +246,13 @@
     "Kern CPI y/y",
     "Kern VPI"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
   },
   {
    "id": "td-270201",
@@ -432,21 +264,13 @@
     "Baugenehmigungen",
     "Baubeginne m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/housing-starts",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/housing-starts"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/housing-starts"
   },
   {
    "id": "td-327524",
@@ -455,30 +279,13 @@
    "zeitart": "",
    "titel": "EZB Präsident Lagarde spricht",
    "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB President Lagarde Speaks",
-     "wichtig": "mittel"
-    }
-   ],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
   },
   {
    "id": "td-287310",
@@ -487,21 +294,13 @@
    "zeitart": "",
    "titel": "Schwebende Hausverkäufe m/m",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm"
   },
   {
    "id": "td-319912",
@@ -512,21 +311,13 @@
    "weitere": [
     "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
   },
   {
    "id": "td-314170",
@@ -535,21 +326,13 @@
    "zeitart": "",
    "titel": "Auktion für 20-Jahres-Anleihen",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/20-year-bond-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/20-year-bond-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/20-year-bond-auction"
   },
   {
    "id": "td-327519",
@@ -558,21 +341,13 @@
    "zeitart": "",
    "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
   },
   {
    "id": "td-237378",
@@ -581,30 +356,13 @@
    "zeitart": "",
    "titel": "FOMC Protokoll",
    "weitere": [],
-   "ff": [
-    {
-     "titel": "FOMC Meeting Minutes",
-     "wichtig": "hoch"
-    }
-   ],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
-   "wichtig": "hoch",
+   "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/304-us-fomc-meeting-minutes"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes"
   },
   {
    "id": "td-276711",
@@ -613,21 +371,13 @@
    "zeitart": "",
    "titel": "TIC Langfristige Nettotransaktionen",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions"
   },
   {
    "id": "td-327527",
@@ -636,21 +386,13 @@
    "zeitart": "",
    "titel": "EZB Direktoriumsmitglied Elderson spricht",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-elderson-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-elderson-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-elderson-speech"
   },
   {
    "id": "td-287217",
@@ -663,34 +405,13 @@
     "Philadelphia Fed, Beschäftigung",
     "Folgeanträge auf Arbeitslosenhilfe"
    ],
-   "ff": [
-    {
-     "titel": "Philly Fed Manufacturing Index",
-     "wichtig": "mittel"
-    },
-    {
-     "titel": "Unemployment Claims",
-     "wichtig": "mittel"
-    }
-   ],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-index"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index"
   },
   {
    "id": "td-327525",
@@ -699,30 +420,13 @@
    "zeitart": "",
    "titel": "EZB Präsident Lagarde spricht",
    "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB President Lagarde Speaks",
-     "wichtig": "mittel"
-    }
-   ],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
   },
   {
    "id": "td-327517",
@@ -731,21 +435,13 @@
    "zeitart": "",
    "titel": "Fed Gouverneur Jefferson spricht",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-jefferson-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-jefferson-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-jefferson-speech"
   },
   {
    "id": "td-284697",
@@ -754,21 +450,13 @@
    "zeitart": "",
    "titel": "CB wirtschaftlicher Frühindikator m/m",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index"
   },
   {
    "id": "td-314168",
@@ -777,21 +465,13 @@
    "zeitart": "",
    "titel": "10-jährige TIPS Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-tips-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-tips-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-tips-auction"
   },
   {
    "id": "td-327520",
@@ -800,21 +480,13 @@
    "zeitart": "",
    "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
   },
   {
    "id": "td-319666",
@@ -823,21 +495,13 @@
    "zeitart": "",
    "titel": "PPI m/m",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm"
   },
   {
    "id": "td-327526",
@@ -846,31 +510,13 @@
    "zeitart": "",
    "titel": "EZB Präsident Lagarde spricht",
    "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB President Lagarde Speaks",
-     "wichtig": "mittel",
-     "zeit": "09:15"
-    }
-   ],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
   },
   {
    "id": "td-327515",
@@ -879,21 +525,13 @@
    "zeitart": "",
    "titel": "Fed Präsident Waller spricht",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
   },
   {
    "id": "td-268718",
@@ -906,34 +544,13 @@
     "Michigan, Inflationserwartungen",
     "Michigan, 5-jährige Inflationserwartungen"
    ],
-   "ff": [
-    {
-     "titel": "Revised UoM Consumer Sentiment",
-     "wichtig": "mittel"
-    },
-    {
-     "titel": "Revised UoM Inflation Expectations",
-     "wichtig": "mittel"
-    }
-   ],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentiment"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
   },
   {
    "id": "td-327516",
@@ -942,21 +559,13 @@
    "zeitart": "",
    "titel": "Fed Gouverneur Cook spricht",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-cook-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-cook-speech"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-cook-speech"
   },
   {
    "id": "td-322101",
@@ -967,21 +576,13 @@
    "weitere": [
     "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
   },
   {
    "id": "td-287892",
@@ -994,7 +595,6 @@
     "CFTC S&P 500, nichtkommerzielle Nettopositionen",
     "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -1004,14 +604,7 @@
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
   },
   {
    "id": "td-288315",
@@ -1020,21 +613,13 @@
    "zeitart": "",
    "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
   },
   {
    "id": "td-326343",
@@ -1045,21 +630,13 @@
    "weitere": [
     "S&P Global PMI der Dienstleister"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi"
   },
   {
    "id": "td-326389",
@@ -1071,21 +648,13 @@
     "S&P Global PMI der Dienstleister",
     "S&P Global zusammengesetzter Einkaufsmanagerindex (PMI)"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi"
   },
   {
    "id": "td-314149",
@@ -1094,21 +663,13 @@
    "zeitart": "",
    "titel": "2-jährige Schatzanweisung Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction"
   },
   {
    "id": "td-312995",
@@ -1120,21 +681,13 @@
     "Ifo aktuelles Geschäftsklima",
     "Ifo Geschäftsklima"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations"
   },
   {
    "id": "td-321690",
@@ -1145,21 +698,13 @@
    "weitere": [
     "S&P/CS Hauspreis-Index, Composite-20 n.s.a. m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy"
   },
   {
    "id": "td-279672",
@@ -1168,21 +713,13 @@
    "zeitart": "",
    "titel": "CB Verbrauchervertrauensindex",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index"
   },
   {
    "id": "td-314155",
@@ -1191,21 +728,13 @@
    "zeitart": "",
    "titel": "5-jährige Schatzanweisung Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-note-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-note-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-note-auction"
   },
   {
    "id": "td-319646",
@@ -1216,21 +745,13 @@
    "weitere": [
     "Bruttoinlandsprodukt y/y"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/gdp-qq",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/gdp-qq"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/gdp-qq"
   },
   {
    "id": "td-286270",
@@ -1239,21 +760,13 @@
    "zeitart": "",
    "titel": "ECB, Nicht-geldpolitische Sitzung",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-non-monetary-policy-meeting",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-non-monetary-policy-meeting"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-non-monetary-policy-meeting"
   },
   {
    "id": "td-280410",
@@ -1262,21 +775,13 @@
    "zeitart": "vorläufig",
    "titel": "Auktion 10-jähriger Schuldverschreibungen",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/10-year-bond-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/10-year-bond-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/10-year-bond-auction"
   },
   {
    "id": "td-282562",
@@ -1297,21 +802,13 @@
     "Kern, Auftragseingänge langlebiger Güter m/m",
     "Folgeanträge auf Arbeitslosenhilfe"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm"
   },
   {
    "id": "td-270261",
@@ -1322,21 +819,13 @@
    "weitere": [
     "Verkäufe von Neubauten m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales"
   },
   {
    "id": "td-320701",
@@ -1347,21 +836,13 @@
    "weitere": [
     "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
   },
   {
    "id": "td-323203",
@@ -1373,21 +854,13 @@
     "Baker Hughes US, Gesamtzahl der Ölförderanlagen",
     "7-jährige Schatzanweisung Auktion"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
   },
   {
    "id": "td-280293",
@@ -1396,21 +869,13 @@
    "zeitart": "",
    "titel": "Fed Beige Book",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-beige-book",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-beige-book"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-beige-book"
   },
   {
    "id": "td-325107",
@@ -1419,21 +884,13 @@
    "zeitart": "ganztägig",
    "titel": "EU Gipfeltreffen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
   },
   {
    "id": "td-308954",
@@ -1442,21 +899,13 @@
    "zeitart": "",
    "titel": "GfK Konsumentenklima",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/gfk-consumer-climate",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/gfk-consumer-climate"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/gfk-consumer-climate"
   },
   {
    "id": "td-278384",
@@ -1465,21 +914,13 @@
    "zeitart": "",
    "titel": "EZB Kredite an private Haushalte y/y",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy"
   },
   {
    "id": "td-327262",
@@ -1488,21 +929,13 @@
    "zeitart": "",
    "titel": "ECB, Geldpolitische Sitzung",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-meeting-accounts",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-meeting-accounts"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-meeting-accounts"
   },
   {
    "id": "td-325108",
@@ -1511,21 +944,13 @@
    "zeitart": "ganztägig",
    "titel": "EU Gipfeltreffen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
   },
   {
    "id": "td-229138",
@@ -1537,21 +962,13 @@
     "Arbeitslosenrate",
     "Arbeitslosenzahl"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/unemployment-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/unemployment-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/unemployment-change"
   },
   {
    "id": "td-283361",
@@ -1562,21 +979,13 @@
    "weitere": [
     "Indikator der wirtschaftlichen Einschätzung"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-expectations",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-expectations"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-expectations"
   },
   {
    "id": "td-270393",
@@ -1588,21 +997,13 @@
     "Lagerbestände der Einzelhändler m/m",
     "Lagerbestände der Einzelhändler exkl. Autos m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance"
   },
   {
    "id": "td-319674",
@@ -1611,21 +1012,13 @@
    "zeitart": "",
    "titel": "Einzelhandelsumsatz m/m",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/retail-sales-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/retail-sales-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/retail-sales-mm"
   },
   {
    "id": "td-319691",
@@ -1636,21 +1029,13 @@
    "weitere": [
     "CPI y/y"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm"
   },
   {
    "id": "td-321905",
@@ -1659,21 +1044,13 @@
    "zeitart": "",
    "titel": "MNI Chicago, Geschäftsklima",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi"
   },
   {
    "id": "td-287893",
@@ -1686,7 +1063,6 @@
     "CFTC S&P 500, nichtkommerzielle Nettopositionen",
     "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -1696,14 +1072,7 @@
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
   },
   {
    "id": "td-288316",
@@ -1712,21 +1081,13 @@
    "zeitart": "",
    "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
   },
   {
    "id": "td-326344",
@@ -1735,21 +1096,13 @@
    "zeitart": "",
    "titel": "S&P Global PMI der Hersteller",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi"
   },
   {
    "id": "td-326390",
@@ -1758,21 +1111,13 @@
    "zeitart": "",
    "titel": "S&P Global PMI der Hersteller",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi"
   },
   {
    "id": "td-325568",
@@ -1785,21 +1130,13 @@
     "Kern CPI y/y",
     "Kern VPI"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
   },
   {
    "id": "td-326384",
@@ -1808,21 +1145,13 @@
    "zeitart": "",
    "titel": "S&P Global PMI der Hersteller",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-manufacturing-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-manufacturing-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-manufacturing-pmi"
   },
   {
    "id": "td-289572",
@@ -1836,21 +1165,13 @@
     "Bauinvestitionen m/m",
     "ISM Verarbeitendes Gewerbe, Beschäftigung"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/jolts-job-openings",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/jolts-job-openings"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/jolts-job-openings"
   },
   {
    "id": "td-325571",
@@ -1859,21 +1180,13 @@
    "zeitart": "",
    "titel": "Arbeitslosenrate",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/unemployment-rate",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/unemployment-rate"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/unemployment-rate"
   },
   {
    "id": "td-274880",
@@ -1882,21 +1195,13 @@
    "zeitart": "",
    "titel": "ADP Änderung der außerlandwirtschaftliche Beschäftigung",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change"
   },
   {
    "id": "td-321726",
@@ -1907,21 +1212,13 @@
    "weitere": [
     "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
   },
   {
    "id": "td-326346",
@@ -1930,21 +1227,13 @@
    "zeitart": "",
    "titel": "S&P Global PMI der Dienstleister",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-services-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/markit-services-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-services-pmi"
   },
   {
    "id": "td-326392",
@@ -1955,21 +1244,13 @@
    "weitere": [
     "S&P Global zusammengesetzter Einkaufsmanagerindex (PMI)"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-services-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-services-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-services-pmi"
   },
   {
    "id": "td-326386",
@@ -1980,21 +1261,13 @@
    "weitere": [
     "S&P Global zusammengesetzter Einkaufsmanagerindex (PMI)"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-services-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-services-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-services-pmi"
   },
   {
    "id": "td-237166",
@@ -2007,21 +1280,13 @@
     "Auftragseingänge der Hersteller m/m",
     "ISM Nicht-verarbeitendes Gewerbe, Beschäftigung"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/ism-non-manufacturing-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/ism-non-manufacturing-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/ism-non-manufacturing-pmi"
   },
   {
    "id": "td-326396",
@@ -2030,21 +1295,13 @@
    "zeitart": "",
    "titel": "S&P Global PMI des Baugewerbes",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-construction-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-construction-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-construction-pmi"
   },
   {
    "id": "td-277614",
@@ -2059,21 +1316,13 @@
     "Durchschnittlicher Wochenverdienst y/y",
     "U6 Arbeitslosenrate"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/unemployment-rate",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/unemployment-rate"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/unemployment-rate"
   },
   {
    "id": "td-268719",
@@ -2086,21 +1335,13 @@
     "Michigan, Inflationserwartungen",
     "Michigan, 5-jährige Inflationserwartungen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
   },
   {
    "id": "td-323836",
@@ -2111,21 +1352,13 @@
    "weitere": [
     "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
   },
   {
    "id": "td-287894",
@@ -2138,7 +1371,6 @@
     "CFTC S&P 500, nichtkommerzielle Nettopositionen",
     "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -2148,14 +1380,7 @@
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
   },
   {
    "id": "td-288317",
@@ -2164,21 +1389,13 @@
    "zeitart": "",
    "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
   },
   {
    "id": "td-319679",
@@ -2189,21 +1406,13 @@
    "weitere": [
     "Auftragseingänge y/y"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/factory-orders-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/factory-orders-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/factory-orders-mm"
   },
   {
    "id": "td-325569",
@@ -2215,21 +1424,13 @@
     "Bruttoinlandsprodukt y/y",
     "Beschäftigungsniveau"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/gross-domestic-product-qq",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/gross-domestic-product-qq"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/gross-domestic-product-qq"
   },
   {
    "id": "td-314153",
@@ -2238,21 +1439,13 @@
    "zeitart": "",
    "titel": "3-jährige Schatzanweisung Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/3-year-note-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/3-year-note-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/3-year-note-auction"
   },
   {
    "id": "td-280495",
@@ -2261,21 +1454,13 @@
    "zeitart": "",
    "titel": "Fed, Verbraucherkredite",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-credit-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-credit-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-credit-mm"
   },
   {
    "id": "td-319651",
@@ -2284,21 +1469,13 @@
    "zeitart": "",
    "titel": "Industrieproduktion m/m",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/industrial-production-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/industrial-production-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/industrial-production-mm"
   },
   {
    "id": "td-270166",
@@ -2312,21 +1489,13 @@
     "Außerlandwirtschaftliche Produktivität q/q",
     "Lohnstückkosten q/q"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/trade-balance",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/trade-balance"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/trade-balance"
   },
   {
    "id": "td-248271",
@@ -2335,21 +1504,13 @@
    "zeitart": "",
    "titel": "EIA, Kurzfristiger Energie-Ausblick",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-short-term-energy-outlook",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-short-term-energy-outlook"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-short-term-energy-outlook"
   },
   {
    "id": "td-314162",
@@ -2358,21 +1519,13 @@
    "zeitart": "",
    "titel": "10-jährige Schatzanweisung Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-note-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-note-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-note-auction"
   },
   {
    "id": "td-319642",
@@ -2381,21 +1534,13 @@
    "zeitart": "",
    "titel": "Handelsbilanz",
    "weitere": [],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/trade-balance",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/trade-balance"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/trade-balance"
   },
   {
    "id": "td-287289",
@@ -2406,21 +1551,13 @@
    "weitere": [
     "Tatsächliche Hausverkäufe m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/existing-home-sales",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/existing-home-sales"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/existing-home-sales"
   },
   {
    "id": "td-322993",
@@ -2431,21 +1568,13 @@
    "weitere": [
     "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
   },
   {
    "id": "td-237387",
@@ -2457,21 +1586,13 @@
     "FOMC-Kommuniqué",
     "FOMC wirtschaftlicher Ausblick"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-interest-rate-decision",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-interest-rate-decision"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-interest-rate-decision"
   },
   {
    "id": "td-237395",
@@ -2480,21 +1601,13 @@
    "zeitart": "",
    "titel": "FOMC Pressekonferenz",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-press-conference",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-press-conference"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-press-conference"
   },
   {
    "id": "td-319692",
@@ -2505,21 +1618,13 @@
    "weitere": [
     "CPI y/y"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm"
   },
   {
    "id": "td-277494",
@@ -2534,21 +1639,13 @@
     "CPI",
     "Kern CPI y/y"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-price-index-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-price-index-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-price-index-mm"
   },
   {
    "id": "td-293062",
@@ -2557,21 +1654,13 @@
    "zeitart": "",
    "titel": "WASDE Bericht",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/wasde-report",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/wasde-report"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/wasde-report"
   },
   {
    "id": "td-314165",
@@ -2580,21 +1669,13 @@
    "zeitart": "",
    "titel": "30-jährige Schuldverschreibung Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/30-year-bond-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/30-year-bond-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/30-year-bond-auction"
   },
   {
    "id": "td-272956",
@@ -2603,21 +1684,13 @@
    "zeitart": "",
    "titel": "Staatshaushalt",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/federal-budget-balance",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/federal-budget-balance"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/federal-budget-balance"
   },
   {
    "id": "td-325103",
@@ -2626,21 +1699,13 @@
    "zeitart": "ganztägig",
    "titel": "Tagung der Eurogruppe",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/eurogroup-meeting",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/eurogroup-meeting"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eurogroup-meeting"
   },
   {
    "id": "td-279877",
@@ -2649,21 +1714,13 @@
    "zeitart": "",
    "titel": "IEA Monatsbericht des Ölmarktes",
    "weitere": [],
-   "ff": [],
    "land": "Welt",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/worldwide/iea-monthly-oil-market-report",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/worldwide/iea-monthly-oil-market-report"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/worldwide/iea-monthly-oil-market-report"
   },
   {
    "id": "td-324621",
@@ -2674,21 +1731,13 @@
    "weitere": [
     "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
   },
   {
    "id": "td-287895",
@@ -2701,7 +1750,6 @@
     "CFTC S&P 500, nichtkommerzielle Nettopositionen",
     "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -2711,14 +1759,7 @@
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
   },
   {
    "id": "td-288318",
@@ -2727,21 +1768,13 @@
    "zeitart": "",
    "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
   },
   {
    "id": "td-327637",
@@ -2750,21 +1783,13 @@
    "zeitart": "",
    "titel": "Industrieproduktion m/m",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm"
   },
   {
    "id": "td-316484",
@@ -2773,21 +1798,13 @@
    "zeitart": "",
    "titel": "ZEW Konjunkturerwartungen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment"
   },
   {
    "id": "td-316476",
@@ -2798,21 +1815,13 @@
    "weitere": [
     "ZEW Konjunktursituation"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator"
   },
   {
    "id": "td-277446",
@@ -2824,21 +1833,13 @@
     "Kern PPI m/m",
     "NY Empire-State-Index des verarbeitenden Gewerbes"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/producer-price-index-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/producer-price-index-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/producer-price-index-mm"
   },
   {
    "id": "td-276712",
@@ -2847,21 +1848,13 @@
    "zeitart": "",
    "titel": "TIC Langfristige Nettotransaktionen",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions"
   },
   {
    "id": "td-327646",
@@ -2872,21 +1865,13 @@
    "weitere": [
     "Handelsbilanz n.s.a."
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/trade-balance",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/trade-balance"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/trade-balance"
   },
   {
    "id": "td-270286",
@@ -2898,21 +1883,13 @@
     "Kern-Einzelhandelsumsatz (ohne Autos) m/m",
     "Einzelhandel Kontrollgruppe m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm"
   },
   {
    "id": "td-280471",
@@ -2923,21 +1900,13 @@
    "weitere": [
     "Fed Industrieproduktion y/y"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm"
   },
   {
    "id": "td-270250",
@@ -2949,21 +1918,13 @@
     "Lagerbestände der Einzelhändler m/m",
     "Lagerbestände der Einzelhändler exkl. Autos m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm"
   },
   {
    "id": "td-323638",
@@ -2974,21 +1935,13 @@
    "weitere": [
     "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
   },
   {
    "id": "td-325109",
@@ -2997,21 +1950,13 @@
    "zeitart": "ganztägig",
    "titel": "EU Gipfeltreffen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
   },
   {
    "id": "td-312996",
@@ -3023,21 +1968,13 @@
     "Ifo aktuelles Geschäftsklima",
     "Ifo Geschäftsklima"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations"
   },
   {
    "id": "td-327643",
@@ -3051,21 +1988,13 @@
     "Lohnkosten y/y",
     "Kern VPI"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
   },
   {
    "id": "td-204754",
@@ -3078,21 +2007,13 @@
     "EZB Entscheid zur Spitzenrefinanzierungsfazilität",
     "EZB, Geldpolitische Stellungnahme"
    ],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-deposit-rate-decision",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-deposit-rate-decision"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-deposit-rate-decision"
   },
   {
    "id": "td-287218",
@@ -3108,21 +2029,13 @@
     "Export Preisindex m/m",
     "Philadelphia Fed, Beschäftigung"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index"
   },
   {
    "id": "td-204738",
@@ -3131,21 +2044,13 @@
    "zeitart": "",
    "titel": "ECB, Geldpolitische Pressekonferenz",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-press-conference",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-press-conference"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-press-conference"
   },
   {
    "id": "td-287311",
@@ -3154,21 +2059,13 @@
    "zeitart": "",
    "titel": "Schwebende Hausverkäufe m/m",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm"
   },
   {
    "id": "td-325110",
@@ -3177,21 +2074,13 @@
    "zeitart": "ganztägig",
    "titel": "EU Gipfeltreffen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
   },
   {
    "id": "td-319667",
@@ -3202,21 +2091,13 @@
    "weitere": [
     "GfK Konsumentenklima"
    ],
-   "ff": [],
    "land": "Deutschland",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm"
   },
   {
    "id": "td-287175",
@@ -3225,21 +2106,13 @@
    "zeitart": "",
    "titel": "Leistungsbilanz",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/current-account",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/current-account"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/current-account"
   },
   {
    "id": "td-284698",
@@ -3253,21 +2126,13 @@
     "Michigan, Inflationserwartungen",
     "Michigan, 5-jährige Inflationserwartungen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index"
   },
   {
    "id": "td-325551",
@@ -3278,21 +2143,13 @@
    "weitere": [
     "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
   },
   {
    "id": "td-287896",
@@ -3305,7 +2162,6 @@
     "CFTC S&P 500, nichtkommerzielle Nettopositionen",
     "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -3315,14 +2171,7 @@
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
   },
   {
    "id": "td-288319",
@@ -3331,21 +2180,13 @@
    "zeitart": "",
    "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
   },
   {
    "id": "td-312899",
@@ -3354,21 +2195,13 @@
    "zeitart": "",
    "titel": "ADP Änderung der außerlandwirtschaftliche Beschäftigung",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change"
   },
   {
    "id": "td-279673",
@@ -3377,21 +2210,13 @@
    "zeitart": "",
    "titel": "CB Verbrauchervertrauensindex",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index"
   },
   {
    "id": "td-314167",
@@ -3400,21 +2225,13 @@
    "zeitart": "",
    "titel": "5-jährige TIPS-Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-tips-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-tips-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-tips-auction"
   },
   {
    "id": "td-282563",
@@ -3433,21 +2250,13 @@
     "Reale PCE q/q",
     "Kern, Auftragseingänge langlebiger Güter m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm"
   },
   {
    "id": "td-270262",
@@ -3458,21 +2267,13 @@
    "weitere": [
     "Verkäufe von Neubauten m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales"
   },
   {
    "id": "td-324414",
@@ -3483,21 +2284,13 @@
    "weitere": [
     "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
   },
   {
    "id": "td-326808",
@@ -3509,21 +2302,13 @@
     "Baker Hughes US, Gesamtzahl der Ölförderanlagen",
     "Auktion für 20-Jahres-Anleihen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
   },
   {
    "id": "td-270394",
@@ -3535,21 +2320,13 @@
     "Lagerbestände der Einzelhändler m/m",
     "Lagerbestände der Einzelhändler exkl. Autos m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance"
   },
   {
    "id": "td-314150",
@@ -3560,21 +2337,13 @@
    "weitere": [
     "5-jährige Schatzanweisung Auktion"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction"
   },
   {
    "id": "td-287897",
@@ -3587,7 +2356,6 @@
     "CFTC S&P 500, nichtkommerzielle Nettopositionen",
     "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -3597,14 +2365,7 @@
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
   },
   {
    "id": "td-288320",
@@ -3613,21 +2374,13 @@
    "zeitart": "",
    "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
   },
   {
    "id": "td-325365",
@@ -3638,21 +2391,13 @@
    "weitere": [
     "S&P/CS Hauspreis-Index, Composite-20 n.s.a. m/m"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy"
   },
   {
    "id": "td-314159",
@@ -3661,21 +2406,13 @@
    "zeitart": "",
    "titel": "7-jährige Schatzanweisung Auktion",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/7-year-note-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/7-year-note-auction"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/7-year-note-auction"
   },
   {
    "id": "td-278385",
@@ -3684,21 +2421,13 @@
    "zeitart": "",
    "titel": "EZB Kredite an private Haushalte y/y",
    "weitere": [],
-   "ff": [],
    "land": "Eurozone",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy"
   },
   {
    "id": "td-325944",
@@ -3707,21 +2436,13 @@
    "zeitart": "",
    "titel": "MNI Chicago, Geschäftsklima",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi"
   },
   {
    "id": "td-325368",
@@ -3732,21 +2453,13 @@
    "weitere": [
     "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "hoch",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
   },
   {
    "id": "td-327521",
@@ -3757,21 +2470,13 @@
    "weitere": [
     "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
    ],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "USOIL"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
   },
   {
    "id": "td-237379",
@@ -3780,21 +2485,13 @@
    "zeitart": "",
    "titel": "FOMC Protokoll",
    "weitere": [],
-   "ff": [],
    "land": "USA",
    "maerkte": [
     "ALLE"
    ],
    "wichtig": "mittel",
    "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes"
-    }
-   ],
-   "kalender": true
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes"
   }
  ]
 }
