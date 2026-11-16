@@ -1,0 +1,2497 @@
+{
+ "stand": "2026-11-16T19:06:27+01:00",
+ "quelle": "Tradays",
+ "quelle_url": "https://www.tradays.com/de/economic-calendar",
+ "hinweis": "Wichtige Termine (hoch und mittel) aus dem Tradays-Wirtschaftskalender für USA, Eurozone und Deutschland, Uhrzeiten in deutscher Zeit. Wird täglich automatisch aktualisiert.",
+ "von": "2026-11-16",
+ "bis": "2027-01-03",
+ "termine": [
+  {
+   "id": "td-327445",
+   "datum": "2026-11-16",
+   "zeit": "10:15",
+   "zeitart": "",
+   "titel": "Vorstandsmitglied Mauderer der BBk spricht",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech"
+  },
+  {
+   "id": "td-327518",
+   "datum": "2026-11-16",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
+  },
+  {
+   "id": "td-323207",
+   "datum": "2026-11-16",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Industrieproduktion m/m",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm"
+  },
+  {
+   "id": "td-321987",
+   "datum": "2026-11-16",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "NY Empire-State-Index des verarbeitenden Gewerbes",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/ny-empire-state-manufacturing-index"
+  },
+  {
+   "id": "td-287891",
+   "datum": "2026-11-16",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
+   "weitere": [
+    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
+    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
+    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "NASDAQ",
+    "SP500",
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
+  },
+  {
+   "id": "td-288314",
+   "datum": "2026-11-16",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
+  },
+  {
+   "id": "td-316483",
+   "datum": "2026-11-17",
+   "zeit": "11:05",
+   "zeitart": "",
+   "titel": "ZEW Konjunkturerwartungen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment"
+  },
+  {
+   "id": "td-316475",
+   "datum": "2026-11-17",
+   "zeit": "11:05",
+   "zeitart": "",
+   "titel": "ZEW Konjunkturerwartungen",
+   "weitere": [
+    "ZEW Konjunktursituation"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator"
+  },
+  {
+   "id": "td-270285",
+   "datum": "2026-11-17",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Einzelhandelsumsatz m/m",
+   "weitere": [
+    "Kern-Einzelhandelsumsatz (ohne Autos) m/m",
+    "Einzelhandel Kontrollgruppe m/m",
+    "Import Preisindex m/m",
+    "Export Preisindex m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm"
+  },
+  {
+   "id": "td-327514",
+   "datum": "2026-11-17",
+   "zeit": "15:10",
+   "zeitart": "",
+   "titel": "Fed Präsident Waller spricht",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
+  },
+  {
+   "id": "td-280470",
+   "datum": "2026-11-17",
+   "zeit": "15:15",
+   "zeitart": "",
+   "titel": "Fed, Industrieproduktion m/m",
+   "weitere": [
+    "Fed Industrieproduktion y/y"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm"
+  },
+  {
+   "id": "td-270249",
+   "datum": "2026-11-17",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Lagerbestände der Hersteller, Einzel- und Großhändler m/m",
+   "weitere": [
+    "Lagerbestände der Einzelhändler m/m",
+    "Lagerbestände der Einzelhändler exkl. Autos m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm"
+  },
+  {
+   "id": "td-327523",
+   "datum": "2026-11-17",
+   "zeit": "19:30",
+   "zeitart": "",
+   "titel": "ECB Vorstandsmitglied Lane spricht",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech"
+  },
+  {
+   "id": "td-324092",
+   "datum": "2026-11-18",
+   "zeit": "10:00",
+   "zeitart": "",
+   "titel": "EZB, Finanzstabilitätsbericht",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-financial-stability-review"
+  },
+  {
+   "id": "td-323841",
+   "datum": "2026-11-18",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "CPI y/y",
+   "weitere": [
+    "CPI m/m",
+    "Kern CPI y/y",
+    "Kern VPI"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
+  },
+  {
+   "id": "td-270201",
+   "datum": "2026-11-18",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Baubeginne",
+   "weitere": [
+    "Baugenehmigungen",
+    "Baubeginne m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/housing-starts"
+  },
+  {
+   "id": "td-327524",
+   "datum": "2026-11-18",
+   "zeit": "15:25",
+   "zeitart": "",
+   "titel": "EZB Präsident Lagarde spricht",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
+  },
+  {
+   "id": "td-287310",
+   "datum": "2026-11-18",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Schwebende Hausverkäufe m/m",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm"
+  },
+  {
+   "id": "td-319912",
+   "datum": "2026-11-18",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+  },
+  {
+   "id": "td-314170",
+   "datum": "2026-11-18",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Auktion für 20-Jahres-Anleihen",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/20-year-bond-auction"
+  },
+  {
+   "id": "td-327519",
+   "datum": "2026-11-18",
+   "zeit": "19:35",
+   "zeitart": "",
+   "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
+  },
+  {
+   "id": "td-237378",
+   "datum": "2026-11-18",
+   "zeit": "20:00",
+   "zeitart": "",
+   "titel": "FOMC Protokoll",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes"
+  },
+  {
+   "id": "td-276711",
+   "datum": "2026-11-18",
+   "zeit": "22:00",
+   "zeitart": "",
+   "titel": "TIC Langfristige Nettotransaktionen",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions"
+  },
+  {
+   "id": "td-327527",
+   "datum": "2026-11-19",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "EZB Direktoriumsmitglied Elderson spricht",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-elderson-speech"
+  },
+  {
+   "id": "td-287217",
+   "datum": "2026-11-19",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Philadelphia Fed Index der Unternehmer",
+   "weitere": [
+    "Erstanträge auf Arbeitslosenhilfe",
+    "Philadelphia Fed, Beschäftigung",
+    "Folgeanträge auf Arbeitslosenhilfe"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index"
+  },
+  {
+   "id": "td-327525",
+   "datum": "2026-11-19",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "EZB Präsident Lagarde spricht",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
+  },
+  {
+   "id": "td-327517",
+   "datum": "2026-11-19",
+   "zeit": "15:25",
+   "zeitart": "",
+   "titel": "Fed Gouverneur Jefferson spricht",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-jefferson-speech"
+  },
+  {
+   "id": "td-284697",
+   "datum": "2026-11-19",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "CB wirtschaftlicher Frühindikator m/m",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index"
+  },
+  {
+   "id": "td-314168",
+   "datum": "2026-11-19",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "10-jährige TIPS Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-tips-auction"
+  },
+  {
+   "id": "td-327520",
+   "datum": "2026-11-19",
+   "zeit": "20:15",
+   "zeitart": "",
+   "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
+  },
+  {
+   "id": "td-319666",
+   "datum": "2026-11-20",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "PPI m/m",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm"
+  },
+  {
+   "id": "td-327526",
+   "datum": "2026-11-20",
+   "zeit": "09:30",
+   "zeitart": "",
+   "titel": "EZB Präsident Lagarde spricht",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
+  },
+  {
+   "id": "td-327515",
+   "datum": "2026-11-20",
+   "zeit": "14:25",
+   "zeitart": "",
+   "titel": "Fed Präsident Waller spricht",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
+  },
+  {
+   "id": "td-268718",
+   "datum": "2026-11-20",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Michigan, Konsumklima",
+   "weitere": [
+    "Michigan, Konsumentenerwartungen",
+    "Michigan, Inflationserwartungen",
+    "Michigan, 5-jährige Inflationserwartungen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
+  },
+  {
+   "id": "td-327516",
+   "datum": "2026-11-20",
+   "zeit": "18:15",
+   "zeitart": "",
+   "titel": "Fed Gouverneur Cook spricht",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-cook-speech"
+  },
+  {
+   "id": "td-322101",
+   "datum": "2026-11-20",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+  },
+  {
+   "id": "td-287892",
+   "datum": "2026-11-20",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
+   "weitere": [
+    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
+    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
+    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "NASDAQ",
+    "SP500",
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
+  },
+  {
+   "id": "td-288315",
+   "datum": "2026-11-20",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
+  },
+  {
+   "id": "td-326343",
+   "datum": "2026-11-23",
+   "zeit": "09:30",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Hersteller",
+   "weitere": [
+    "S&P Global PMI der Dienstleister"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi"
+  },
+  {
+   "id": "td-326389",
+   "datum": "2026-11-23",
+   "zeit": "10:00",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Hersteller",
+   "weitere": [
+    "S&P Global PMI der Dienstleister",
+    "S&P Global zusammengesetzter Einkaufsmanagerindex (PMI)"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi"
+  },
+  {
+   "id": "td-314149",
+   "datum": "2026-11-23",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "2-jährige Schatzanweisung Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction"
+  },
+  {
+   "id": "td-312995",
+   "datum": "2026-11-24",
+   "zeit": "10:30",
+   "zeitart": "",
+   "titel": "Ifo Konjunkturperspektiven",
+   "weitere": [
+    "Ifo aktuelles Geschäftsklima",
+    "Ifo Geschäftsklima"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations"
+  },
+  {
+   "id": "td-321690",
+   "datum": "2026-11-24",
+   "zeit": "15:00",
+   "zeitart": "",
+   "titel": "S&P/CS Home Preisindex Composite-20 y/y",
+   "weitere": [
+    "S&P/CS Hauspreis-Index, Composite-20 n.s.a. m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy"
+  },
+  {
+   "id": "td-279672",
+   "datum": "2026-11-24",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "CB Verbrauchervertrauensindex",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index"
+  },
+  {
+   "id": "td-314155",
+   "datum": "2026-11-24",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "5-jährige Schatzanweisung Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-note-auction"
+  },
+  {
+   "id": "td-319646",
+   "datum": "2026-11-25",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "Bruttoinlandsprodukt q/q",
+   "weitere": [
+    "Bruttoinlandsprodukt y/y"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/gdp-qq"
+  },
+  {
+   "id": "td-286270",
+   "datum": "2026-11-25",
+   "zeit": "09:00",
+   "zeitart": "",
+   "titel": "ECB, Nicht-geldpolitische Sitzung",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-non-monetary-policy-meeting"
+  },
+  {
+   "id": "td-280410",
+   "datum": "2026-11-25",
+   "zeit": "11:30",
+   "zeitart": "vorläufig",
+   "titel": "Auktion 10-jähriger Schuldverschreibungen",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/10-year-bond-auction"
+  },
+  {
+   "id": "td-282562",
+   "datum": "2026-11-25",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Kern PCE Preisindex m/m",
+   "weitere": [
+    "Kern PCE Preisindex y/y",
+    "Bruttoinlandsprodukt q/q",
+    "BIP Umsatz q/q",
+    "Auftragseingänge für langlebige Güter m/m",
+    "Erstanträge auf Arbeitslosenhilfe",
+    "PCE Preisindex m/m",
+    "PCE Preisindex y/y",
+    "Privater Konsum m/m",
+    "Reale PCE q/q",
+    "Kern, Auftragseingänge langlebiger Güter m/m",
+    "Folgeanträge auf Arbeitslosenhilfe"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm"
+  },
+  {
+   "id": "td-270261",
+   "datum": "2026-11-25",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Verkäufe von Neubauten",
+   "weitere": [
+    "Verkäufe von Neubauten m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales"
+  },
+  {
+   "id": "td-320701",
+   "datum": "2026-11-25",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+  },
+  {
+   "id": "td-323203",
+   "datum": "2026-11-25",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen",
+    "7-jährige Schatzanweisung Auktion"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+  },
+  {
+   "id": "td-280293",
+   "datum": "2026-11-25",
+   "zeit": "20:00",
+   "zeitart": "",
+   "titel": "Fed Beige Book",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-beige-book"
+  },
+  {
+   "id": "td-325107",
+   "datum": "2026-11-26",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "EU Gipfeltreffen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
+  },
+  {
+   "id": "td-308954",
+   "datum": "2026-11-26",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "GfK Konsumentenklima",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/gfk-consumer-climate"
+  },
+  {
+   "id": "td-278384",
+   "datum": "2026-11-26",
+   "zeit": "10:00",
+   "zeitart": "",
+   "titel": "EZB Kredite an private Haushalte y/y",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy"
+  },
+  {
+   "id": "td-327262",
+   "datum": "2026-11-26",
+   "zeit": "13:30",
+   "zeitart": "",
+   "titel": "ECB, Geldpolitische Sitzung",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-meeting-accounts"
+  },
+  {
+   "id": "td-325108",
+   "datum": "2026-11-27",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "EU Gipfeltreffen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
+  },
+  {
+   "id": "td-229138",
+   "datum": "2026-11-27",
+   "zeit": "09:55",
+   "zeitart": "",
+   "titel": "Änderung der Arbeitslosigkeit",
+   "weitere": [
+    "Arbeitslosenrate",
+    "Arbeitslosenzahl"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/unemployment-change"
+  },
+  {
+   "id": "td-283361",
+   "datum": "2026-11-27",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Verbraucherpreiserwartung",
+   "weitere": [
+    "Indikator der wirtschaftlichen Einschätzung"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-expectations"
+  },
+  {
+   "id": "td-270393",
+   "datum": "2026-11-27",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Warenhandelsbilanz",
+   "weitere": [
+    "Lagerbestände der Einzelhändler m/m",
+    "Lagerbestände der Einzelhändler exkl. Autos m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance"
+  },
+  {
+   "id": "td-319674",
+   "datum": "2026-11-30",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "Einzelhandelsumsatz m/m",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/retail-sales-mm"
+  },
+  {
+   "id": "td-319691",
+   "datum": "2026-11-30",
+   "zeit": "14:00",
+   "zeitart": "",
+   "titel": "CPI m/m",
+   "weitere": [
+    "CPI y/y"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm"
+  },
+  {
+   "id": "td-321905",
+   "datum": "2026-11-30",
+   "zeit": "15:45",
+   "zeitart": "",
+   "titel": "MNI Chicago, Geschäftsklima",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi"
+  },
+  {
+   "id": "td-287893",
+   "datum": "2026-11-30",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
+   "weitere": [
+    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
+    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
+    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "NASDAQ",
+    "SP500",
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
+  },
+  {
+   "id": "td-288316",
+   "datum": "2026-11-30",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
+  },
+  {
+   "id": "td-326344",
+   "datum": "2026-12-01",
+   "zeit": "09:55",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Hersteller",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-manufacturing-pmi"
+  },
+  {
+   "id": "td-326390",
+   "datum": "2026-12-01",
+   "zeit": "10:00",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Hersteller",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-manufacturing-pmi"
+  },
+  {
+   "id": "td-325568",
+   "datum": "2026-12-01",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "CPI y/y",
+   "weitere": [
+    "CPI m/m",
+    "Kern CPI y/y",
+    "Kern VPI"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
+  },
+  {
+   "id": "td-326384",
+   "datum": "2026-12-01",
+   "zeit": "15:45",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Hersteller",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-manufacturing-pmi"
+  },
+  {
+   "id": "td-289572",
+   "datum": "2026-12-01",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "JOLTS Stellenangebote",
+   "weitere": [
+    "ISM Einkaufsmanagerindex Hersteller PMI",
+    "ISM, bezahlte Herstellerpreise",
+    "Bauinvestitionen m/m",
+    "ISM Verarbeitendes Gewerbe, Beschäftigung"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/jolts-job-openings"
+  },
+  {
+   "id": "td-325571",
+   "datum": "2026-12-02",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Arbeitslosenrate",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/unemployment-rate"
+  },
+  {
+   "id": "td-274880",
+   "datum": "2026-12-02",
+   "zeit": "14:15",
+   "zeitart": "",
+   "titel": "ADP Änderung der außerlandwirtschaftliche Beschäftigung",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change"
+  },
+  {
+   "id": "td-321726",
+   "datum": "2026-12-02",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+  },
+  {
+   "id": "td-326346",
+   "datum": "2026-12-03",
+   "zeit": "09:55",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Dienstleister",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/markit-services-pmi"
+  },
+  {
+   "id": "td-326392",
+   "datum": "2026-12-03",
+   "zeit": "10:00",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Dienstleister",
+   "weitere": [
+    "S&P Global zusammengesetzter Einkaufsmanagerindex (PMI)"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-services-pmi"
+  },
+  {
+   "id": "td-326386",
+   "datum": "2026-12-03",
+   "zeit": "15:45",
+   "zeitart": "",
+   "titel": "S&P Global PMI der Dienstleister",
+   "weitere": [
+    "S&P Global zusammengesetzter Einkaufsmanagerindex (PMI)"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/markit-services-pmi"
+  },
+  {
+   "id": "td-237166",
+   "datum": "2026-12-03",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "ISM, Dienstleistungen PMI",
+   "weitere": [
+    "ISM Nicht-verarbeitendes Gewerbe, bezahlte Preise",
+    "Auftragseingänge der Hersteller m/m",
+    "ISM Nicht-verarbeitendes Gewerbe, Beschäftigung"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/ism-non-manufacturing-pmi"
+  },
+  {
+   "id": "td-326396",
+   "datum": "2026-12-04",
+   "zeit": "09:30",
+   "zeitart": "",
+   "titel": "S&P Global PMI des Baugewerbes",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/markit-construction-pmi"
+  },
+  {
+   "id": "td-277614",
+   "datum": "2026-12-04",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Arbeitslosenrate",
+   "weitere": [
+    "Beschäftigung außerhalb der Landwirtschaft",
+    "Durchschnittliche Stundenlöhne m/m",
+    "Erwerbsquote",
+    "Durchschnittlicher Wochenverdienst y/y",
+    "U6 Arbeitslosenrate"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/unemployment-rate"
+  },
+  {
+   "id": "td-268719",
+   "datum": "2026-12-04",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Michigan, Konsumklima",
+   "weitere": [
+    "Michigan, Konsumentenerwartungen",
+    "Michigan, Inflationserwartungen",
+    "Michigan, 5-jährige Inflationserwartungen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
+  },
+  {
+   "id": "td-323836",
+   "datum": "2026-12-04",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+  },
+  {
+   "id": "td-287894",
+   "datum": "2026-12-04",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
+   "weitere": [
+    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
+    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
+    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "NASDAQ",
+    "SP500",
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
+  },
+  {
+   "id": "td-288317",
+   "datum": "2026-12-04",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
+  },
+  {
+   "id": "td-319679",
+   "datum": "2026-12-07",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "Auftragseingänge der Hersteller m/m",
+   "weitere": [
+    "Auftragseingänge y/y"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/factory-orders-mm"
+  },
+  {
+   "id": "td-325569",
+   "datum": "2026-12-07",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Bruttoinlandsprodukt q/q",
+   "weitere": [
+    "Bruttoinlandsprodukt y/y",
+    "Beschäftigungsniveau"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/gross-domestic-product-qq"
+  },
+  {
+   "id": "td-314153",
+   "datum": "2026-12-07",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "3-jährige Schatzanweisung Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/3-year-note-auction"
+  },
+  {
+   "id": "td-280495",
+   "datum": "2026-12-07",
+   "zeit": "21:00",
+   "zeitart": "",
+   "titel": "Fed, Verbraucherkredite",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-credit-mm"
+  },
+  {
+   "id": "td-319651",
+   "datum": "2026-12-08",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "Industrieproduktion m/m",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/industrial-production-mm"
+  },
+  {
+   "id": "td-270166",
+   "datum": "2026-12-08",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Handelsbilanz",
+   "weitere": [
+    "Exporte",
+    "Importe",
+    "Außerlandwirtschaftliche Produktivität q/q",
+    "Lohnstückkosten q/q"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/trade-balance"
+  },
+  {
+   "id": "td-248271",
+   "datum": "2026-12-08",
+   "zeit": "18:00",
+   "zeitart": "",
+   "titel": "EIA, Kurzfristiger Energie-Ausblick",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-short-term-energy-outlook"
+  },
+  {
+   "id": "td-314162",
+   "datum": "2026-12-08",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "10-jährige Schatzanweisung Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-note-auction"
+  },
+  {
+   "id": "td-319642",
+   "datum": "2026-12-09",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "Handelsbilanz",
+   "weitere": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/trade-balance"
+  },
+  {
+   "id": "td-287289",
+   "datum": "2026-12-09",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Tatsächliche Hausverkäufe",
+   "weitere": [
+    "Tatsächliche Hausverkäufe m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/existing-home-sales"
+  },
+  {
+   "id": "td-322993",
+   "datum": "2026-12-09",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+  },
+  {
+   "id": "td-237387",
+   "datum": "2026-12-09",
+   "zeit": "20:00",
+   "zeitart": "",
+   "titel": "Fed Zinsentscheid",
+   "weitere": [
+    "FOMC-Kommuniqué",
+    "FOMC wirtschaftlicher Ausblick"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-interest-rate-decision"
+  },
+  {
+   "id": "td-237395",
+   "datum": "2026-12-09",
+   "zeit": "20:30",
+   "zeitart": "",
+   "titel": "FOMC Pressekonferenz",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-press-conference"
+  },
+  {
+   "id": "td-319692",
+   "datum": "2026-12-10",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "CPI m/m",
+   "weitere": [
+    "CPI y/y"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm"
+  },
+  {
+   "id": "td-277494",
+   "datum": "2026-12-10",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "CPI m/m",
+   "weitere": [
+    "Kern-CPI m/m",
+    "CPI y/y",
+    "Kern-VPI n.s.b. m/m",
+    "CPI",
+    "Kern CPI y/y"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-price-index-mm"
+  },
+  {
+   "id": "td-293062",
+   "datum": "2026-12-10",
+   "zeit": "18:00",
+   "zeitart": "",
+   "titel": "WASDE Bericht",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/wasde-report"
+  },
+  {
+   "id": "td-314165",
+   "datum": "2026-12-10",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "30-jährige Schuldverschreibung Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/30-year-bond-auction"
+  },
+  {
+   "id": "td-272956",
+   "datum": "2026-12-10",
+   "zeit": "20:00",
+   "zeitart": "",
+   "titel": "Staatshaushalt",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/federal-budget-balance"
+  },
+  {
+   "id": "td-325103",
+   "datum": "2026-12-11",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "Tagung der Eurogruppe",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eurogroup-meeting"
+  },
+  {
+   "id": "td-279877",
+   "datum": "2026-12-11",
+   "zeit": "10:00",
+   "zeitart": "",
+   "titel": "IEA Monatsbericht des Ölmarktes",
+   "weitere": [],
+   "land": "Welt",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/worldwide/iea-monthly-oil-market-report"
+  },
+  {
+   "id": "td-324621",
+   "datum": "2026-12-11",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+  },
+  {
+   "id": "td-287895",
+   "datum": "2026-12-11",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
+   "weitere": [
+    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
+    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
+    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "NASDAQ",
+    "SP500",
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
+  },
+  {
+   "id": "td-288318",
+   "datum": "2026-12-11",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
+  },
+  {
+   "id": "td-327637",
+   "datum": "2026-12-15",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Industrieproduktion m/m",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm"
+  },
+  {
+   "id": "td-316484",
+   "datum": "2026-12-15",
+   "zeit": "11:05",
+   "zeitart": "",
+   "titel": "ZEW Konjunkturerwartungen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment"
+  },
+  {
+   "id": "td-316476",
+   "datum": "2026-12-15",
+   "zeit": "11:05",
+   "zeitart": "",
+   "titel": "ZEW Konjunkturerwartungen",
+   "weitere": [
+    "ZEW Konjunktursituation"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator"
+  },
+  {
+   "id": "td-277446",
+   "datum": "2026-12-15",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "PPI m/m",
+   "weitere": [
+    "Kern PPI m/m",
+    "NY Empire-State-Index des verarbeitenden Gewerbes"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/producer-price-index-mm"
+  },
+  {
+   "id": "td-276712",
+   "datum": "2026-12-15",
+   "zeit": "22:00",
+   "zeitart": "",
+   "titel": "TIC Langfristige Nettotransaktionen",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions"
+  },
+  {
+   "id": "td-327646",
+   "datum": "2026-12-16",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Handelsbilanz",
+   "weitere": [
+    "Handelsbilanz n.s.a."
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/trade-balance"
+  },
+  {
+   "id": "td-270286",
+   "datum": "2026-12-16",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Einzelhandelsumsatz m/m",
+   "weitere": [
+    "Kern-Einzelhandelsumsatz (ohne Autos) m/m",
+    "Einzelhandel Kontrollgruppe m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm"
+  },
+  {
+   "id": "td-280471",
+   "datum": "2026-12-16",
+   "zeit": "15:15",
+   "zeitart": "",
+   "titel": "Fed, Industrieproduktion m/m",
+   "weitere": [
+    "Fed Industrieproduktion y/y"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm"
+  },
+  {
+   "id": "td-270250",
+   "datum": "2026-12-16",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Lagerbestände der Hersteller, Einzel- und Großhändler m/m",
+   "weitere": [
+    "Lagerbestände der Einzelhändler m/m",
+    "Lagerbestände der Einzelhändler exkl. Autos m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm"
+  },
+  {
+   "id": "td-323638",
+   "datum": "2026-12-16",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+  },
+  {
+   "id": "td-325109",
+   "datum": "2026-12-17",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "EU Gipfeltreffen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
+  },
+  {
+   "id": "td-312996",
+   "datum": "2026-12-17",
+   "zeit": "10:30",
+   "zeitart": "",
+   "titel": "Ifo Konjunkturperspektiven",
+   "weitere": [
+    "Ifo aktuelles Geschäftsklima",
+    "Ifo Geschäftsklima"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ifo-business-expectations"
+  },
+  {
+   "id": "td-327643",
+   "datum": "2026-12-17",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "CPI y/y",
+   "weitere": [
+    "CPI m/m",
+    "Kern CPI y/y",
+    "Lohnkosten y/y",
+    "Kern VPI"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
+  },
+  {
+   "id": "td-204754",
+   "datum": "2026-12-17",
+   "zeit": "14:15",
+   "zeitart": "",
+   "titel": "ECB Einlagenzinsentscheid",
+   "weitere": [
+    "ECB Zinsentscheid",
+    "EZB Entscheid zur Spitzenrefinanzierungsfazilität",
+    "EZB, Geldpolitische Stellungnahme"
+   ],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-deposit-rate-decision"
+  },
+  {
+   "id": "td-287218",
+   "datum": "2026-12-17",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Philadelphia Fed Index der Unternehmer",
+   "weitere": [
+    "Baubeginne",
+    "Baugenehmigungen",
+    "Baubeginne m/m",
+    "Import Preisindex m/m",
+    "Export Preisindex m/m",
+    "Philadelphia Fed, Beschäftigung"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index"
+  },
+  {
+   "id": "td-204738",
+   "datum": "2026-12-17",
+   "zeit": "14:45",
+   "zeitart": "",
+   "titel": "ECB, Geldpolitische Pressekonferenz",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-monetary-policy-press-conference"
+  },
+  {
+   "id": "td-287311",
+   "datum": "2026-12-17",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Schwebende Hausverkäufe m/m",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm"
+  },
+  {
+   "id": "td-325110",
+   "datum": "2026-12-18",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "EU Gipfeltreffen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/eu-leaders-summit"
+  },
+  {
+   "id": "td-319667",
+   "datum": "2026-12-18",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "PPI m/m",
+   "weitere": [
+    "GfK Konsumentenklima"
+   ],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm"
+  },
+  {
+   "id": "td-287175",
+   "datum": "2026-12-18",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Leistungsbilanz",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/current-account"
+  },
+  {
+   "id": "td-284698",
+   "datum": "2026-12-18",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "CB wirtschaftlicher Frühindikator m/m",
+   "weitere": [
+    "Michigan, Konsumklima",
+    "Michigan, Konsumentenerwartungen",
+    "Michigan, Inflationserwartungen",
+    "Michigan, 5-jährige Inflationserwartungen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index"
+  },
+  {
+   "id": "td-325551",
+   "datum": "2026-12-18",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+  },
+  {
+   "id": "td-287896",
+   "datum": "2026-12-18",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
+   "weitere": [
+    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
+    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
+    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "NASDAQ",
+    "SP500",
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
+  },
+  {
+   "id": "td-288319",
+   "datum": "2026-12-18",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
+  },
+  {
+   "id": "td-312899",
+   "datum": "2026-12-22",
+   "zeit": "14:15",
+   "zeitart": "",
+   "titel": "ADP Änderung der außerlandwirtschaftliche Beschäftigung",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/adp-nonfarm-employment-change"
+  },
+  {
+   "id": "td-279673",
+   "datum": "2026-12-22",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "CB Verbrauchervertrauensindex",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/consumer-confidence-index"
+  },
+  {
+   "id": "td-314167",
+   "datum": "2026-12-22",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "5-jährige TIPS-Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/5-year-tips-auction"
+  },
+  {
+   "id": "td-282563",
+   "datum": "2026-12-23",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Kern PCE Preisindex m/m",
+   "weitere": [
+    "Kern PCE Preisindex y/y",
+    "Bruttoinlandsprodukt q/q",
+    "BIP Umsatz q/q",
+    "Auftragseingänge für langlebige Güter m/m",
+    "PCE Preisindex m/m",
+    "PCE Preisindex y/y",
+    "Privater Konsum m/m",
+    "Reale PCE q/q",
+    "Kern, Auftragseingänge langlebiger Güter m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/core-pce-price-index-mm"
+  },
+  {
+   "id": "td-270262",
+   "datum": "2026-12-23",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Verkäufe von Neubauten",
+   "weitere": [
+    "Verkäufe von Neubauten m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales"
+  },
+  {
+   "id": "td-324414",
+   "datum": "2026-12-23",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+  },
+  {
+   "id": "td-326808",
+   "datum": "2026-12-23",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen",
+    "Auktion für 20-Jahres-Anleihen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+  },
+  {
+   "id": "td-270394",
+   "datum": "2026-12-28",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Warenhandelsbilanz",
+   "weitere": [
+    "Lagerbestände der Einzelhändler m/m",
+    "Lagerbestände der Einzelhändler exkl. Autos m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/goods-trade-balance"
+  },
+  {
+   "id": "td-314150",
+   "datum": "2026-12-28",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "2-jährige Schatzanweisung Auktion",
+   "weitere": [
+    "5-jährige Schatzanweisung Auktion"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/2-year-note-auction"
+  },
+  {
+   "id": "td-287897",
+   "datum": "2026-12-28",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
+   "weitere": [
+    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
+    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
+    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "NASDAQ",
+    "SP500",
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
+  },
+  {
+   "id": "td-288320",
+   "datum": "2026-12-28",
+   "zeit": "21:30",
+   "zeitart": "",
+   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
+  },
+  {
+   "id": "td-325365",
+   "datum": "2026-12-29",
+   "zeit": "15:00",
+   "zeitart": "",
+   "titel": "S&P/CS Home Preisindex Composite-20 y/y",
+   "weitere": [
+    "S&P/CS Hauspreis-Index, Composite-20 n.s.a. m/m"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/sp-case-shiller-home-price-index-composite-20-yy"
+  },
+  {
+   "id": "td-314159",
+   "datum": "2026-12-29",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "7-jährige Schatzanweisung Auktion",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/7-year-note-auction"
+  },
+  {
+   "id": "td-278385",
+   "datum": "2026-12-30",
+   "zeit": "10:00",
+   "zeitart": "",
+   "titel": "EZB Kredite an private Haushalte y/y",
+   "weitere": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-households-loans-yy"
+  },
+  {
+   "id": "td-325944",
+   "datum": "2026-12-30",
+   "zeit": "15:45",
+   "zeitart": "",
+   "titel": "MNI Chicago, Geschäftsklima",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/chicago-pmi"
+  },
+  {
+   "id": "td-325368",
+   "datum": "2026-12-30",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+  },
+  {
+   "id": "td-327521",
+   "datum": "2026-12-30",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
+   ],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+  },
+  {
+   "id": "td-237379",
+   "datum": "2026-12-30",
+   "zeit": "20:00",
+   "zeitart": "",
+   "titel": "FOMC Protokoll",
+   "weitere": [],
+   "land": "USA",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes"
+  }
+ ]
+}
