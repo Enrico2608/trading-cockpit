@@ -1,0 +1,269 @@
+{
+ "cfg": {
+  "status": 404,
+  "acao": null,
+  "versuch": 1,
+  "text": ""
+ },
+ "sym": {
+  "status": 404,
+  "acao": null,
+  "versuch": 1,
+  "text": ""
+ },
+ "hist_btc": {
+  "status": 404,
+  "acao": null,
+  "versuch": 1,
+  "text": ""
+ },
+ "hist_xau_raw": {
+  "status": 404,
+  "acao": null,
+  "versuch": 1,
+  "text": ""
+ },
+ "hist_xau_D": {
+  "status": 404,
+  "acao": null,
+  "versuch": 1,
+  "text": ""
+ },
+ "hist_xau_alt": {
+  "status": 404,
+  "acao": null,
+  "versuch": 1,
+  "text": ""
+ },
+ "bench_feeds": {
+  "status": 200,
+  "bytes": 1482,
+  "acao": "https://enrico2608.github.io",
+  "versuch": 1
+ },
+ "bench_feeds_text": "[{\"id\":\"44465e17d2e9d390e70c999d5a11fda4f092847fcd2e3e5aa089d96c98a30e67\",\"market_hours\":{\"is_open\":true,\"next_open\":null,\"next_close\":null},\"attributes\":{\"asset_type\":\"Crypto\",\"description\":\"TETHER GOLD / US DOLLAR\",\"display_symbol\":\"XAUTUSD\",\"quote_currency\":\"USD\",\"schedule\":\"America/New_York;O,O,O,O,O,O,O;\",\"symbol\":\"Crypto.XAUT/USD\",\"min_channel\":\"fixed_rate@200ms\"}},{\"id\":\"765d2ba906dbc32ca17cc11f5310a89e9ee1f6420508c63861f2f8ba4ee34bb2\",\"market_hours\":{\"is_open\":true,\"next_open\":1795129200,\"next_close\":1795125600},\"attributes\":{\"asset_type\":\"Metal\",\"description\":\"GOLD / US DOLLAR\",\"display_symbol\":\"XAUUSD\",\"quote_currency\":\"USD\",\"schedule\":\"America/New_York;0000-1700&1800-2400,0000-1700&1800-2400,0000-1700&1800-2400,0000-1700&1800-2400,0000-1700,C,1800-2400;0907/0000-1430&1800-2400,1126/0000-1430&1800-2400,1127/0000-1445,1224/0000-1345,1225/C,1231/0000-1700,0101/C,0118/0000-1430&18",
+ "hermes_latest": {
+  "status": 401,
+  "acao": null,
+  "versuch": 1,
+  "text": "unauthorized"
+ },
+ "binance_xau": {
+  "status": 451,
+  "acao": null,
+  "versuch": 1,
+  "text": "{\n  \"code\": 0,\n  \"msg\": \"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received t"
+ },
+ "bybit_xau": {
+  "status": 403,
+  "acao": null,
+  "versuch": 1,
+  "text": "{\n    error:The Amazon CloudFront distribution is configured to block access from your country\n}"
+ },
+ "sse": "<HTTPError 401: 'Unauthorized'>",
+ "duka_XAUUSD_2015_00_BID_candles_hour_1.bi5": {
+  "status": 200,
+  "bytes": 7206,
+  "acao": "https://freeserv.dukascopy.com",
+  "versuch": 1,
+  "n": 744
+ },
+ "duka_XAUUSD_2015_00_BID_candles_hour_1.bi5_probe": {
+  "erste_mit_volumen": [
+   [
+    82800,
+    1183949,
+    1186664,
+    1183230,
+    1187403,
+    0.5569700002670288
+   ],
+   [
+    86400,
+    1186684,
+    1187412,
+    1186069,
+    1188282,
+    0.7304999828338623
+   ]
+  ],
+  "letzte": [
+   [
+    2674800,
+    1283351,
+    1283351,
+    1283351,
+    1283351,
+    0.0
+   ]
+  ],
+  "n_volumen": 492
+ },
+ "duka_XAUUSD_2026_09_BID_candles_hour_1.bi5": {
+  "fehler": "URLError(ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ "duka_XAUUSD_2026_10_BID_candles_hour_1.bi5": {
+  "status": 404,
+  "acao": null,
+  "versuch": 1,
+  "text": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n"
+ },
+ "duka_XAUUSD_2026_10_18_BID_candles_min_1.bi5": {
+  "status": 200,
+  "bytes": 17457,
+  "acao": "https://freeserv.dukascopy.com",
+  "versuch": 1,
+  "n": 1440
+ },
+ "duka_XAUUSD_2026_10_18_BID_candles_min_1.bi5_probe": {
+  "erste_mit_volumen": [
+   [
+    0,
+    3848620,
+    3846935,
+    3846575,
+    3849107,
+    0.058150000870227814
+   ],
+   [
+    60,
+    3846935,
+    3844145,
+    3843768,
+    3847300,
+    0.0818599984049797
+   ]
+  ],
+  "letzte": [
+   [
+    86340,
+    3739998,
+    3740030,
+    3739295,
+    3740510,
+    0.03807000070810318
+   ]
+  ],
+  "n_volumen": 1380
+ },
+ "duka_XAGUSD_2015_00_BID_candles_hour_1.bi5": {
+  "status": 200,
+  "bytes": 6008,
+  "acao": "https://freeserv.dukascopy.com",
+  "versuch": 1,
+  "n": 744
+ },
+ "duka_XAGUSD_2015_00_BID_candles_hour_1.bi5_probe": {
+  "erste_mit_volumen": [
+   [
+    82800,
+    15678,
+    15805,
+    15654,
+    15898,
+    25.21139907836914
+   ],
+   [
+    86400,
+    15805,
+    15842,
+    15774,
+    15855,
+    15.479499816894531
+   ]
+  ],
+  "letzte": [
+   [
+    2674800,
+    17224,
+    17224,
+    17224,
+    17224,
+    0.0
+   ]
+  ],
+  "n_volumen": 484
+ },
+ "duka_LIGHTCMDUSD_2015_00_BID_candles_hour_1.bi5": {
+  "status": 200,
+  "bytes": 6596,
+  "acao": "https://freeserv.dukascopy.com",
+  "versuch": 1,
+  "n": 744
+ },
+ "duka_LIGHTCMDUSD_2015_00_BID_candles_hour_1.bi5_probe": {
+  "erste_mit_volumen": [
+   [
+    86400,
+    54546,
+    54230,
+    54144,
+    54700,
+    1.8335000276565552
+   ],
+   [
+    90000,
+    54220,
+    54037,
+    54036,
+    54429,
+    1.6225999593734741
+   ]
+  ],
+  "letzte": [
+   [
+    2674800,
+    47688,
+    47688,
+    47688,
+    47688,
+    0.0
+   ]
+  ],
+  "n_volumen": 489
+ },
+ "duka_USATECHIDXUSD_2015_00_BID_candles_hour_1.bi5": {
+  "fehler": "URLError(TimeoutError('timed out'))"
+ },
+ "duka_BTCUSD_2017_04_BID_candles_hour_1.bi5": {
+  "fehler": "URLError(TimeoutError('timed out'))"
+ },
+ "duka_XAUUSD_2015_BID_candles_day_1.bi5": {
+  "status": 200,
+  "bytes": 5367,
+  "acao": "https://freeserv.dukascopy.com",
+  "versuch": 1,
+  "n": 365
+ },
+ "duka_XAUUSD_2015_BID_candles_day_1.bi5_probe": {
+  "erste_mit_volumen": [
+   [
+    0,
+    1183949,
+    1186664,
+    1183230,
+    1187403,
+    0.5569700002670288
+   ],
+   [
+    86400,
+    1186684,
+    1188281,
+    1167430,
+    1194998,
+    42.716461181640625
+   ]
+  ],
+  "letzte": [
+   [
+    31449600,
+    1061799,
+    1060881,
+    1058168,
+    1063488,
+    60.094581604003906
+   ]
+  ],
+  "n_volumen": 311
+ }
+}
