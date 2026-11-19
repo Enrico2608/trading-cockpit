@@ -1,0 +1,19 @@
+{
+ "stand": "2026-11-19T20:27:55+00:00",
+ "quelle_url": {
+  "Dukascopy": "https://www.dukascopy.com/swiss/english/marketwatch/historical/",
+  "Coinbase": "https://www.coinbase.com/"
+ },
+ "maerkte": {
+  "GOLD": {
+   "quelle": "Dukascopy XAU/USD (Spot, Bid)",
+   "nk": 2,
+   "von": 1420153200,
+   "bis": 1483131600,
+   "dateien": [
+    "2015",
+    "2016"
+   ]
+  }
+ }
+}
