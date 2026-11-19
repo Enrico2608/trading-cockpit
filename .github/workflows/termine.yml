@@ -10,7 +10,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - run: mkdir -p dump && python3 werkzeuge/pruefen.py
+      - run: mkdir -p dump && python3 werkzeuge/kurse.py dump/kurse --nur GOLD,SILBER,NASDAQ,BTC --bis-jahr 2015 --minuten 12
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
