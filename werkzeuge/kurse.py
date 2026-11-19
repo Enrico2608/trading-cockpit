@@ -47,27 +47,38 @@ class Stopp(Exception):
 ENDE = [None]
 
 
-def hole(url, versuche=7):
-    if ENDE[0] and time.time() > ENDE[0]:
-        raise Stopp()
-    pause = 4
+ABSTAND = {'datafeed.dukascopy.com': float(os.environ.get('KURSE_ABSTAND', '8')), 'api.exchange.coinbase.com': 0.4}
+ZULETZT = {}
+STATISTIK = {'ok': 0, 'wiederholt': 0}
+
+
+def hole(url, versuche=6):
+    """Höflich abrufen: je Server fester Abstand zwischen Abrufen, bei 429/503/Abbruch lange Pausen."""
+    server = url.split('/')[2]
+    pause = 45
     for v in range(versuche):
+        if ENDE[0] and time.time() > ENDE[0]:
+            raise Stopp()
+        warte = ABSTAND.get(server, 1) - (time.time() - ZULETZT.get(server, 0))
+        if warte > 0:
+            time.sleep(warte)
+        ZULETZT[server] = time.time()
         try:
             req = urllib.request.Request(url, headers={'User-Agent': UA})
             with urllib.request.urlopen(req, timeout=45) as r:
                 daten = r.read()
-            time.sleep(1.1)
+            STATISTIK['ok'] += 1
             return daten
         except urllib.error.HTTPError as e:
             if e.code == 404:
-                time.sleep(0.6)
                 return None
             if e.code not in (429, 500, 502, 503, 504):
                 raise
         except (urllib.error.URLError, TimeoutError, ConnectionError, OSError):
             pass
+        STATISTIK['wiederholt'] += 1
         time.sleep(pause)
-        pause = min(pause * 2, 90)
+        pause = min(pause * 2, 300)
     raise RuntimeError('nicht erreichbar: ' + url)
 
 
@@ -299,6 +310,7 @@ def main():
             break
         except Exception as e:  # noqa: BLE001 – andere Märkte trotzdem
             print('%s: Fehler %r' % (key, e), flush=True)
+    print('Abrufe: %(ok)d ok, %(wiederholt)d Wiederholungen' % STATISTIK, flush=True)
     idx = index_schreiben(ziel)
     for key, m in idx['maerkte'].items():
         print('  %-7s %s bis %s, %d Dateien' % (key, datetime.datetime.fromtimestamp(m['von'], UTC).date(), datetime.datetime.fromtimestamp(m['bis'], UTC), len(m['dateien'])))

@@ -7,10 +7,10 @@ permissions:
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
-      - run: mkdir -p dump && python3 werkzeuge/kurse.py dump/kurse --nur GOLD,SILBER,NASDAQ,BTC --bis-jahr 2015 --minuten 12
+      - run: mkdir -p dump && KURSE_ABSTAND=8 python3 werkzeuge/kurse.py dump/kurse --nur GOLD --bis-jahr 2016 --minuten 30
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
