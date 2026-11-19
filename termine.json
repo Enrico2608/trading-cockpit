@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-17T06:38:56+01:00",
+ "stand": "2026-11-19T06:39:12+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -449,16 +449,17 @@
    "kalender": true
   },
   {
-   "id": "td-327524",
+   "id": "td-328622",
    "datum": "2026-11-18",
-   "zeit": "15:25",
+   "zeit": "15:15",
    "zeitart": "",
    "titel": "EZB Präsident Lagarde spricht",
    "weitere": [],
    "ff": [
     {
      "titel": "ECB President Lagarde Speaks",
-     "wichtig": "mittel"
+     "wichtig": "mittel",
+     "zeit": "15:25"
     }
    ],
    "land": "Eurozone",
