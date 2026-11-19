@@ -1,0 +1,72 @@
+# Kursarchiv für den Backtest und „Mein Chart“: Stundenkerzen ab 2015 (Dukascopy; Bitcoin von Coinbase) als
+# kurse/<MARKT>/… auf der Website (Branch gh-pages). Jeden Morgen kommt der Vortag dazu.
+# Der erste Lauf holt rund 140 Monatsdateien je Markt und braucht dafür einige Stunden; jeder Markt läuft als
+# eigener Job, speichert seinen Stand selbst und hört nach dem Zeitbudget sauber auf (der nächste Lauf macht weiter).
+# Von Hand starten: GitHub → Actions → „Kursarchiv aktualisieren“ → „Run workflow“.
+name: Kursarchiv aktualisieren
+on:
+  schedule:
+    - cron: '17 5 * * *'      # täglich 5:17 UTC = 6:17 Uhr (Winter) bzw. 7:17 Uhr (Sommer) in Deutschland
+  workflow_dispatch:
+    inputs:
+      minuten:
+        description: 'Zeitbudget je Markt in Minuten (höchstens 320)'
+        default: '300'
+      maerkte:
+        description: 'Nur diese Märkte (z. B. GOLD,NASDAQ) – leer = alle'
+        default: ''
+permissions:
+  contents: write
+concurrency:
+  group: kurse
+  cancel-in-progress: false
+jobs:
+  markt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        markt: [GOLD, NASDAQ, SP500, BTC, SILBER, DOW, USOIL]
+    env:
+      MARKT: ${{ matrix.markt }}
+      NUR: ${{ inputs.maerkte }}
+      MINUTEN: ${{ inputs.minuten || '300' }}
+      KURSE_ABSTAND: '8'
+    steps:
+      - name: Skript holen
+        uses: actions/checkout@v4
+        with:
+          path: quelle
+      - name: Vorhandenes Archiv holen
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+          sparse-checkout: kurse
+      - name: Fehlende Kerzen laden
+        run: |
+          if [ -n "$NUR" ] && ! echo ",$NUR," | grep -q ",$MARKT,"; then echo "übersprungen"; exit 0; fi
+          mkdir -p daten
+          if [ -d "site/kurse/$MARKT" ]; then cp -r "site/kurse/$MARKT" "daten/$MARKT"; fi
+          python3 quelle/werkzeuge/kurse.py daten --nur "$MARKT" --minuten "$(( MINUTEN > 320 ? 320 : MINUTEN ))"
+      - name: Speichern, wenn sich etwas geändert hat
+        working-directory: site
+        run: |
+          if [ ! -d "../daten/$MARKT" ]; then echo "Keine Daten."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # immer auf dem neuesten Stand der Website aufsetzen (andere Märkte und die Termine speichern parallel)
+          for i in 1 2 3 4 5 6 7 8; do
+            git fetch -q --depth=1 origin gh-pages
+            git reset -q --hard FETCH_HEAD
+            rm -rf "kurse/$MARKT"; mkdir -p kurse; cp -r "../daten/$MARKT" "kurse/$MARKT"
+            python3 ../quelle/werkzeuge/kurse.py kurse --nur-index
+            git add -A kurse
+            if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+            git commit -q -m "Kursarchiv: $MARKT"
+            if git push -q origin HEAD:gh-pages; then echo "Gespeichert."; exit 0; fi
+            sleep $(( RANDOM % 20 + 10 * i ))
+          done
+          exit 1
