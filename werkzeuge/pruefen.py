@@ -3,71 +3,69 @@ os.makedirs('dump', exist_ok=True)
 UA = 'trading-cockpit-kurse/1.0 (privates Cockpit; https://github.com/Enrico2608/trading-cockpit)'
 ORIGIN = 'https://enrico2608.github.io'
 bericht = {}
-def hole(url, roh=False):
-    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Origin': ORIGIN})
-    try:
-        with urllib.request.urlopen(req, timeout=40) as r:
-            body = r.read()
-            info = {'status': r.status, 'bytes': len(body), 'acao': r.headers.get('Access-Control-Allow-Origin'), 'typ': r.headers.get('Content-Type')}
-            return info, (body if roh else body.decode('utf-8', 'replace'))
-    except urllib.error.HTTPError as e:
-        return {'status': e.code, 'acao': e.headers.get('Access-Control-Allow-Origin')}, None
-    except Exception as e:
-        return {'fehler': repr(e)[:200]}, None
-# --- Pyth
-for q in ('XAU', 'XAG'):
-    info, b = hole('https://hermes.pyth.network/v2/price_feeds?query=%s&asset_type=metal' % q)
-    bericht['hermes_' + q] = info
-    if b:
-        try: bericht['hermes_' + q + '_feeds'] = [{'id': f['id'], 'attr': f.get('attributes')} for f in json.loads(b)][:6]
-        except Exception as e: bericht['hermes_' + q + '_feeds'] = repr(e)
-info, b = hole('https://hermes.pyth.network/v2/price_feeds?asset_type=commodities')
-bericht['hermes_comm'] = info
-if b:
-    try: bericht['hermes_comm_feeds'] = [{'id': f['id'], 'sym': f.get('attributes', {}).get('symbol'), 'desc': f.get('attributes', {}).get('description')} for f in json.loads(b)][:40]
-    except Exception as e: bericht['hermes_comm_feeds'] = repr(e)
+def hole(url, roh=False, versuche=1, pause=5):
+    for v in range(versuche):
+        req = urllib.request.Request(url, headers={'User-Agent': UA, 'Origin': ORIGIN})
+        try:
+            with urllib.request.urlopen(req, timeout=40) as r:
+                body = r.read()
+                info = {'status': r.status, 'bytes': len(body), 'acao': r.headers.get('Access-Control-Allow-Origin'), 'versuch': v + 1}
+                return info, (body if roh else body.decode('utf-8', 'replace'))
+        except urllib.error.HTTPError as e:
+            info = {'status': e.code, 'acao': e.headers.get('Access-Control-Allow-Origin'), 'versuch': v + 1, 'text': e.read()[:200].decode('utf-8', 'replace')}
+            if e.code in (429, 503) and v + 1 < versuche: time.sleep(pause * (v + 1)); continue
+            return info, None
+        except Exception as e:
+            return {'fehler': repr(e)[:200]}, None
 jetzt = int(time.time())
-for sym in ('Metal.XAU/USD', 'Metal.XAG/USD'):
-    for res in ('60', '240', '1D'):
-        url = 'https://benchmarks.pyth.network/v1/shims/tradingview/history?' + urllib.parse.urlencode({'symbol': sym, 'resolution': res, 'from': jetzt - 6 * 86400 if res != '1D' else jetzt - 40 * 86400, 'to': jetzt})
-        info, b = hole(url)
-        k = sym.split('.')[1].replace('/', '') + '_' + res
-        bericht['bench_' + k] = info
-        if b:
-            try:
-                d = json.loads(b)
-                t = d.get('t') or []
-                bericht['bench_' + k + '_daten'] = {'s': d.get('s'), 'n': len(t), 'erste': [datetime.datetime.utcfromtimestamp(x).isoformat() for x in t[:3]], 'letzte': [datetime.datetime.utcfromtimestamp(x).isoformat() for x in t[-3:]], 'c': (d.get('c') or [])[-3:]}
-            except Exception as e: bericht['bench_' + k + '_daten'] = repr(e) + b[:200]
-info, b = hole('https://benchmarks.pyth.network/v1/shims/tradingview/history?' + urllib.parse.urlencode({'symbol': 'Metal.XAU/USD', 'resolution': '1D', 'from': int(datetime.datetime(2015, 1, 1).timestamp()), 'to': int(datetime.datetime(2023, 1, 1).timestamp())}))
-bericht['bench_alt'] = info
-if b:
-    try: d = json.loads(b); bericht['bench_alt_daten'] = {'s': d.get('s'), 'n': len(d.get('t') or []), 'erste': datetime.datetime.utcfromtimestamp(d['t'][0]).isoformat() if d.get('t') else None}
-    except Exception as e: bericht['bench_alt_daten'] = repr(e) + b[:200]
-# --- Dukascopy
+B = 'https://benchmarks.pyth.network'
+for name, url in [
+    ('cfg', B + '/v1/shims/tradingview/config'),
+    ('sym', B + '/v1/shims/tradingview/symbols?symbol=Metal.XAU/USD'),
+    ('hist_btc', B + '/v1/shims/tradingview/history?symbol=Crypto.BTC/USD&resolution=60&from=%d&to=%d' % (jetzt - 86400, jetzt)),
+    ('hist_xau_raw', B + '/v1/shims/tradingview/history?symbol=Metal.XAU/USD&resolution=60&from=%d&to=%d' % (jetzt - 3 * 86400, jetzt)),
+    ('hist_xau_D', B + '/v1/shims/tradingview/history?symbol=Metal.XAU/USD&resolution=1D&from=%d&to=%d' % (jetzt - 30 * 86400, jetzt)),
+    ('hist_xau_alt', B + '/v1/shims/tradingview/history?symbol=Metal.XAU/USD&resolution=1D&from=%d&to=%d' % (1420070400, 1514764800)),
+    ('bench_feeds', B + '/v1/price_feeds/?query=XAU'),
+    ('hermes_latest', 'https://hermes.pyth.network/v2/updates/price/latest?ids[]=0x765d2ba906dbc32ca17cc11f5310a89e9ee1f6420508c63861f2f8ba4ee34bb2&ids[]=0xf2fb02c32b055c805e7238d628e5e9dadef274376114eb1f012337cabe93871e&parsed=true'),
+    ('binance_xau', 'https://fapi.binance.com/fapi/v1/klines?symbol=XAUUSDT&interval=1h&limit=3'),
+    ('bybit_xau', 'https://api.bybit.com/v5/market/kline?category=linear&symbol=XAUUSDT&interval=60&limit=3'),
+]:
+    info, b = hole(url)
+    bericht[name] = info
+    if b: bericht[name + '_text'] = b[:900]
+    time.sleep(0.5)
+# SSE kurz anzapfen
+try:
+    req = urllib.request.Request('https://hermes.pyth.network/v2/updates/price/stream?ids[]=0x765d2ba906dbc32ca17cc11f5310a89e9ee1f6420508c63861f2f8ba4ee34bb2&parsed=true&benchmarks_only=false', headers={'User-Agent': UA, 'Origin': ORIGIN, 'Accept': 'text/event-stream'})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        bericht['sse'] = {'status': r.status, 'acao': r.headers.get('Access-Control-Allow-Origin'), 'typ': r.headers.get('Content-Type')}
+        t0 = time.time(); stueck = b''
+        while time.time() - t0 < 4:
+            z = r.readline()
+            if not z: break
+            stueck += z
+        bericht['sse_text'] = stueck[:700].decode('utf-8', 'replace')
+except Exception as e:
+    bericht['sse'] = repr(e)[:200]
+# Dukascopy langsam mit Wiederholung
 def bi5(sym, pfad):
-    info, b = hole('https://datafeed.dukascopy.com/datafeed/%s/%s' % (sym, pfad), roh=True)
+    info, b = hole('https://datafeed.dukascopy.com/datafeed/%s/%s' % (sym, pfad), roh=True, versuche=4, pause=8)
     if not b: return info, None
     try:
-        roh = lzma.decompress(b)
+        roh = lzma.decompress(b) if b else b''
         rec = [struct.unpack('>IIIIIf', roh[i:i + 24]) for i in range(0, len(roh), 24)]
         return dict(info, n=len(rec)), rec
     except Exception as e:
         return dict(info, fehler=repr(e)[:200]), None
-for sym in ('XAUUSD', 'XAGUSD', 'LIGHTCMDUSD', 'USA500IDXUSD', 'USATECHIDXUSD', 'USA30IDXUSD', 'BTCUSD'):
-    for pfad in ('2015/00/BID_candles_hour_1.bi5', '2026/09/BID_candles_hour_1.bi5', '2026/10/BID_candles_hour_1.bi5', '2026/10/18/BID_candles_min_1.bi5'):
-        info, rec = bi5(sym, pfad)
-        key = 'duka_%s_%s' % (sym, pfad.replace('/', '_'))
-        bericht[key] = info
-        if rec:
-            nz = [r for r in rec if r[5] > 0]
-            bericht[key + '_probe'] = {'erste': rec[:2], 'erste_mit_volumen': nz[:2], 'n_volumen': len(nz)}
-        time.sleep(0.3)
-# --- Coinbase 1 Std 2015
-info, b = hole('https://api.exchange.coinbase.com/products/BTC-USD/candles?granularity=3600&start=2015-07-20T00:00:00Z&end=2015-07-31T00:00:00Z')
-bericht['coinbase_1h_2015'] = info
-if b:
-    try: d = json.loads(b); bericht['coinbase_1h_2015_daten'] = {'n': len(d), 'probe': d[:2]}
-    except Exception as e: bericht['coinbase_1h_2015_daten'] = repr(e) + b[:200]
+for sym, pfad in [('XAUUSD', '2015/00/BID_candles_hour_1.bi5'), ('XAUUSD', '2026/09/BID_candles_hour_1.bi5'), ('XAUUSD', '2026/10/BID_candles_hour_1.bi5'),
+                  ('XAUUSD', '2026/10/18/BID_candles_min_1.bi5'), ('XAGUSD', '2015/00/BID_candles_hour_1.bi5'), ('LIGHTCMDUSD', '2015/00/BID_candles_hour_1.bi5'),
+                  ('USATECHIDXUSD', '2015/00/BID_candles_hour_1.bi5'), ('BTCUSD', '2017/04/BID_candles_hour_1.bi5'), ('XAUUSD', '2015/BID_candles_day_1.bi5')]:
+    info, rec = bi5(sym, pfad)
+    key = 'duka_%s_%s' % (sym, pfad.replace('/', '_'))
+    bericht[key] = info
+    if rec:
+        nz = [r for r in rec if r[5] > 0]
+        bericht[key + '_probe'] = {'erste_mit_volumen': nz[:2], 'letzte': rec[-1:], 'n_volumen': len(nz)}
+    time.sleep(2)
 json.dump(bericht, open('dump/pruefen.json', 'w'), indent=1, default=str)
-print(json.dumps(bericht, indent=1, default=str)[:3000])
