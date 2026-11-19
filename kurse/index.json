@@ -1,10 +1,36 @@
 {
- "stand": "2026-11-19T20:35:16+00:00",
+ "stand": "2026-11-19T22:52:23+00:00",
  "quelle_url": {
   "Dukascopy": "https://www.dukascopy.com/swiss/english/marketwatch/historical/",
   "Coinbase": "https://www.coinbase.com/"
  },
  "maerkte": {
+  "GOLD": {
+   "quelle": "Dukascopy XAU/USD (Spot, Bid)",
+   "nk": 2,
+   "von": 1420153200,
+   "bis": 1727737200,
+   "dateien": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09"
+   ]
+  },
   "BTC": {
    "quelle": "Coinbase BTC-USD",
    "nk": 2,
