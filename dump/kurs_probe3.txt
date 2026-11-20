@@ -1,0 +1,12 @@
+08:33:56 HL (Orakel, Mark, Mitte): {"xyz:XYZ100": ["26328.0", "26346.0", "26347.5"], "xyz:GOLD": ["3587.2", "3589.5", "3590.35"], "xyz:SILVER": ["42.689", "42.712", "42.7195"], "xyz:CL": ["81.91", "81.907", "81.878"], "xyz:SP500": ["7153.1", "7158.1", "7158.75"]}
+   Swissquote Gold: [('SwissquoteCapitalMarkets', 'premium', 3588.286, 3588.944), ('SwissquoteCapitalMarkets', 'prime', 3588.296, 3588.934), ('SwissquoteCapitalMarkets', 'elite', 3588.363, 3588.867), ('AT', 'standard', 3588.27, 3588.96)]
+   Swissquote Silber: [('SwissquoteLtd', 'premium', 42.6805, 42.7215), ('SwissquoteLtd', 'prime', 42.6807, 42.7213)]
+08:34:07 HL (Orakel, Mark, Mitte): {"xyz:XYZ100": ["26328.0", "26346.0", "26348.5"], "xyz:GOLD": ["3589.3", "3591.6", "3591.75"], "xyz:SILVER": ["42.718", "42.74", "42.7465"], "xyz:CL": ["81.87", "81.867", "81.86"], "xyz:SP500": ["7153.6", "7158.6", "7158.75"]}
+   Swissquote Gold: [('SwissquoteLtd', 'premium', 3589.159, 3589.821), ('SwissquoteLtd', 'prime', 3589.173, 3589.807), ('SwissquoteLtd', 'elite', 3589.238, 3589.742), ('AT', 'standard', 3589.145, 3589.835)]
+   Swissquote Silber: [('SwissquoteCapitalMarkets', 'premium', 42.6995, 42.7405), ('SwissquoteCapitalMarkets', 'prime', 42.6997, 42.7403)]
+08:34:18 HL (Orakel, Mark, Mitte): {"xyz:XYZ100": ["26324.0", "26342.0", "26343.5"], "xyz:GOLD": ["3589.2", "3591.5", "3591.75"], "xyz:SILVER": ["42.724", "42.746", "42.7575"], "xyz:CL": ["81.87", "81.867", "81.86"], "xyz:SP500": ["7153.1", "7158.1", "7158.45"]}
+   Swissquote Gold: [('SwissquoteCapitalMarkets', 'premium', 3588.946, 3589.604), ('SwissquoteCapitalMarkets', 'prime', 3588.956, 3589.594), ('SwissquoteCapitalMarkets', 'elite', 3589.023, 3589.527), ('AT', 'standard', 3588.93, 3589.62)]
+   Swissquote Silber: [('SwissquoteCapitalMarkets', 'premium', 42.7115, 42.7525), ('SwissquoteCapitalMarkets', 'prime', 42.7117, 42.7523)]
+08:34:29 HL (Orakel, Mark, Mitte): {"xyz:XYZ100": ["26323.0", "26341.0", "26343.5"], "xyz:GOLD": ["3588.5", "3590.8", "3590.6"], "xyz:SILVER": ["42.703", "42.722", "42.729"], "xyz:CL": ["81.82", "81.82", "81.828"], "xyz:SP500": ["7152.9", "7157.9", "7158.35"]}
+   Swissquote Gold: [('SwissquoteCapitalMarkets', 'premium', 3587.616, 3588.274), ('SwissquoteCapitalMarkets', 'prime', 3587.626, 3588.264), ('SwissquoteCapitalMarkets', 'elite', 3587.693, 3588.197), ('AT', 'standard', 3587.6, 3588.29)]
+   Swissquote Silber: [('SwissquoteCapitalMarkets', 'premium', 42.6725, 42.7135), ('SwissquoteCapitalMarkets', 'prime', 42.6727, 42.7133)]
