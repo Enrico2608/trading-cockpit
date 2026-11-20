@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T20:38:34+01:00",
+ "stand": "2026-11-20T22:25:41+01:00",
  "quelle": "Google News",
  "hinweis": "Schlagzeilen der letzten 48 Stunden aus Google News (deutsch) je Markt – nur Überschrift, Quelle und Link. Wird werktags alle 2 Stunden automatisch aktualisiert.",
  "gruppen": [
@@ -17,28 +17,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Wall Street gibt angesichts zunehmender Verkäufe im KI-Sektor nach – S&P 500 und Dow stehen kurz vor der Bestätigung einer Korrektur",
-       "quelle": "TradingView",
-       "zeit": "2026-11-20T20:29+01:00",
-       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jN09LakN5Ql9Ca3QyYVRHSXJra3FLamJSZkZwWkoxbHg5SFNYRVd5dWxpMFNvQjNVZ0k4ZURNVko0eWE1dVlEU0hvbFdIUVBoMVNCUVJxVF9VZEJVbnM1Y28yb0xza2Fwa3JGaDdTOUk1clUxNzhj?oc=5"
+       "titel": "Wall Street: Ausverkauf vor dem Wochenende – S&P 500 und Dow in der Korrektur",
+       "quelle": "Der Aktionär",
+       "zeit": "2026-11-20T22:15+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaHVtUVM2SFUyczFCLVFXMXM4MVp5ck96TkZVZ0FIUXFsSVdnaWdabWp5bU9GLUxYQVJyWk9UYzJncVdzZXFvTjRRV01OZEpUUlplRHRhQ2NHUHpZVjZYcDZ0RVA3eVA4d2dYYVlOeHZrQ3QzMC1jNDFQN2s2WEpkS2FsTnpSb28wT2FRVU00bHFjSEp2em9FeW1IWDRxdkFBalpHakpTTHUwVmsyZU1CQ1N3bVdrd3ZDSEdJV1p6REdmNjJkR3BJUms0Ujl0MFpjWDZNSXI2alExTFdf?oc=5"
       },
       {
-       "titel": "Wall Street gibt angesichts zunehmender KI-Verkäufe nach, S&P 500 und Dow auf dem Weg zur Bestätigung von Korrekturen",
+       "titel": "Wall Street schließt wegen KI-Ausverkaufs deutlich niedriger, S&P 500 und Dow in Korrektur",
        "quelle": "MarketScreener Schweiz",
-       "zeit": "2026-11-20T20:29+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOXzlvM1BBUXRPaDNEZFRaOXBjc0F0Y1JuTFVzNlhzV3l6bFJoV2R0V1RCZ2toSzBvZmZwbkR4cThhRXZZWnppUHRYZW5rZEJsblp1RnhhaTF6RTg5azFySGNIQ013VFp4QmpWV18zYlc3ZVRVSWxHR2l6WVhfVUx3aXRZVjdGa0h6VFN3VlNmQVpnWE51Y18tc1o5RlJFakZmenNHU01RSkhHZEJPOGpXNmRNUk1FNnpBQUlCcjdFSEk5ak8teElpTnN2M2lXUXdYaTA3X2o4MEYzRWZ4M1dYTEpkSzZtOTdJVGhHWGZqbjkwZExxTzllVGFKOA?oc=5"
+       "zeit": "2026-11-20T22:01+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY1FRcG9PU29nMk9lOE9lYjhobWlYRWM3MUZJbVhfcV9nb01MR19SVFRfNUpNeDFBNk9pQ05WVzVlWTZWQzdQZF9idkYxYkdVMUdrTWVkTnUydWFLblBHYjhlZmhXT1JvWWstR2x5TUlkUlJiS1N6QWMwb29Mb3NBVlY4Wm5rbDA4MjlBNUdDNVhHeXFKdEdsV1RpR3RWRDBJTTY3blJMVE1vZzhrbENhc2VVY3U2Y0JaZW1jUHViRFdhWXFnWk92em9tNGsyUUYwNmFFTEFQS2xjUENieWpUVjhoZUphZU0yYm9HaQ?oc=5"
       },
       {
-       "titel": "Nicht Anthropic: Blue Lagoon bringt Wellness an die Börse",
+       "titel": "Global Payments springt gegen den schwachen Branchentrend nach oben",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-20T20:15+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzFQT1BOd3pYQ1AzN3V6ZmlvWW1sUWxvZ291anBlSjdCUFRDNkFiN3lnaURTVUktLU8zV0lBN0FuZ25NVjNWXy16NHlXSkJjY0IwU2pvcTlfcWJwbTRCa1o3eDFyRXJuQ1ItNHhqMnExc3dWcFlLSklEM2lyWHRENEN6bU4yZHllUEpJY1JkRmducFNHZGRELVRMWDY1S2FEZFE?oc=5"
+       "zeit": "2026-11-20T22:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTJGOC1aYlF4ellsTGtheVk4UmozSVl5TlE1RmhMUTI2R3JFVUJFSkZvcnZld2FaS3gwZTZhMUUxYnh5bEJKRlB6QndWR1ppcEZyWm5TMGpPRXRCMHhtY3BfVDFack0ycDl6SjFqNXNxUjhVekk4NmdYSzNvYnBEMzJUZjFmSTJ2czVHNmtaUWJIVWpuT0ptbXZ3MG0xblo5QVJUbVA2dWI1MjF3M2ZV?oc=5"
       },
       {
-       "titel": "Meta Platforms (A) gibt im anhaltenden Tech-Ausverkauf weiter nach",
+       "titel": "Die größten Gewinner und Verlierer im US Tech 100 am 20.11.2026",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-20T20:14+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYVh1NTFBU1hGc0lNbFphUDdSc0YxUnViT21obzNCXzJteUl0b2tvY3dSYm5BUzRCSjBaQVpuWjlCQ2N3czcxZi1RRDZ3b3hBUlZvcURvR2xxajBSNTlCaW5BYll0ZkNNYjNOZDVrWWwwMVZrT1RiaXVTcWlhaUxrNUhGcXNlUHZsMVZhMExWMUdUNk5NRVRONHMyQkV3dDBPWThZ?oc=5"
+       "zeit": "2026-11-20T21:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2trcHVvZE9yS1VrcWFyNEwxWUJ5d2hOZWUwOFNqV3h2a2V6WENPR21iOEZMcnBLYjU3M0ZMQ05QSTBVV1lyRjlUaGJGazZiaXIxWTJQMTBCZmFteUNLWEN1R09TN1BvQ1NRLUYtcXBuclg5ZzZTN3RtTzhRSWFydHN3ZXR4cTNEZ2VNNjNhNk9VX2tXeTA2a19DdjNhcl8wUlg1UkVTQ3dJeGx6a0M2YXVR?oc=5"
       }
      ]
     },
@@ -50,28 +50,28 @@
      ],
      "meldungen": [
       {
-       "titel": "NVIDIA Aktie News: Anleger setzen NVIDIA am Freitagabend unter Druck",
-       "quelle": "finanzen.ch",
-       "zeit": "2026-11-20T20:30+01:00",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnFLNGZwd0c1amlfVlV3NG5QMFJlWk5NQTFudWpNOUoxZUdQa1NXWVF1QXQzRU00NGNTZ3pOR3dQdmdCeFAtQ1BYRUlyZU9ENFYwNE9kUXlfZkE4NmQ0TGFlMDJ2RnNhSk1DX2JobUoyb0JIc2ZOWWlRdHlkWFVaaFZiaFdicDQxa2hZSWJPR1BfSmYw?oc=5"
+       "titel": "SEC-Ermittler prüfen die Rechnungslegung von NVIDIA, berichtet Reuters",
+       "quelle": "Unite.AI",
+       "zeit": "2026-11-20T22:08+01:00",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2d4TVhSQ0pfV051WXN6TEFKUTRoUm9zS2xWYlVJNXBWem56NkxVczA5Rk1nVFNJakNMSEZLcWJYNnJObjZaVC14UF8zYlVLMmtGVTNQc3R1MGlNTDdMVnhNSzJkeDM4UUtrbFBMOGhZZGJDcEl5R0pNTk5ubVRha0lwZDZPc2x3RVFYak01d1F4Zw?oc=5"
       },
       {
-       "titel": "Ex-Nvidia-Chef: Donald Trump fordert „zweite Chance“ für Jensen Huang",
-       "quelle": "Stuttgarter Nachrichten",
-       "zeit": "2026-11-20T20:28+01:00",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV21TbFNhbDRjVUpITWFhd0N1dkREWTdGcXlqUFo0SkNwR29sVkpqLTlDSzNIMGNnYUlaakhMaTZnWHhBMmhOSHZGSG5Dc01YTnlOalhsZER3dW8tM1FvLVpwck95RVc4WGkwdnNCNU9QNUc1aktlZFJnQUthd3U5X1JKMDkzdmQyRFBvZm9VUjliNDNmdTZjTEtjcS1NaENmVHNiVl9iTVllN01qamFQN0xySmticDdoaTU0cy15UkV4TmhEd2Zn?oc=5"
+       "titel": "Chip-Konzern: Trump will immer noch Huang als Nvidia-Chef zurück",
+       "quelle": "Tagesspiegel",
+       "zeit": "2026-11-20T21:52+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnE0WUt0QTlleV9SeXZyYkJWMldDMnJhdHBOa0NSbHZ1eTRsMUFMb0RjdnE1UExtNjB1b3ppMWVGb3hidG4zS3BLSDRERWpmR3gyYy00UUpTa3BadVA3R2g3TFBOMGhvSzgyUnhLRVJlS2VEdXg2RFMtX0x0bGJXb2FTTERlMXdMMXluSFBxeVEwZjdvNkZldXFkWmhfRkxtdHB3VENPS1FhWDZnWlNScVpMY21IQXBUV3dvaXhPSG0xeDhMOG1jTw?oc=5"
       },
       {
-       "titel": "Nvidia-Bilanzierungspraktiken von SEC untersucht",
-       "quelle": "MarketScreener Deutschland",
-       "zeit": "2026-11-20T20:24+01:00",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdE5aV0JJWUQxdXcyUWlMTU1JV0pwcUYzMTBQVElOME9CeERQMzZKZzFXSXZKbk4wMmhMS0JSUXIyN0J4VmYxSmo2OHl3Q3lXMjI3dzhkRTVGOXdMQU5mWDNlZklUN0Zlb25VSE9COXpRSC1mMlhDVGNjUE1NdEhvXzZhczliTTA2NUdKN3hiNkRoTnZkMDQ1aHJQV01EeV9OdFlOSldSa3ZmRElEZmxJcExyMkI?oc=5"
+       "titel": "Nvidia: Umsatz steigt um 103 Prozent auf 115,8 Milliarden US-Dollar",
+       "quelle": "BornCity",
+       "zeit": "2026-11-20T21:49+01:00",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjF0Q1phb1l4ZGVsQlphMnAwblNhQ05fVDBEYjNQazlxY1I5WUpHU1RFU1p2WlZ3RlVXXzNkdUVybFRNcmJ0NXY1OUNFVThEQVhvdkFJWmhaUEk0cHZUN2Q0UUktYklJcE02eG5QdUllNUo0eXZreXhrTzh4bUo4M2tNNkNMcFlxUlBydTBfY2lDOTZwNW9r?oc=5"
       },
       {
-       "titel": "Rechnungslegungspraktiken von Nvidia laut Reuters von der SEC untersucht",
-       "quelle": "MarketScreener Schweiz",
-       "zeit": "2026-11-20T20:21+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkdSbk0wd0RMb2Z2dzVndXFLN2QzR0lVYURlV1VzeU5GUElXSmRVVEFnQXBOLVBVWlplRkl2M3FvX2JSZTNnNUhlc1N5eHFJdEhSaHBtOVBOSl9DV2ZNem1PdE5oTVVhRG5WaU1RUm0zc192OHN3aHU1Nl9LVmZMbnV2MjZ5R1NudWRIZUZubWtqWjM3R1AwVTYyOXZvMFphRV9MenF1LVZNSGJCTXRXZjBDLV9aUklXZUowMUU5eEVtaUF5aDF1NlF3NUdvdmM1NE9Jdw?oc=5"
+       "titel": "Nvidia im freien Fall: Aktie rutscht auf Stand von Mai 2025",
+       "quelle": "Trending Topics",
+       "zeit": "2026-11-20T21:38+01:00",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PS05ZSk9tanBKeHgwMjl4S0lucWVodk8waW1YZUMzR3dadE0xMFktQjRGVC1zOWN2RjhIX2lXX183N1d0bUhLTUdQLXJTQmFoeEtyaTR0YkFiUWZia29xdWVDbTVSSlkwU0ZNYg?oc=5"
       }
      ]
     }
@@ -89,6 +89,18 @@
      ],
      "meldungen": [
       {
+       "titel": "Bitcoin Kurs und Yen: Dollar-Yen bei knapp 160, BoJ-Zinserhöhung am 18. Dezember zu 72 bis 85 Prozent erwartet, Bitcoin unter 60.000 Dollar - Wird Japan zum Risiko für Krypto?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-20T22:24+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG5zZUdCdWRVTG9GX3dkdUg4YXVjUmlWWWNvYTFyT00xbG4xVXRzVk1BWUVWUVptN0pUWURPY0p5T0ItQ0pkc3Q4cGxSaEg0b1pDNk42cE5qU0NaRksyNTFFZzVOYW9SSGpuX0NkU3J6WllkVkRVNjZRQ1JBaTJjeWRTVEdyLTFidEF2NXZDMTRwRG4yTTF0b19VYlp3ZTFxSmN4b2xMU2I2c3psSFE?oc=5"
+      },
+      {
+       "titel": "Führende Kryptowährungen geben nach; Bitcoin fällt unter 59.000 USD",
+       "quelle": "MarketScreener Schweiz",
+       "zeit": "2026-11-20T21:53+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWk5TnNRRk5NMEdORlROd0FqS1AySlVMamtxV1FMSjZ2NXNPX0ZXTXpqUEJna0xYdGhlMUs2bXNhTXhTUWdsbFpPVnhvTmdPN2hTOXlmM0dMTk05bFZiZzlOSUlCTllzRldYWmhmV1lOZGNMWWlPM1l5NExLODRqVWNMeGx5OVRFWkJDMTlOMlVYcjhyYTMzR1l2bEJSRXVFTkZzMi1lcklGQm96Mkx6M1VlaktyU3RIQmhxdnp6RVlwUnp4aHdwM1l4ZGlJclVi?oc=5"
+      },
+      {
        "titel": "Bitcoin & Co auf Talfahrt – jetzt rückt das Jahrestief in Reichweite",
        "quelle": "Der Aktionär",
        "zeit": "2026-11-20T20:14+01:00",
@@ -99,18 +111,6 @@
        "quelle": "XTB.com",
        "zeit": "2026-11-20T20:02+01:00",
        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQWFqQzRkNHNsWHdkX253UVdzSGk2QngwT24ybi1UN3k2ZUN1SjU0SWNsclhnOVhsYnl1MWI5VkpPdEpGQzhFR3Noa284WkFveWE0LTY4ZENXX3dhNVhjVUgwMUZheFo0OHRYd090dDUwd1JuZXViZ2hyMUVCaFdTbXJ2aHVMbEFpcWdCdjhMU1d1RU9NQmxqLU1MbV9WaF82R05kNnJRMjlxOTAxTmczMWwyTGsxQ1JESUM5N25fS1BCbXJUZEcxSHFOaXBxb1pHZXdIWEpsZzdqOXdTdmFOY25KQmg3UQ?oc=5"
-      },
-      {
-       "titel": "Absturz wie vor SpaceX-IPO: Wiederholt sich jetzt dieses Bitcoin-Muster?",
-       "quelle": "Börse Online",
-       "zeit": "2026-11-20T19:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRTQ2T2pYWVl6dWtlNUEyNW1tV2VUUHZDcDZka1c2dTFWanlfUTlVc0VWUU9FMkpBVWFEYW9kTUxvVkZQOVpJY0tyWk43SDJtUXFJOTJVZkJRcFZ6SXdHUlVBd2hKZ3c5WFNiS19ialMzNTdWdWJNY2dJbzJVR09lRjl2eDdmeDdWaTBjWDlPWV9EUVJFSmlaY1F1NS1WVmxqUmdBU3VGM3ZxLUM0NG50SzN6SmlfQlJJVHh6RlhpT2NQcUNiZy1hcmJpaGJCTnFU?oc=5"
-      },
-      {
-       "titel": "Märkte im Stressmodus: Bitcoin fällt unter 60.000 US-Dollar zurück",
-       "quelle": "Blocktrainer",
-       "zeit": "2026-11-20T18:57+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNXdMS2tyT3B0d3ZjRFJWUDgzUHNkdW0yQ0thWFVsbzFsWU15dTlFaGFmNE9ac2tpenE3OEctQS0tQm0yRDJUSEg3NlA4X24wQmVNOWFMQ29xcEx4SnhmQl9FTGNzLWhYejV2eU5oam5wM1BJZTh5Zm5jR01hTXRXSE5mU1ZGVE1EbVhwUE8yYkNRUmNtUjBHRlZHbEJ3ZlZoRlE?oc=5"
       }
      ]
     },
@@ -128,6 +128,12 @@
        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObU9wQnFfX0xrVEFmQ2dLalp4TWItV000LUd0RUtqQzBWdDBETmFDbFFWTHZQWHhhUDZQSUlrekVlYWZTODdkR1FHc21Gc2M2eGpMQ0FJMzRjZEs2Sjd2bjJveG5WSC1Pa2FkLV9fTm1CcWpZNU12TDVSR2xOdzZRalloanFpWUZiNE1rY2RoMUtIbm1vM3l3TTFWZTZLNlJVMTZSRFQyS2VMNUwxQWJ0VVgwQ2dSeTFvaEpXTms0RWFMZw?oc=5"
       },
       {
+       "titel": "Hongkong setzt „Hyperliquid“ auf Liste verdächtiger Börsen",
+       "quelle": "Bitcoin News",
+       "zeit": "2026-11-20T17:48+01:00",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pSTTlsZ2NGNElnLTRPMkxQU0ZOdGwzUkx5cnVjd1NKTTJYekJTd2VHc2k3UC0yV3lmaUcyRm5OSnlGRkVnVVkzTlc1a09uUnRMNGV1ckpTeGpMZ0JjcFdkXzdpRlBseEE4eDhsLTRUQTZWVnZYTTQ0UDlQOHVoUG8xZVVUVkVJcE53QnBBMHhPU2phZEpYaGZxVjJVUQ?oc=5"
+      },
+      {
        "titel": "Hyperliquid-Kurs: HYPE fällt auf Tief seit August",
        "quelle": "CryptoTicker.io",
        "zeit": "2026-11-20T15:18+01:00",
@@ -138,12 +144,6 @@
        "quelle": "AktienCheck.de",
        "zeit": "2026-11-20T14:25+01:00",
        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHVYSzBxTHZ0SExSN1dNRnVKTHlPYTRqY1Q4OVYtX0NOcmI5eFFzbTUxcm9XZjh0OVNKUENXR3JXZEk5ZlQ4OXdzOGt1UWxsVFI1S1NyQXpHMVIxUHpid2dJUVBIVzhpSDhfdnBfdTUyNjdvRFNqY0o0bHBjRnMxSkdvalBRTTBhbXZyaXFtOWU0YUNwbHZDeFM0MDg1SUpablk4WWJhLVBuZFE5dG0w?oc=5"
-      },
-      {
-       "titel": "Hongkonger SFC setzt Hyperliquid auf Warnliste - Hyperliquid-Kurs im Anlegercheck",
-       "quelle": "ad-hoc-news.de",
-       "zeit": "2026-11-20T13:04+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSF9tNjI5bzlBcVdHa0R2TS1fNlZVdHBWMzJyVTM3NGlkajM2cmk0QnZ4dGJ4Zm4yYTlreFlkZXZScmNBUXR5aXE4N2xuNldOYW1xajJQR3pwdDEwNjFyWjd1VGZ4ZURjdS0wTEFJLW1vWmVTTWhQaENrRDRZUTRzNmhOaHdZT3BaUWs4TGN1b1RlNnV0RmxUSjlFTlBia0c2NU9sMzBja3JPb1BKSHJ6NURabHgzSG1NRHQwbkRGSDRVQTVkRkM0LVhhandzVkgzMmh2aVdkZzc?oc=5"
       }
      ]
     },
@@ -152,6 +152,12 @@
      "name": "Krypto-Börsen & Plattformen",
      "maerkte": [],
      "meldungen": [
+      {
+       "titel": "Chainlink Kurs: Polymarket rechnet mit Data Streams ab, LINK bei 8,99 Dollar nach 24 Prozent Monatsminus - Bringt der Wechsel von Binance mehr Vertrauen?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-20T21:01+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcktkYVkwX2JydnBKMGxjc0QtQjZHY3dXYkhMVWhoZFVjZHZ0SUQ2WkRqaTNqUDVoRkhtUDgwMnNIYWVabmU4TFhZYkd1YlcwVmJRU3lNZnhKQWZLTUMzMnoxM3ptVnVHZERVZXFyaDV2TU1DV1BkRGUtazlYR0pqOWRrSzJ2WUNPb3RSdVhlYUtiSVVfbi1IdGF6ZGxtMGF5bFNJ?oc=5"
+      },
       {
        "titel": "Shareef Parks vs Shaka Bullard",
        "quelle": "Coinbase",
@@ -169,12 +175,6 @@
        "quelle": "Coinbase",
        "zeit": "2026-11-20T19:47+01:00",
        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDZzZTFwbDBIcXdqaWNJSjVSY3NSdEhiTUswazBJdWNqeTVLLTRETWhTaGxIN3dnV2Z6dkR0MS0tXzlSN3FLYzVKNmI0MHRzNzRZWnBFbnBNSno1X25laGYtcENIXzVCMkRPTHhaQlo2N2YyTWhmRFgtcUhtZjN4SVp6d1lBZ1NsYjRqZG1uUjNNR2p6anprdEdnUFNrZw?oc=5"
-      },
-      {
-       "titel": "FintechAI Ecosystem-Preis, FNAE-Preis, Live-Charts und Marktkapitalisierung - Coinbase Deutschland",
-       "quelle": "Coinbase",
-       "zeit": "2026-11-20T19:47+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEdWdG55eHBnX25WUjFBVUljNERzd3VSRXd3Qjl3a1ljTEpQNGlZNmNuTDFmLXg2Nl9wN0xMU3RzTnlpd3BYNEloY3dNUmh4dVZ4NjFFN1ZzaTdhMVYyb21nSzY1LUlkLTdXM1M2eUptb0tlMlhMTlJqNExhRkNacmd2VXc4QVQ4YTlNZkhGbjB2aFNwbTdWLXdkNE9IRnVsUHc?oc=5"
       }
      ]
     }
@@ -243,10 +243,10 @@
        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94NC03S3Z2X0dfU3R5dkVwY1BSeWpFTHBoMTA3T20tNzNTck04SFFmNG1ueVJuY3hVODNpSmJhQ24yYjV0N2lUQ3B4ZGUyeU1YV0t1eWp0b0U4emlsdkU4dHVyOXFMRldLeTVEZDRn?oc=5"
       },
       {
-       "titel": "Silber crasht. Was steckt dahinter?",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-20T13:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEJVUXdSVXlFbEowLTI5MmFCam52M2lTa1FQXzhVS1haQ0kzN1FTRGNaY0tSRGRWLXdEeEJKdFRkbktKVTBYaW8wTXdXeG4zcEdZNmZCN253ZG1Ib2ZGblhJT04yTExITHVtMy1nWjZTWW1nS19jd3JjcU5xaHRnX1QxU1cxSmcwR0w5V3NyLUZseUNYcUE3Mg?oc=5"
+       "titel": "Silber Kurs heute: 64 % unter Januar-Hoch",
+       "quelle": "FinanceFeeds",
+       "zeit": "2026-11-20T12:05+01:00",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wTC1kMHFSUm5fNkRvS09FZzR5a254eGVMelRQbWIyN1BLYUNnbjlHYVZBdHp3eTMwMzFqd2twaHB5MkJCMHlUZ3lVWDVXTU5VUkk2MnFGWUdwNjhsRHN6cGp6NXZFYVVNazBDcTgxQVVlbVI2RUE?oc=5"
       }
      ]
     },
@@ -258,10 +258,10 @@
      ],
      "meldungen": [
       {
-       "titel": "Benzin: Ölpreis sinkt, doch Tanken in Deutschland bleibt teuer – das ist der Grund",
-       "quelle": "WELT",
-       "zeit": "2026-11-20T20:29+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMm13UzJsb2ZzTU1EbEVTS2FtLWJFRnRENDRmUWNRS1MwNUNPeS1IbU1JekkyTjBkOGhCVnFkVGp1ZVFPWFVPeTJNWGJuYjJua2Fuc3F3X2t4U1VrdzVISGhLd25CM1JiekxyYkw4NDU5X0hjV1ZNSXhvNkdQRWF6TE1QUUs0anlUR01yanl1S2c4ZUxPUVpXbUtGb2xQQ2UxOWhSek1ybXZ3N0luYjRWNk1Nak53d05ZRnlKYVFOZDFkQmVvSDEwNXRWUzdfXzd4QzNmbjIyUUtYdk1o?oc=5"
+       "titel": "Dezember-Kontrakt für WTI-Rohöl schließt 0,77 USD bzw. 0,9 % höher bei 83,98 USD je Barrel; Januar-Kontrakt für Brent zuletzt 0,20 USD bzw. 0,2 % höher bei 92,18 USD",
+       "quelle": "MarketScreener Schweiz",
+       "zeit": "2026-11-20T20:36+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbWJBc3Z5VzAtSktsVVpxWVB5UUxhU0ZoMW9NcUE4bXJiM3RTWV9vTDdyWmk5NmFING5tX0hOVi1jSnJGUm41YndQb3l0ZE90QXlhdnIyUWwzN3c0eUNtY3N6SlV2OEx0RzNYUHZGZ3FNdG04QzROUERXS1U5QjJVWmZUbmVOSW5iLW02UGk1Sm5lLWV6U19CejFDY3Fla3JIWkEySi1YTnE4WlBFVnRyZExQWE1VcDFzV1AtcS04MVhTV1VzWmpuQXVkWFRYd2w4RFZIaWNxS2pkdk1fZXVzSGtKVjZuSDF6U2R2STFVNnVTSWk4UVA0N0tn?oc=5"
       },
       {
        "titel": "Ölpreis aktuell: Öl verbilligt sich dritte Woche in Folge",
