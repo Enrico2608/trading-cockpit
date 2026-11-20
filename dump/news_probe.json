@@ -1,0 +1,852 @@
+{
+ "https://nfs.faireconomy.media/ff_calendar_thisweek.xml": {
+  "status": 200,
+  "ct": "text/xml",
+  "bytes": 43419,
+  "sek": 0.08,
+  "events": 126,
+  "calendar__row": 0,
+  "anfang": "<?xml version=\"1.0\" encoding=\"windows-1252\"?>\n<weeklyevents>\n\t<event>\n\t\t<title>BusinessNZ Services Index</title>\n\t\t<country>NZD</country>\n\t\t<date><![CDATA[11-15-2026]]></date>\n\t\t<time><![CDATA[9:30pm]]></time>\n\t\t<impact><![CDATA[Low]]></impact>\n\t\t<forecast />\n\t\t<previous><![CDATA[50.9]]></previous>\n",
+  "daten": [
+   "11-15-2026",
+   "11-16-2026",
+   "11-17-2026",
+   "11-18-2026",
+   "11-19-2026",
+   "11-20-2026"
+  ]
+ },
+ "https://nfs.faireconomy.media/ff_calendar_thisweek.json": {
+  "status": 200,
+  "ct": "application/json",
+  "bytes": 16968,
+  "sek": 0.02,
+  "events": 126,
+  "calendar__row": 0,
+  "anfang": "[{\"title\":\"BusinessNZ Services Index\",\"country\":\"NZD\",\"date\":\"2026-11-15T16:30:00-05:00\",\"impact\":\"Low\",\"forecast\":\"\",\"previous\":\"50.9\"},{\"title\":\"Prelim GDP Price Index y\\/y\",\"country\":\"JPY\",\"date\":\"2026-11-15T18:50:00-05:00\",\"impact\":\"Low\",\"forecast\":\"2.6%\",\"previous\":\"2.6%\"},{\"title\":\"Prelim GDP ",
+  "daten": [
+   "2026-11-15",
+   "2026-11-16",
+   "2026-11-17",
+   "2026-11-18",
+   "2026-11-19",
+   "2026-11-20"
+  ]
+ },
+ "https://nfs.faireconomy.media/ff_calendar_nextweek.xml": {
+  "status": 404,
+  "ct": "text/html",
+  "bytes": 548,
+  "sek": 0.05,
+  "events": 0,
+  "calendar__row": 0,
+  "anfang": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to di",
+  "daten": []
+ },
+ "https://nfs.faireconomy.media/ff_calendar_nextweek.json": {
+  "status": 404,
+  "ct": "text/html",
+  "bytes": 548,
+  "sek": 0.06,
+  "events": 0,
+  "calendar__row": 0,
+  "anfang": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to di",
+  "daten": []
+ },
+ "https://www.forexfactory.com/calendar?week=next": {
+  "status": 200,
+  "ct": "text/html; charset=ISO-8859-1",
+  "bytes": 373612,
+  "sek": 0.18,
+  "events": 16,
+  "calendar__row": 174,
+  "anfang": "<!DOCTYPE html> <html class=\"no-js\" lang=\"en\"> <head> <base href=\"https://www.forexfactory.com\"> <meta charset=\"windows-1252\"> <meta property=\"og:title\" content=\"Forex Calendar | Forex Factory\" /> <meta property=\"og:description\" content=\"Anticipate market-moving events long before they happen with t",
+  "daten": []
+ },
+ "https://www.forexfactory.com/ff_calendar_nextweek.xml": {
+  "status": 404,
+  "ct": "text/html; charset=UTF-8",
+  "bytes": 3000,
+  "sek": 0.07,
+  "events": 0,
+  "calendar__row": 0,
+  "anfang": "<!DOCTYPE html> <html class=\"no-js\" lang=\"en\"> <head> <base href=\"https://www.forexfactory.com\"> <meta charset=\"windows-1252\"> <meta property=\"og:title\" content=\"Forex Factory | Global markets for the smart money.\" /> <meta property=\"og:description\" content=\"Forex Factory connects traders to global ",
+  "daten": []
+ },
+ "gn_gold": {
+  "url": "https://news.google.com/rss/search?q=Goldpreis+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 129458,
+  "sek": 0.4,
+  "n": 100,
+  "erste": [
+   {
+    "titel": "Goldpreis-Prognose von Goldman Sachs: Gold soll wieder auf über 5600 Dollar steigen - Börse Online",
+    "quelle": "Börse Online",
+    "zeit": "Fri, 20 Nov 2026 13:07:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbF9UelZQSjNJSHNCdmtVVEJyckctVDNWTng3anRPcmJ5MHd6ajVMMVJhMmc0VFMwODhTN0ZEcGdBY29WQnVvYk1NLVZlOExTMm9xSURkanh"
+   },
+   {
+    "titel": "Goldpreis & Gold Prognose: Warum der Kurs über 34 % einbricht - XTB.com",
+    "quelle": "XTB.com",
+    "zeit": "Fri, 20 Nov 2026 07:33:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXQ1dTFKaEJMYXFiVktVb3F3aXlxOUs3NWxQcnBGa19kdkg3WDVHaXpyeG5UZktlYkFxSVRHSjRHTmNyN21hcXRlaUtyb25ZVi1PTnFscER"
+   },
+   {
+    "titel": "Warum der Goldpreis immer weiter fällt. - BÖRSE am Sonntag",
+    "quelle": "BÖRSE am Sonntag",
+    "zeit": "Fri, 20 Nov 2026 10:20:58 GMT",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVmp5RUlxM0xDY1AyOXhUTGpYVHVPeE5CUS03QVdFQ1pvdnJsLXRCQ1Vrdi11S2lMUE50T29MdmNRc0hEWGZKcUNPQnJ4VUJXYUxQbDF5S2l"
+   },
+   {
+    "titel": "Goldpreis fällt auf Jahrestief – auch Silber verliert - Manager Magazin",
+    "quelle": "Manager Magazin",
+    "zeit": "Fri, 20 Nov 2026 09:41:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNT1RoQlVvTU5EbFVSUGpRODByc2lTZ182eEVQYzZRNnBpdUNadGJjd1Z3dDlmdERMNDJWanZudHNhTXVLTGw5ZzE5MHNGdVRDQmhlZkdGYnc"
+   },
+   {
+    "titel": "Gold verliert seinen Glanz: Wie KI-Konzerne den Edelmetall-Boom stoppen - T-Online",
+    "quelle": "T-Online",
+    "zeit": "Fri, 20 Nov 2026 11:02:28 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGRDbk11S1lUa080eDBfWTRHWkVNTGN6TzJOSS1qaXBHU0JGOG9OSWFfbEJ4RW9YTldjbWwzc2hSYVpjemJvVWFZNFM2V004ZEE2SklkMWg"
+   },
+   {
+    "titel": "Goldpreis im freien Fall: Was Besitzer von Barren und Münzen jetzt wissen müssen - Berliner Zeitung",
+    "quelle": "Berliner Zeitung",
+    "zeit": "Fri, 20 Nov 2026 08:03:14 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkk1WDFBSzQzb0VmZFlZS0o1ZmtweDJ2ZzhfOXFTazVDQ2tiNkJ1bGxzSHVxeFRmVWpkdkFfcGlDVFdyVDZ3YzBjbmQzR1NvWl9wbjBUNkF"
+   }
+  ]
+ },
+ "gn_silber": {
+  "url": "https://news.google.com/rss/search?q=Silberpreis+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 47817,
+  "sek": 0.26,
+  "n": 37,
+  "erste": [
+   {
+    "titel": "Silberpreis: Warum die Bank of America 2027 wieder 75 US-Dollar je Unze für möglich hält - Finanzen.net",
+    "quelle": "Finanzen.net",
+    "zeit": "Thu, 19 Nov 2026 06:08:11 GMT",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQXpMZmZvOWV4VkRjbll6QW1lajdTLXNqdlBVSEVUdHh4YllrakgxdnBNNm85WUdPTklDZUlOWGg5ZHVueGQwQ1FKZUNkU01pUW5xdFR3T0x"
+   },
+   {
+    "titel": "Silberpreis crasht weiter: Warum 41 Dollar jetzt alles sind - TradingView",
+    "quelle": "TradingView",
+    "zeit": "Fri, 20 Nov 2026 09:17:13 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BLXVzWk00dHFnRWwzZ2lYbHZ0VEFSOVhob2ZveFdZdEtiNC1NaXlZQ2l3aFBBYXdrRWktUTF4d0cyN3d3MEp0Wld0ejZ4TERMdHc4UHVkSFh"
+   },
+   {
+    "titel": "Silberpreis bei 38,91 Euro je Feinunze – 5,24 % gefallen - tixio - Nachrichten",
+    "quelle": "tixio - Nachrichten",
+    "zeit": "Fri, 20 Nov 2026 11:31:30 GMT",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOFNpaHhiUEN4dGRDR2hWTlFXTGpvOEpfZ3dzcnFmbmxkS3M3LVhpVmdscVlEejhJSVpMOUFPVXZReGQxajBTX1FLTFJ0VnBFZXgtd0NyemN"
+   },
+   {
+    "titel": "Goldpreis, Silberpreis, Öl (Brent/WTI) – Rohstoffe am 20.11.2026 - wallstreetONLINE",
+    "quelle": "wallstreetONLINE",
+    "zeit": "Fri, 20 Nov 2026 16:30:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3d1TnpBTktjRksybFlCZmp4TTZhMnkxaGsyNS04ZHdaNUMtT05rcWdXWWxoRm00R1dDWWRmNDlWYUhKdHQ0WWJCcFRiNmk0R0JINWVPTlh"
+   },
+   {
+    "titel": "Pan American Silver Aktie: Silber-Kosten bei nur 11,21 Dollar, 377 Millionen Dollar freier Cashflow im Quartal - Wie viel Puffer hat die Aktie beim Silberpreis ",
+    "quelle": "AktienCheck.de",
+    "zeit": "Fri, 20 Nov 2026 09:32:17 GMT",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTI5TjJRa2dVOXc3LVZvNm9JSXdZNXVpcUVEZWJwMFdfWC1seDVLUDBwUkxfM3VjSUJqTHh1RXYwWlNGeWZ2cE9wa281YktpQzhtX3Z1RUl"
+   },
+   {
+    "titel": "Silberpreis heute, 20. November 2026: Silber setzt seinen Abwärtstrend fort. - Vietnam.vn",
+    "quelle": "Vietnam.vn",
+    "zeit": "Thu, 19 Nov 2026 23:53:13 GMT",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDZUJOT0NZajFCU0c3RU5NVGxVSi1TeW5zeGc0UWF6OHg3Tkl0N2djYzBhWFNIRmxDaHZ4NVFweFBiNEV5REVibE9GNndmdTJqT2FLOUdISDV"
+   }
+  ]
+ },
+ "gn_oel": {
+  "url": "https://news.google.com/rss/search?q=%C3%96lpreis+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 62452,
+  "sek": 0.27,
+  "n": 46,
+  "erste": [
+   {
+    "titel": "Ölpreis aktuell: Öl verbilligt sich dritte Woche in Folge - WirtschaftsWoche",
+    "quelle": "WirtschaftsWoche",
+    "zeit": "Fri, 20 Nov 2026 16:26:07 GMT",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGprRFhyLVZpVzgxc1ozY1FzWUVvcXBBald2Y3ZsRDFBUG01dm1PeXZJRTZTRmRPZ2VMMXBEN1M4SmxJZzdzbGRMN1NpRm80Z3VDUGVselV"
+   },
+   {
+    "titel": "Benzin: Ölpreis sinkt, doch Tanken in Deutschland bleibt teuer – das ist der Grund - WELT",
+    "quelle": "WELT",
+    "zeit": "Fri, 20 Nov 2026 16:41:33 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMm13UzJsb2ZzTU1EbEVTS2FtLWJFRnRENDRmUWNRS1MwNUNPeS1IbU1JekkyTjBkOGhCVnFkVGp1ZVFPWFVPeTJNWGJuYjJua2Fuc3F3X2t"
+   },
+   {
+    "titel": "Ölpreis: Brent bei 92 Dollar vor dem dritten Wochenminus, OPEC+ legt am 29. November den Rahmen für 2027 fest - Wer bestimmt jetzt den Ölpreis? - AktienCheck.de",
+    "quelle": "AktienCheck.de",
+    "zeit": "Fri, 20 Nov 2026 09:27:30 GMT",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYU85clBJRkQwbndsVU5mZVRpd0hLOEU1V2tYeUdiaTBPNFpLU2gta1A0aE5QQTJoSC1mQThjMEpQd2p6S1lKZGR5NzYzU1ZPVFluT3VLZEF"
+   },
+   {
+    "titel": "Ölpreis verliert Aufwärtstrend - wie weit könnte die Korrektur reichen? - FinanzNachrichten.de",
+    "quelle": "FinanzNachrichten.de",
+    "zeit": "Fri, 20 Nov 2026 07:18:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmQ3VTRZNUZRNFZJTUdzTzQ0NXlGZ1FXVFQwdmZnY1FzcURSVV9PNEtlZFRwdGczbEF4dm0xeFp2Qi1vQm1JRVE4dDdRYmVUNjM3ZXFLb3p"
+   },
+   {
+    "titel": "Brent nach Minus von 20 US-Dollar: UBS hält Ölpreis-Korrektur für übertrieben - Investing.com Deutsch",
+    "quelle": "Investing.com Deutsch",
+    "zeit": "Fri, 20 Nov 2026 12:29:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDBkdEpKcUZLaFBYMDhHYWRkdzM1eE1WOHl4VmFJSmdrQ0FXWC0yc3JUdU5wZGt2bVJDYTMzTGsxazRMQUJZSHNGTEY3cmE4T3YtWmRJODd"
+   },
+   {
+    "titel": "WTI-Ölpreis bleibt unter 83 Dollar - 200-Tage-Linie als entscheidende Hürde - TradingView",
+    "quelle": "TradingView",
+    "zeit": "Fri, 20 Nov 2026 04:39:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vcjMtUUhjb0dyUjF5TGF2UFFBeFpwbzR3aUt5OXJSVGZMNlhrTjUyanExWS01WFRET2g4b0NlUXR6T1JhVEJucjgyeDNKa1d3QlUwQnFYUC1"
+   }
+  ]
+ },
+ "gn_wallstreet": {
+  "url": "https://news.google.com/rss/search?q=Wall+Street+Nasdaq+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 26629,
+  "sek": 0.31,
+  "n": 19,
+  "erste": [
+   {
+    "titel": "Wall-Street-Update: Tech-Ausverkauf geht weiter – Anthropic verliert mehr als zehn Prozent - Der Aktionär",
+    "quelle": "Der Aktionär",
+    "zeit": "Fri, 20 Nov 2026 16:03:56 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU2xKTTI2TkhOZkFqY2V6VV9nYmJyQnNUOXRSVDFBSW1FNk1ESVdtMkl6Z1c2aXY0TGYwbTJmZENaNkxHMWN2MnZxdm9OSjZ3NERTcnFYbnN"
+   },
+   {
+    "titel": "Nasdaq 100: Wochenverlust von fast 7 Prozent, Tief seit April, strengere US-Regeln für Chips und Rechenzentren - Wie viel Politik steckt im KI-Ausverkauf? - Akt",
+    "quelle": "AktienCheck.de",
+    "zeit": "Fri, 20 Nov 2026 15:41:49 GMT",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0lYQ2U1UVhndkdIMUtzamkwdnlHRGZrdlRZcHp0WGFJb0hXX2duMXl3eDdoX2dzTHVsTldYajUzSnFYeUI1TU9MeUgwbEd0QzhMR041d2t"
+   },
+   {
+    "titel": "Nasdaq im Ausnahmezustand: Wie Scalper die hohe Volatilität nutzen - wallstreetONLINE",
+    "quelle": "wallstreetONLINE",
+    "zeit": "Fri, 20 Nov 2026 09:02:29 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOHFfekFZUm9ld01VdXZ1NWFqR3lVa1Nhdi1qSXk3UGE3Y1BlanVLeDNtaGluSWk5WVlSTEhUZ2xzbDlEZU9qbmRUbHRSYUNLTHpoWkU0bmh"
+   },
+   {
+    "titel": "Anthropic erhält vor dem Nasdaq-Debüt positive Einschätzungen von der Wall Street - MarketScreener Deutschland",
+    "quelle": "MarketScreener Deutschland",
+    "zeit": "Thu, 19 Nov 2026 18:12:25 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSExSRGJUOWd0YkNqa25wSVVOSllhN1FvS29fMjNpM2JQSmhJeG1udUlDUmd3T1gySXhkaVJ4Q2wzNjRxVkZzbUlRSV9QRWR6NDdMdDlqNHl"
+   },
+   {
+    "titel": "Anthropic sorgt vor seinem Nasdaq-Debüt für optimistische Prognosen an der Wall Street - TradingView",
+    "quelle": "TradingView",
+    "zeit": "Thu, 19 Nov 2026 16:50:19 GMT",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZdHlOazFGWDNLdUdILWNoZWphMnJleXhpZklrakx3emlnR2Yyc2V5Qkd6T0tkSk9xY0dXTWZXWEhpU3ZLREJvY2VWWWNpNkVRTWdYNHpTUUF"
+   },
+   {
+    "titel": "Wall-Street-Futures steigen vor Anthropics Mega-IPO an der Nasdaq - aktien.news",
+    "quelle": "aktien.news",
+    "zeit": "Thu, 19 Nov 2026 08:10:17 GMT",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWW1uVzZuNUE1aHZzMng4aXFXczdja2VRM0tETDd1ci1SamRNbnp3Y1pNcGxzRXVZY0RTUHlDYi1WdEFfdDNIOUhGM1NXcklBeHZIbjF3OUx"
+   }
+  ]
+ },
+ "gn_nvidia": {
+  "url": "https://news.google.com/rss/search?q=Nvidia+Aktie+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 115474,
+  "sek": 0.4,
+  "n": 85,
+  "erste": [
+   {
+    "titel": "Nvidia stürzt weiter ab – Führungschaos überschattet Zahlen - Finanzen100",
+    "quelle": "Finanzen100",
+    "zeit": "Fri, 20 Nov 2026 14:05:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUEswcEZaZldheWJfTUVUTXVSNGN3RzRPQTFvRXM5WW0zbVBVX1lHbHNKNWROeGRPYmJSODg1YlZUenI1dDVGd3FjblkwUDM5ZHc4V3ZkdnF"
+   },
+   {
+    "titel": "Nvidia-Aktie: Eine einmalige Chance!? - boerse.de",
+    "quelle": "boerse.de",
+    "zeit": "Fri, 20 Nov 2026 10:43:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2wxdE1WRDRGa3JGcTV1cDdHWl9BWGVsZmtLLTVZWkl6VXVTQUZwWjlTaWpfY2tZWVF3anVJRkcyUmJQVjFEZ0R3TFp4czZvUnRENkM3cW1"
+   },
+   {
+    "titel": "Nvidia-Aktie: Huang-Stiftung jetzt mit 350-Millionen-Rekordzusage - Der Aktionär",
+    "quelle": "Der Aktionär",
+    "zeit": "Fri, 20 Nov 2026 10:11:53 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2FuWUFwdDZHeEN3cGliSkxFMWN6T1gtREZ3dm1VblRscFFoYkFMU0NPeWhPck9kaFJJTTAyUllRWC1GVEU4a2dHZnZLaGlZakUzMnY3SXY"
+   },
+   {
+    "titel": "Kurssturz im Dax, Goldpreis unter Druck, Nvidia Aktie mit Kurssturz - Manager Magazin",
+    "quelle": "Manager Magazin",
+    "zeit": "Fri, 20 Nov 2026 15:13:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcWdKQXZLWWFpTHkxay00cUxYd3ZsZGc4d2dmVGpiX1FoSGE4ekZLd0pSZDdiVEhRbUlRTktHeXFpWEh1VnAydng1eVUwSlZkUDU0Yl9Cdmt"
+   },
+   {
+    "titel": "Cathie Wood kauft Anthropic-Aktien im großen Stil - und trennt sich von NVIDIA - Finanzen.net",
+    "quelle": "Finanzen.net",
+    "zeit": "Fri, 20 Nov 2026 09:59:55 GMT",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2V3cS02c3VQQ0lMNDJiOUx2RnM2Z1RqMFNDQUk2ZHFEN0JRSHhGTGxLbFd2S0lYMDh2VVZHbmc0MjkzTVNLdDZXSDRHVEVoeUtPOUE2NFQ"
+   },
+   {
+    "titel": "Nvidia Aktie: Crash geht weiter - noch mehr Abwärtspotenzial? - 4investors.de",
+    "quelle": "4investors.de",
+    "zeit": "Fri, 20 Nov 2026 07:32:04 GMT",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OWGs5QUNVZXBrU00tZkhCQVF4Z1pOY0RPVFZLQ18yb3hxYXFzOGR3WUtqNGV5d2xCcW9rLUx0VUxxTGRZVVdIRHZ4d01nSzB0M0pzMWdCV3V"
+   }
+  ]
+ },
+ "gn_bitcoin": {
+  "url": "https://news.google.com/rss/search?q=Bitcoin+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 130425,
+  "sek": 0.39,
+  "n": 100,
+  "erste": [
+   {
+    "titel": "Peter Brandt warnt vor 75-%-Korrektur beim Bitcoin-Kurs: Droht ein noch stärkerer Absturz? - Yahoo Finanzen Deutschland",
+    "quelle": "Yahoo Finanzen Deutschland",
+    "zeit": "Fri, 20 Nov 2026 12:06:54 GMT",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVk5mTWxlYV9CV3dpVHpfc3d4dm5ySWFrN3NXNUJyaWltM1JxZHE0TWd1dk1nQmN3aXo2aUhDZG5wZTM0S1ptR0trZzZPRWNoMlA2MjVFdmt"
+   },
+   {
+    "titel": "Bitcoin droht Verlustserie wie 2022 – diese Marken müssen jetzt halten - Der Aktionär",
+    "quelle": "Der Aktionär",
+    "zeit": "Fri, 20 Nov 2026 14:28:47 GMT",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUVFaHJycF85MzlrVVhoUjRZTGRuSjExSHctM0cxbWVnME9ieHFucTBJdmRKMk5HZTYxd2piUG50aW1hS0t6cW84cXZSb3V1T29vbHdLaTR"
+   },
+   {
+    "titel": "Bitcoin-Prognose: Diesen BTC-Kurs erwartet die KI nach dem Anthropic-IPO - BTC-ECHO",
+    "quelle": "BTC-ECHO",
+    "zeit": "Fri, 20 Nov 2026 11:16:29 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVy1pQ19xT2VUQzRiNzJFcm04Ykw0ZlZLeEltWXBBbWZZMUpVRG42d2xkM0daMEU3dXlXNmRrd2FaWmpGWGgteFJrU0l1a2hUNlk2WGgwSnp"
+   },
+   {
+    "titel": "„Will Krypto zerstören“: Senatorin Lummis attackiert Warren – Droht ab 2027 ein neuer Gegenwind für Bitcoin & Co.? - Finanzen.net",
+    "quelle": "Finanzen.net",
+    "zeit": "Fri, 20 Nov 2026 12:34:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQc0lvbjRvWDVGYnpNLTJKUkJqTGo5RTd1d3lJSTF2REREWGowN3M1SFJ6bzN1UmJtdmZlb296QlJxOUdTTmlHaDVScVI4Yk8wU2ZUdm5rQnh"
+   },
+   {
+    "titel": "Bitcoin-ETF-Bestände von institutionellen Investoren erreichen neues Allzeithoch - Blocktrainer",
+    "quelle": "Blocktrainer",
+    "zeit": "Fri, 20 Nov 2026 14:24:00 GMT",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTW8teXN0WFpNLVc5d1UxY1oyYWVzcll1c2R3Q2puR3plTjBEQlQwSk83YUUyemJqd04wdDhUSk9LV0xLU3hwM1NNZDBpaGFsd0RRS0x0M2Z"
+   },
+   {
+    "titel": "Sparkassen bieten Bitcoin an – und das könnte viele Sparer treffen - Frankfurter Rundschau",
+    "quelle": "Frankfurter Rundschau",
+    "zeit": "Fri, 20 Nov 2026 15:01:07 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFppMW5GWThhakZmRlJyWnZiT2xadkFnTkd1MG9FbzMwRHpIcEJjclVEZGpWYV9yTlFJaEMtcDhCREVxcW44b0w3Rmduc25qdENzWVY4MG9"
+   }
+  ]
+ },
+ "gn_hyperliquid_de": {
+  "url": "https://news.google.com/rss/search?q=Hyperliquid+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 43900,
+  "sek": 0.38,
+  "n": 33,
+  "erste": [
+   {
+    "titel": "CFTC teilt Hyperliquid und Konkurrenten mit: Keine Sonderausnahmen für On-Chain-Handel. - CoinDesk",
+    "quelle": "CoinDesk",
+    "zeit": "Fri, 20 Nov 2026 10:02:03 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR2phY0NXc3M5bXYxUXRjLTlhZlEtdG1HckhPczl5UDVKd1lzUFI3U3QzZ2Rhdl91WElXSHplVjdlQ2RCSGgyVmpIV3VfNi1rT3VvT2lsTFA"
+   },
+   {
+    "titel": "Hongkonger SFC warnt vor Hyperliquid: Verdacht auf nicht lizenzierte Handelsplattform - Yahoo Finanzen Deutschland",
+    "quelle": "Yahoo Finanzen Deutschland",
+    "zeit": "Thu, 19 Nov 2026 12:14:35 GMT",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnNnaGhPLVZDVFFpcTladjAzMXNYdUh6MnM0dFQzeDFpaGpHVXVTakNzUDZSS0xBR3JlNXEtNC1GOExBNUtrWTBOX2xDd2RYUFRiRTVTZ2h"
+   },
+   {
+    "titel": "Hyperliquid im Visier: Nach London und Singapur warnt jetzt auch Hongkong - BTC-ECHO",
+    "quelle": "BTC-ECHO",
+    "zeit": "Thu, 19 Nov 2026 18:39:29 GMT",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONF80dlVxeTFDVUM1OUZURmpuWmpmOTZhS3JfX243NHJOQmJaVEVCcmQ4eWdhd2pZV044elBYcUVET2tHcGVGS2ZhZS1fM0Uzc0hhTGRCcFl"
+   },
+   {
+    "titel": "Hyperliquid: Hongkong setzt die Onchain-Börse auf die Warnliste, CFTC-Chef Selig nennt zwei Wege in die USA - Wird Regulierung zum Prüfstein für dezentrale Kryp",
+    "quelle": "AktienCheck.de",
+    "zeit": "Fri, 20 Nov 2026 13:25:49 GMT",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHVYSzBxTHZ0SExSN1dNRnVKTHlPYTRqY1Q4OVYtX0NOcmI5eFFzbTUxcm9XZjh0OVNKUENXR3JXZEk5ZlQ4OXdzOGt1UWxsVFI1S1NyQXp"
+   },
+   {
+    "titel": "Anthropic eröffnet 34% über IPO-Kurs und übertrifft Hyperliquid-Perp - CoinMarketCap",
+    "quelle": "CoinMarketCap",
+    "zeit": "Fri, 20 Nov 2026 01:00:44 GMT",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnRrRUhIM0xiOXRxa19KeTBHNGt5cFVxV2ZTRXo5VWppTXlZUzc3TnZ3VnZEWnl6bml3N1U0UkZzeGhCNXczdThiVVdETURtS3dPRFM3SE5"
+   },
+   {
+    "titel": "Hongkong nimmt Hyperliquid in die Liste „verdächtiger“ Kryptoplattformen auf - Cryptonews.net",
+    "quelle": "Cryptonews.net",
+    "zeit": "Thu, 19 Nov 2026 21:45:23 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlaU9WYlE0NXlzd3FOTFdVajdqemREOXFUaW16TjNpTzhlSWx5OW0tcmlYMFMtZVpkYnB2OW5xdlVRRTZXYjQ4ZDIwd1d3TnhiNlZOMG1ET0x"
+   }
+  ]
+ },
+ "gn_hyperliquid_en": {
+  "url": "https://news.google.com/rss/search?q=Hyperliquid+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 123373,
+  "sek": 0.36,
+  "n": 100,
+  "erste": [
+   {
+    "titel": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says - CoinDesk",
+    "quelle": "CoinDesk",
+    "zeit": "Fri, 20 Nov 2026 10:02:03 GMT",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm5yZFEtQ3h1SjRxckxxbktWdmdmMXBweFZObF9YVGo0SHpWRDNQWEtockljR1JtdldoMi1jWGdkbkpaOU4wZ3dGZzBFRi0tUTFhN0QwNkh"
+   },
+   {
+    "titel": "Bitwise CIO Predicts Hyperliquid Could Become \"the Next Amazon.\" Here's Why He's Right. - Yahoo Finance",
+    "quelle": "Yahoo Finance",
+    "zeit": "Fri, 20 Nov 2026 12:50:02 GMT",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0w4TllxM3NteElwZVJrVndFdThqSjFOSjNVbEpGUUR2bV9EeXdoNXRnY3NHTmxHX0Z1UVcxU2Q0WGF6SzQyVnRNWUJCVUtzY0pkWGtSLXB"
+   },
+   {
+    "titel": "CFTC chair outlines two paths for Hyperliquid’s US entry but rules out special exemptions - Crypto News",
+    "quelle": "Crypto News",
+    "zeit": "Fri, 20 Nov 2026 12:07:19 GMT",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pN1FaMlFhclpsRXRzdkhIT0h4d2VJN012WkxUd0EteVF5YkVCM2hLa3N6RG9aR0prTUo1WFZLTVM5QUFCdzNoYmJNMjVWSktpdTd6dUtUUzJ"
+   },
+   {
+    "titel": "Hyperliquid Anthropic Volume Explodes Past $1.7B as Hong Kong Issues Warning - Cryptonews",
+    "quelle": "Cryptonews",
+    "zeit": "Fri, 20 Nov 2026 10:22:42 GMT",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSXpnMlh4NUVFVVNmaUhVblFyNlA5X0pCSmp1bHBoaFE2R25aYTV6czFJaXJ4eUhKMTJUTEl2ck05bWZkXzF4a0Fxcmt5WWM1NkM3Zmh0bFF"
+   },
+   {
+    "titel": "Hyperliquid Must Register or Partner With a Licensed Exchange to Offer US Retail Derivatives, CFTC Chair Says - CCN.com",
+    "quelle": "CCN.com",
+    "zeit": "Fri, 20 Nov 2026 10:48:13 GMT",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FNFRqOWx3d1AxdWpfVDBHZXVtQ3BYNmVzUlRISFBOQlpFNVVaRTB0QVItRGx5czdmZHpEQ0JMaWxSNjhwMUdYTnMyaUxiSjN3M0dOU3NucXl"
+   },
+   {
+    "titel": "Hyperliquid Price Prediction: Drop to $50 Likely as Open Interest (OI) Retreats by 30% - FXEmpire",
+    "quelle": "FXEmpire",
+    "zeit": "Fri, 20 Nov 2026 13:54:50 GMT",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONHFwY3M5UDVRMWl5YlZHVGlucHFwODZ0SUx1TTZ2Y2tNblI1Z1ZEUUR5dVNybE9velBVc3JTSFpDX29lWGp3WUNPTkVHQ2NHay1kb3JsX09"
+   }
+  ]
+ },
+ "gn_krypto": {
+  "url": "https://news.google.com/rss/search?q=Krypto+B%C3%B6rse+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade",
+  "status": 200,
+  "ct": "application/xml; charset=utf-8",
+  "bytes": 35871,
+  "sek": 0.32,
+  "n": 28,
+  "erste": [
+   {
+    "titel": "Krypto-Flop beim Anthropic-IPO: Warum bekam Binance fast keine Aktien ab? - BTC-ECHO",
+    "quelle": "BTC-ECHO",
+    "zeit": "Fri, 20 Nov 2026 11:13:19 GMT",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2p4cUhKQUtMSXJ2SWQtX1h0UG5GYkhYRmQzeEtyMkg3bHV1MkdkLVM0XzZKWUJ0cndZMXZSLUJ3cEpJYU5DcWZCTlZpNUd2T3RvVDQxeVF"
+   },
+   {
+    "titel": "Krypto Börse Vergleich: 5 Anbieter, bis 100.000 € Schutz - shattered.io",
+    "quelle": "shattered.io",
+    "zeit": "Fri, 20 Nov 2026 15:35:11 GMT",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF80S281Ny1mWXlNOENIQjV0M3BxaEczMG1uNzIxQjdhVnh4a3U3aDRVaC1wQzhUMlNXZFVxbXVXd2t5cEwzb3BwYjlBcEU5NFhiNkpoaUp"
+   },
+   {
+    "titel": "Gold stürzt ab, BTC unter Druck durch Anstieg der „Realzinsen“ - CoinDesk",
+    "quelle": "CoinDesk",
+    "zeit": "Fri, 20 Nov 2026 09:41:45 GMT",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWi1YMnBMam1RekRjMlhiOUF3TzB3dGYyVmh2UFJFaXRGNnFrRlBKZUlWdHdvcVpRWUxwUTdkSWt0OWlCUVpEX1B4N2psLWdWTmJtVmVrSEV"
+   },
+   {
+    "titel": "Anthropic hungert den Bitcoin aus. Wirklich? - tippinpoint.ch",
+    "quelle": "tippinpoint.ch",
+    "zeit": "Fri, 20 Nov 2026 05:46:39 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtZmI2T0RxRG5IQjU0Zk1qajFKRmI3SEZSeE5adnQ2bHQxUnlnVnZyWjNCRHBaeTBxN09PUm9oTHdiaC16WmZTZDc4T0JzaDNOOWdHbVAwS28"
+   },
+   {
+    "titel": "Hyperliquid: Hongkong setzt die Onchain-Börse auf die Warnliste, CFTC-Chef Selig nennt zwei Wege in die USA - Wird Regulierung zum Prüfstein für dezentrale Kryp",
+    "quelle": "AktienCheck.de",
+    "zeit": "Fri, 20 Nov 2026 13:25:49 GMT",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHVYSzBxTHZ0SExSN1dNRnVKTHlPYTRqY1Q4OVYtX0NOcmI5eFFzbTUxcm9XZjh0OVNKUENXR3JXZEk5ZlQ4OXdzOGt1UWxsVFI1S1NyQXp"
+   },
+   {
+    "titel": "CFTC teilt Hyperliquid und Konkurrenten mit: Keine Sonderausnahmen für On-Chain-Handel. - CoinDesk",
+    "quelle": "CoinDesk",
+    "zeit": "Fri, 20 Nov 2026 10:02:03 GMT",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR2phY0NXc3M5bXYxUXRjLTlhZlEtdG1HckhPczl5UDVKd1lzUFI3U3QzZ2Rhdl91WElXSHplVjdlQ2RCSGgyVmpIV3VfNi1rT3VvT2lsTFA"
+   }
+  ]
+ },
+ "cointelegraph_de": {
+  "url": "https://de.cointelegraph.com/rss",
+  "status": 410,
+  "ct": "text/plain; charset=UTF-8",
+  "bytes": 8,
+  "sek": 0.08,
+  "anfang": "410 Gone"
+ },
+ "btc_echo": {
+  "url": "https://www.btc-echo.de/feed/",
+  "status": 200,
+  "ct": "application/rss+xml; charset=UTF-8",
+  "bytes": 57667,
+  "sek": 0.2,
+  "n": 25,
+  "erste": [
+   {
+    "titel": "Bitcoin fällt unter 60.000 US-Dollar: Der Tech-Ausverkauf schlägt durch",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 16:14:23 +0000",
+    "link": "https://www.btc-echo.de/news/bitcoin-faellt-unter-60-000-us-dollar-der-tech-ausverkauf-schlaegt-durch-241343/"
+   },
+   {
+    "titel": "Fed-Gouverneur warnt vor KI-Agenten: Bankansturm ist in Minuten möglich",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 16:00:00 +0000",
+    "link": "https://www.btc-echo.de/news/fed-gouverneur-warnt-vor-ki-agenten-bankansturm-ist-in-minuten-moeglich-241100/"
+   },
+   {
+    "titel": "Binance-Hacker bewegen Ether für 600 Millionen US-Dollar",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 15:01:22 +0000",
+    "link": "https://www.btc-echo.de/news/binance-hacker-bewegen-ether-fuer-600-millionen-us-dollar-241331/"
+   },
+   {
+    "titel": "XRP und Solana: Vermögensverwalter streicht zwei Krypto-ETFs",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 13:50:00 +0000",
+    "link": "https://www.btc-echo.de/news/xrp-und-solana-vermoegensverwalter-streicht-zwei-krypto-etfs-241305/"
+   },
+   {
+    "titel": "Zcash im freien Fall: ETF-Antrag kann Kursrutsch nicht stoppen",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 13:00:00 +0000",
+    "link": "https://www.btc-echo.de/news/zcash-im-freien-fall-etf-antrag-kann-kursrutsch-nicht-stoppen-241315/"
+   },
+   {
+    "titel": "Anthropic-Hype: Binance muss 500 Millionen US-Dollar zurückzahlen",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 11:13:19 +0000",
+    "link": "https://www.btc-echo.de/news/anthropic-hype-binance-muss-500-millionen-us-dollar-zurueckzahlen-241298/"
+   }
+  ]
+ },
+ "finanzen_net": {
+  "url": "https://www.finanzen.net/rss/news",
+  "status": 403,
+  "ct": "text/html",
+  "bytes": 382,
+  "sek": 0.07,
+  "anfang": "<HTML><HEAD>\n<TITLE>Access Denied</TITLE>\n</HEAD><BODY>\n<H1>Access Denied</H1>\n \nYou don't have permission to access \"http&#58;&#47;&#47;www&#46;finanzen&#46;net&#47;rss&#47;news\" on this server.<P>\nR"
+ },
+ "investing_de": {
+  "url": "https://de.investing.com/rss/news.rss",
+  "status": 200,
+  "ct": "application/rss+xml",
+  "bytes": 4584,
+  "sek": 0.1,
+  "n": 10,
+  "erste": [
+   {
+    "titel": "Alliance Resource Partners fällt auf 52-Wochen-Tief – Trotz Kursdruck überzeugende Gesamtrendite und starke Quartalszahlen",
+    "quelle": "",
+    "zeit": "2026-11-20 16:28:55",
+    "link": "https://de.investing.com/news/company-news/alliance-resource-partners-fallt-auf-52wochentief--trotz-kursdruck-uberzeugende-gesamtrendite-und-starke-quartalszahl"
+   },
+   {
+    "titel": "Google drosselt Berichten zufolge TPU-Pläne mit Broadcom und forciert MediaTek-Chips",
+    "quelle": "",
+    "zeit": "2026-11-20 16:25:18",
+    "link": "https://de.investing.com/news/stock-market-news/google-drosselt-berichten-zufolge-tpuplane-mit-broadcom-und-forciert-mediatekchips-3780345"
+   },
+   {
+    "titel": "Tecogen-CEO Abinand Rangesh kauft eigene Aktien im Wert von 2.625 US-Dollar",
+    "quelle": "",
+    "zeit": "2026-11-20 16:17:39",
+    "link": "https://de.investing.com/news/insider-trading-news/tecogenceo-abinand-rangesh-kauft-eigene-aktien-im-wert-von-2625-usdollar-93CH-3780341"
+   },
+   {
+    "titel": "MKS Inc.: EVP Renee Donlan veräußert Stammaktien für $438.040",
+    "quelle": "",
+    "zeit": "2026-11-20 16:17:39",
+    "link": "https://de.investing.com/news/insider-trading-news/mks-inc-evp-renee-donlan-verausert-stammaktien-fur-438040-93CH-3780342"
+   },
+   {
+    "titel": "New Peoples Bankshares: Director Blaine White kauft Aktien für 4.732 $",
+    "quelle": "",
+    "zeit": "2026-11-20 16:17:26",
+    "link": "https://de.investing.com/news/insider-trading-news/new-peoples-bankshares-director-blaine-white-kauft-aktien-fur-4732--93CH-3780340"
+   },
+   {
+    "titel": "Aktie von FTI Consulting markiert 52-Wochen-Hoch bei 209,01 USD",
+    "quelle": "",
+    "zeit": "2026-11-20 16:16:35",
+    "link": "https://de.investing.com/news/company-news/aktie-von-fti-consulting-markiert-52wochenhoch-bei-20901-usd-93CH-3780339"
+   }
+  ]
+ },
+ "coindesk": {
+  "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+  "status": 200,
+  "ct": "application/xml",
+  "bytes": 30675,
+  "sek": 0.25,
+  "n": 25,
+  "erste": [
+   {
+    "titel": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:54:30 +0000",
+    "link": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street"
+   },
+   {
+    "titel": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:38:30 +0000",
+    "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
+   },
+   {
+    "titel": "U.S. Senate passes bill to ban prediction market bets on war and death",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:25:57 +0000",
+    "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
+   },
+   {
+    "titel": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 13:35:33 +0000",
+    "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
+   },
+   {
+    "titel": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 13:30:22 +0000",
+    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys"
+   },
+   {
+    "titel": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 13:11:49 +0000",
+    "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market"
+   }
+  ]
+ },
+ "yahoo_nvda": {
+  "url": "https://feeds.finance.yahoo.com/rss/2.0/headline?s=NVDA&region=US&lang=en-US",
+  "status": 429,
+  "ct": "text/html",
+  "bytes": 19,
+  "sek": 0.09,
+  "anfang": "Too Many Requests\r\n"
+ },
+ "handelsblatt": {
+  "url": "https://www.handelsblatt.com/contentexport/feed/finanzen",
+  "status": 200,
+  "ct": "application/rss+xml; charset=utf-8",
+  "bytes": 37547,
+  "sek": 0.06,
+  "n": 20,
+  "erste": [
+   {
+    "titel": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 16:19:29 GMT",
+    "link": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html"
+   },
+   {
+    "titel": "Geldpolitik: Bundesbankchef Nagel hadert mit mangelndem Rückhalt für EZB-Kandidatur",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 15:35:38 GMT",
+    "link": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-joachim-nagel-hadert-mit-mangelndem-rueckhalt-fuer-kandidatur/100271609.html"
+   },
+   {
+    "titel": "US-Börsen: Anthropic-Euphorie währt nur kurz: Tech-Index Nasdaq notiert deutlich im Minus",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 15:28:47 GMT",
+    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-nasdaq-startet-deutlich-im-minus-anthropic-verliert-zweistellig/100271593.html"
+   },
+   {
+    "titel": "Vaclav Matousek: „Wir brauchen eine Haltung, die Entscheidungen beschleunigt“",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:56:35 GMT",
+    "link": "https://www.handelsblatt.com/finanzen/immobilien/vaclav-matousek-wir-brauchen-eine-haltung-die-entscheidungen-beschleunigt/100269636.html"
+   },
+   {
+    "titel": "Dax aktuell: Dax verliert zwei Prozent – und rutscht unter 25.000-Punkte-Marke",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:54:52 GMT",
+    "link": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-faellt-unter-25.000-punkte-marke/100271464.html"
+   },
+   {
+    "titel": "Aufenthaltsrecht: Niedrige Steuern, hohe Lebensqualität – Diese Länder sind attraktiv für Auswanderer",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 13:02:00 GMT",
+    "link": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern-diese-laender-locken-mit-finanziellen-vorteilen/100133033.html"
+   }
+  ]
+ },
+ "tagesschau_wirtschaft": {
+  "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+  "status": 200,
+  "ct": "application/xml;charset=UTF-8",
+  "bytes": 47009,
+  "sek": 0.54,
+  "n": 35,
+  "erste": [
+   {
+    "titel": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 17:20:16 +0100",
+    "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
+   },
+   {
+    "titel": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 08:47:56 +0100",
+    "link": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html"
+   },
+   {
+    "titel": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
+    "quelle": "",
+    "zeit": "Thu, 19 Nov 2026 14:30:31 +0100",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html"
+   },
+   {
+    "titel": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+    "quelle": "",
+    "zeit": "Thu, 19 Nov 2026 17:54:27 +0100",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
+   },
+   {
+    "titel": "Weltgrößtes Windrad in Betrieb: Sind Höhenwindräder die Zukunft?",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 17:25:17 +0100",
+    "link": "https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html"
+   },
+   {
+    "titel": "Galeria schließt drei Filialen - und noch viele mehr?",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:47:08 +0100",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html"
+   }
+  ]
+ },
+ "fxstreet": {
+  "url": "https://www.fxstreet.com/rss/news",
+  "status": 403,
+  "ct": "text/html; charset=UTF-8",
+  "bytes": 3000,
+  "sek": 0.06,
+  "anfang": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta nam"
+ },
+ "kitco": {
+  "url": "https://www.kitco.com/rss/KitcoNews.xml",
+  "status": 404,
+  "ct": "text/html; charset=utf-8",
+  "bytes": 3000,
+  "sek": 0.26,
+  "anfang": "<!DOCTYPE html><html data-theme=\"\" lang=\"en\"><head><meta property=\"og:url\" content=\"https://www.kitco.com/rss/KitcoNews.xml\"/><meta property=\"og:type\" content=\"website\"/><meta property=\"og:site_name\" "
+ },
+ "theblock": {
+  "url": "https://www.theblock.co/rss.xml",
+  "status": 200,
+  "ct": "text/xml; charset=UTF-8",
+  "bytes": 31371,
+  "sek": 0.03,
+  "n": 20,
+  "erste": [
+   {
+    "titel": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 16:11:22 +0000",
+    "link": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
+   },
+   {
+    "titel": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:51:32 +0000",
+    "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720"
+   },
+   {
+    "titel": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 14:36:10 +0000",
+    "link": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721"
+   },
+   {
+    "titel": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 12:29:57 +0000",
+    "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217"
+   },
+   {
+    "titel": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 12:12:29 +0000",
+    "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226"
+   },
+   {
+    "titel": "MoonPay applies for national trust bank charter to expand stablecoin services",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 10:39:09 +0000",
+    "link": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198"
+   }
+  ]
+ },
+ "decrypt": {
+  "url": "https://decrypt.co/feed",
+  "status": 200,
+  "ct": "application/xml",
+  "bytes": 41582,
+  "sek": 0.03,
+  "n": 37,
+  "erste": [
+   {
+    "titel": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 16:35:59 +0000",
+    "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest"
+   },
+   {
+    "titel": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 15:42:51 +0000",
+    "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death"
+   },
+   {
+    "titel": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 13:23:01 +0000",
+    "link": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets"
+   },
+   {
+    "titel": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 12:10:14 +0000",
+    "link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business"
+   },
+   {
+    "titel": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 11:50:51 +0000",
+    "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k"
+   },
+   {
+    "titel": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+    "quelle": "",
+    "zeit": "Fri, 20 Nov 2026 11:23:00 +0000",
+    "link": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report"
+   }
+  ]
+ }
+}
