@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-19T06:39:12+01:00",
+ "stand": "2026-11-20T06:41:18+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -1335,6 +1335,29 @@
     {
      "text": "Tradays",
      "url": "https://www.tradays.com/de/economic-calendar/united-states/new-home-sales"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-329218",
+   "datum": "2026-11-25",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Vorstandsmitglied Mauderer der BBk spricht",
+   "weitere": [],
+   "ff": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "ALLE"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech"
     }
    ],
    "kalender": true
