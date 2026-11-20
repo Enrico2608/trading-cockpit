@@ -1,0 +1,22 @@
+Zeit 2026-11-20T08:27:59.975603+00:00
+OANDA api-fxpractice.oanda.com OPTIONS 204 {'Access-Control-Allow-Headers': 'Authorization, Content-Length, Content-Type, Accept-Datetime-Format, OANDA-Agent, ClientRequestID, ETag, If-Match, If-None-Match', 'Access-Control-Allow-Methods': 'GET, OPTIONS', 'Access-Control-Allow-Origin': 'https://enrico2608.github.io', 'Access-Control-Max-Age': '600'}
+OANDA api-fxpractice.oanda.com GET ohne Schlüssel 401 {'Access-Control-Allow-Origin': 'https://enrico2608.github.io', 'Access-Control-Expose-Headers': 'ETag, RequestID'} b'{"errorMessage":"Insufficient authorization to perform request."}'
+OANDA api-fxtrade.oanda.com OPTIONS 204 {'Access-Control-Allow-Headers': 'Authorization, Content-Length, Content-Type, Accept-Datetime-Format, OANDA-Agent, ClientRequestID, ETag, If-Match, If-None-Match', 'Access-Control-Allow-Methods': 'GET, OPTIONS', 'Access-Control-Allow-Origin': 'https://enrico2608.github.io', 'Access-Control-Max-Age': '600'}
+OANDA api-fxtrade.oanda.com GET ohne Schlüssel 401 {'Access-Control-Allow-Origin': 'https://enrico2608.github.io', 'Access-Control-Expose-Headers': 'ETag, RequestID'} b'{"errorMessage":"Insufficient authorization to perform request."}'
+OANDA stream-fxpractice.oanda.com OPTIONS 204 {'Access-Control-Allow-Headers': 'Authorization, Content-Length, Content-Type, Accept-Datetime-Format, OANDA-Agent, ClientRequestID, ETag, If-Match, If-None-Match', 'Access-Control-Allow-Methods': 'GET, OPTIONS', 'Access-Control-Allow-Origin': 'https://enrico2608.github.io', 'Access-Control-Max-Age': '600'}
+OANDA stream-fxpractice.oanda.com GET ohne Schlüssel 400 {'Access-Control-Allow-Origin': 'https://enrico2608.github.io', 'Access-Control-Expose-Headers': 'ETag, RequestID'} b'{"errorMessage":"Invalid value specified for \'accountID\'"}'
+HL {'xyz:GOLD': '3586.35', 'xyz:SILVER': '42.4905', 'xyz:CL': '82.246', 'xyz:XYZ100': '26336.5', 'xyz:SP500': '7162.05'} BTC 61943.5 PAXG 3577.05
+gold-api XAU 200 b'{"currency":"USD","currencySymbol":"$","exchangeRate":1.0,"name":"Gold","price":3581.100098,"symbol":"XAU","updatedAt":"2026-11-20T08:27:35Z","updatedAtReadable'
+gold-api XAG 200 b'{"currency":"USD","currencySymbol":"$","exchangeRate":1.0,"name":"Silver","price":42.299999,"symbol":"XAG","updatedAt":"2026-11-20T08:27:34Z","updatedAtReadable'
+gold-api BTC 200 b'{"currency":"USD","currencySymbol":"$","exchangeRate":1.0,"name":"Bitcoin","price":61883.269531,"symbol":"BTC","updatedAt":"2026-11-20T08:27:36Z","updatedAtRead'
+Yahoo GC=F 3575.2 USD
+Yahoo SI=F 42.235 USD
+Yahoo CL=F 82.41 USD
+Yahoo ^NDX 26517.05 USD
+Yahoo NQ=F 26410.75 USD
+Yahoo ^GSPC 7175.83 USD
+Yahoo ES=F 7176.75 USD
+Yahoo ^DJI 49097.1 USD
+Yahoo YM=F 49199.0 USD
+Coinbase BTC 200 b'{"ask":"61917.54","bid":"61917.53","volume":"13442.32335356","trade_id":1138659251,"price":"61917.53","size":"0.00000002'
+Bitstamp BTC 200 {} b'{"timestamp":"1795163281","open":"61910.04","high":"64014.05","low":"61230.67","last":"61915.69","volume":"1423.50871804'
