@@ -10,8 +10,12 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -q websockets
-      - run: mkdir -p dump && python3 werkzeuge/news_probe.py
+      - run: |
+          mkdir -p dump
+          git fetch -q origin gh-pages && git show origin/gh-pages:termine.json > dump/termine_neu.json
+          python3 werkzeuge/termine.py dump/termine_neu.json 2>&1 | tee dump/termine_log.txt
+          python3 werkzeuge/termine.py dump/termine_neu.json 2>&1 | tee -a dump/termine_log.txt
+          python3 werkzeuge/schlagzeilen.py dump/schlagzeilen.json 2>&1 | tee dump/schlagzeilen_log.txt
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
