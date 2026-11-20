@@ -1,0 +1,19 @@
+Zeit 2026-11-20T08:31:39.330694+00:00
+Pyth Suche XAU/USD metal 200 [('Metal.XAU/USD', 'GOLD / US DOLLAR')]
+Pyth Suche XAG/USD metal 200 [('Metal.XAG/USD', 'SILVER / US DOLLAR')]
+Pyth Suche WTI commodities 200 [('Commodities.Index.WTI1M/USD', 'PYTH PRICE IN USD FOR CONSTANT 1M WTI 23'), ('Commodities.Index.LWTI1M/USD', 'PYTH PRICE IN USD FOR CONSTANT 1M LONDON'), ('Commodities.Index.RWTI/USD', 'PYTH PRICE IN USD FOR RWTI 22/5')]
+Pyth Suche USOIL commodities 200 []
+Pyth Suche SPX equity 200 []
+Pyth Suche US500 equity 200 [('Equity.Index.US500/USD', 'PYTH PRICE IN USD FOR US500 24/7')]
+Pyth Suche NDX equity 200 [('Equity.US.BNDX/USD', 'VANGUARD TOTAL INTL BOND ETF / US DOLLAR')]
+Pyth Suche US100 equity 200 [('Equity.Index.US100/USD', 'PYTH PRICE IN USD FOR US100 24/7')]
+Pyth Suche DJI equity 200 []
+Pyth Suche US30 equity 200 [('Equity.Index.US30/USD', 'PYTH PRICE IN USD FOR US30 24/5')]
+Pyth Suche BTC/USD crypto 200 [('Crypto.BTC/USD', 'BITCOIN / US DOLLAR'), ('Crypto.WBTC/USD', 'WRAPPED BITCOIN / US DOLLAR'), ('Crypto.CBBTC/USD', 'COINBASE WRAPPED BITCOIN / US DOLLAR'), ('Crypto.LBTC/USD', 'LOMBARD STAKED BITCOIN / US DOLLAR'), ('Crypto.TBTC/USD', 'THRESHOLD BITCOIN / US DOLLAR'), ('Crypto.ZBTC/USD', 'ZEUS NETWORK BITCOIN / US DOLLAR')]
+Pyth latest 401 {} b'unauthorized'
+Pyth Benchmarks 404 {} b''
+Dukascopy heute Minutenkerzen 503 107 {}
+Dukascopy heute Ticks 05 Uhr UTC 503 107
+Dukascopy heute Ticks 06 Uhr UTC None 44
+Dukascopy heute Ticks 07 Uhr UTC 200 155103
+Dukascopy heute Ticks 08 Uhr UTC 404 3464
