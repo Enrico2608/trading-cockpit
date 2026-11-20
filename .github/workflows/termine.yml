@@ -1,10 +1,12 @@
-# Holt jeden Morgen die wichtigen Wirtschaftstermine (Tradays + ForexFactory, hoch + mittel) und legt sie als
-# termine.json auf die Website (Branch gh-pages). Das Cockpit lädt die Datei beim Öffnen.
+# Holt werktags alle 2 Stunden die wichtigen Wirtschaftstermine (Tradays + ForexFactory, hoch + mittel, mit den betroffenen
+# Märkten) und die Schlagzeilen je Markt (Google News) und legt sie als termine.json und schlagzeilen.json auf die Website
+# (Branch gh-pages). Das Cockpit lädt beide Dateien beim Öffnen.
 # Von Hand starten: GitHub → Actions → „Termine aktualisieren“ → „Run workflow“.
 name: Termine aktualisieren
 on:
   schedule:
-    - cron: '41 4 * * *'      # täglich 4:41 UTC = 5:41 Uhr (Winter) bzw. 6:41 Uhr (Sommer) in Deutschland
+    - cron: '41 4-20/2 * * 1-5'   # Mo–Fr 4:41 bis 20:41 UTC alle 2 Stunden (5:41–21:41 Uhr im Winter)
+    - cron: '41 15 * * 0'         # Sonntag 16:41 Uhr: die neue Woche
   workflow_dispatch:
 permissions:
   contents: write
@@ -26,14 +28,18 @@ jobs:
           ref: gh-pages
           path: site
       - name: Termine bei Tradays und ForexFactory laden
+        continue-on-error: true
         run: python3 quelle/werkzeuge/termine.py site/termine.json
+      - name: Schlagzeilen je Markt laden (Google News)
+        continue-on-error: true
+        run: python3 quelle/werkzeuge/schlagzeilen.py site/schlagzeilen.json
       - name: Speichern, wenn sich etwas geändert hat
         working-directory: site
         run: |
-          git add termine.json
+          for f in termine.json schlagzeilen.json; do [ -f "$f" ] && git add "$f"; done
           if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -q -m "Termine aktualisiert (Tradays, ForexFactory)"
+          git commit -q -m "Termine und Schlagzeilen aktualisiert"
           for i in 1 2 3; do git pull -q --rebase origin gh-pages && git push -q origin HEAD:gh-pages && exit 0; sleep 15; done
           exit 1
