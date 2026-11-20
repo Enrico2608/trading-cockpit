@@ -7,10 +7,11 @@ permissions:
 jobs:
   test:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - run: mkdir -p dump && KURSE_ABSTAND=8 python3 werkzeuge/kurse.py dump/kurse --nur GOLD --bis-jahr 2016 --minuten 30
+      - run: pip install -q websockets
+      - run: mkdir -p dump && python3 werkzeuge/hl_probe.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
