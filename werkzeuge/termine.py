@@ -4,14 +4,18 @@
 Tradays (MetaQuotes): Wichtigkeit „hoch“ und „mittel“ für USA, Eurozone, Deutschland und weltweite Termine
 (z. B. IEA-Ölbericht), von Montag dieser Woche bis WOCHEN Wochen voraus.
 ForexFactory: Impact „High“ und „Medium“ für USD und EUR (deutsche Daten als Deutschland, französische, italienische
-und spanische bleiben draußen). Der Feed von ForexFactory enthält nur die laufende Woche.
+und spanische bleiben draußen). Laufende Woche aus dem Feed von ForexFactory, die nächste Woche von der Kalenderseite
+(eingebettete Daten; höchstens alle 6 Stunden abgerufen, dazwischen aus der letzten Datei).
+
+Betroffene Märkte je Termin (statt „alle“): US-Daten → Gold, Silber, Nasdaq, S&P 500, Dow, Bitcoin, HYPE; Fed-Zinsentscheid
+→ alle acht; Energie (EIA, API, OPEC, Bohrtürme) → Öl; Eurozone/Deutschland → Gold und Silber; CFTC je Kontrakt.
 
 Meldungen, die zur selben Minute aus demselben Land kommen, werden zu einer Zeile zusammengefasst (die wichtigste
 zuerst). Die Wichtigkeit einer Zeile ist die höhere der beiden Quellen. Uhrzeiten in deutscher Zeit.
 Ergebnis: termine.json für die Website (das Cockpit lädt die Datei beim Öffnen).
 
 Aufruf:  python3 termine.py ZIEL.json
-         python3 termine.py ZIEL.json --datei TRADAYS.json --ff-datei FF.xml   (gespeicherte Antworten, zum Testen)
+         python3 termine.py ZIEL.json --datei TRADAYS.json --ff-datei FF.xml --ff-seite FF.html   (gespeicherte Antworten, zum Testen)
 
 Die Datei wird nur neu geschrieben, wenn sich Termine geändert haben (sonst kein neuer Commit).
 Ist ForexFactory nicht erreichbar, kommen nur die Tradays-Termine (und umgekehrt bleibt ohne Tradays die alte Datei).
@@ -28,7 +32,8 @@ from zoneinfo import ZoneInfo
 
 BERLIN = ZoneInfo('Europe/Berlin')
 UTC = datetime.timezone.utc
-UA = 'trading-cockpit-termine/1.0 (privates Cockpit, 1 Abruf am Tag; https://github.com/Enrico2608/trading-cockpit)'
+UA = 'trading-cockpit-termine/1.1 (privates Cockpit, werktags alle 2 Stunden; https://github.com/Enrico2608/trading-cockpit)'
+UA_SEITE = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36'
 WOCHEN = 7
 RANG = {'hoch': 2, 'mittel': 1}
 LAND_REIHE = ['USA', 'Eurozone', 'Deutschland', 'Welt']
@@ -51,8 +56,16 @@ ENERGIE = ('crude', 'oil', 'rig-count', 'opec', 'gasoline', 'distillate', 'cushi
 
 # ---------------------------------------------------------------- ForexFactory
 FF_FEED = 'https://nfs.faireconomy.media/ff_calendar_thisweek.xml'
+FF_SEITE = 'https://www.forexfactory.com/calendar?week=next'
 FF_WICHTIG = {'High': 'hoch', 'Medium': 'mittel'}     # Low, Holiday und Non-Economic bleiben draußen
 FF_OHNE = ('French ', 'Italian ', 'Spanish ')
+FF_SEITE_ALTER = 6 * 3600                              # Kalenderseite höchstens alle 6 Stunden abrufen
+
+# ---------------------------------------------------------------- Betroffene Märkte
+ALLE_MAERKTE = ['GOLD', 'SILBER', 'USOIL', 'BTC', 'HYPE', 'NASDAQ', 'SP500', 'DOW']
+US_DATEN = ['GOLD', 'SILBER', 'BTC', 'HYPE', 'NASDAQ', 'SP500', 'DOW']   # US-Konjunktur, Inflation, Fed-Reden: alle außer Öl
+EURO_DATEN = ['GOLD', 'SILBER']                                          # Eurozone/Deutschland: über den Dollar (EUR/USD)
+ZINSENTSCHEID = re.compile(r'zinsentscheid|interest-rate-decision|federal-funds-rate|fomc-statement|fomc-press|fed-chair|federal funds rate|fomc statement|fomc press', re.I)
 
 
 def hole(url, kopf, versuche=3):
@@ -67,22 +80,33 @@ def hole(url, kopf, versuche=3):
     raise RuntimeError('%s nicht erreichbar: %r' % (url.split('/')[2], fehler))
 
 
-def maerkte_td(kuerzel):
+def maerkte_land(land, text):
+    """Betroffene Märkte nach Land und Art des Termins (Text: Tradays-Kürzel oder ForexFactory-Titel)."""
+    if land == 'USA':
+        return list(ALLE_MAERKTE) if ZINSENTSCHEID.search(text) else list(US_DATEN)
+    if land in ('Eurozone', 'Deutschland'):
+        return list(EURO_DATEN)
+    return list(ALLE_MAERKTE)
+
+
+def maerkte_td(kuerzel, land='USA'):
     k = kuerzel.rsplit('/', 1)[-1]
     if k.startswith('cftc-'):
         for wort, key in (('gold', 'GOLD'), ('silver', 'SILBER'), ('crude', 'USOIL'), ('oil', 'USOIL'), ('sp-500', 'SP500'),
                           ('nasdaq', 'NASDAQ'), ('djia', 'DOW'), ('dow', 'DOW'), ('bitcoin', 'BTC')):
             if wort in k:
                 return [key]
-        return ['ALLE']
+        return list(EURO_DATEN) if land in ('Eurozone', 'Deutschland') else list(US_DATEN)
     if any(w in k for w in ENERGIE):
         return ['USOIL']
-    return ['ALLE']
+    return maerkte_land(land, kuerzel)
 
 
-def maerkte_ff(titel):
+def maerkte_ff(titel, land='USA'):
     t = titel.lower()
-    return ['USOIL'] if any(w in t for w in ('crude oil', 'natural gas', 'opec', 'oil inventories')) else ['ALLE']
+    if any(w in t for w in ('crude oil', 'natural gas', 'opec', 'oil inventories', 'rig count')):
+        return ['USOIL']
+    return maerkte_land(land, titel)
 
 
 def zeitraum(jetzt):
@@ -120,7 +144,7 @@ def td_meldungen(daten, von, bis):
         if titel:
             out.append({'quelle': 'Tradays', 'datum': datum.isoformat(), 'zeit': zeit, 'modus': modus, 'land': land, 'titel': titel,
                         'wichtig': wichtig, 'url': TD_LINK + kuerzel if kuerzel else 'https://www.tradays.com/de/economic-calendar',
-                        'maerkte': maerkte_td(kuerzel), 'id': 'td-%s' % e.get('Id'), 'n': n})
+                        'maerkte': maerkte_td(kuerzel, land), 'id': 'td-%s' % e.get('Id'), 'n': n})
     return out
 
 
@@ -157,8 +181,72 @@ def ff_meldungen(roh, von, bis):
         url = f.get('url', '') if f.get('url', '').startswith('https://www.forexfactory.com/') else 'https://www.forexfactory.com/calendar'
         nummer = re.search(r'/calendar/(\d+)', url)
         out.append({'quelle': 'ForexFactory', 'datum': datum.isoformat(), 'zeit': zeit, 'modus': modus, 'land': land, 'titel': titel,
-                    'wichtig': wichtig, 'url': url, 'maerkte': maerkte_ff(titel),
+                    'wichtig': wichtig, 'url': url, 'maerkte': maerkte_ff(titel, land),
                     'id': 'ff-%s-%s-%s' % (datum.isoformat(), (zeit or 'tag').replace(':', ''), nummer.group(1) if nummer else n), 'n': n})
+    return out
+
+
+def ff_seite_tage(html):
+    """Eingebettete Kalenderdaten der ForexFactory-Seite: window.calendarComponentStates[1] = { days: [...] }."""
+    i = html.find('calendarComponentStates[1]')
+    j = html.find('days: [', i if i >= 0 else 0)
+    if j < 0:
+        raise ValueError('keine Kalenderdaten auf der Seite')
+    j += len('days: ')
+    tiefe, im_text, esc, k = 0, False, False, j
+    for k in range(j, len(html)):
+        ch = html[k]
+        if im_text:
+            if esc:
+                esc = False
+            elif ch == '\\':
+                esc = True
+            elif ch == '"':
+                im_text = False
+        elif ch == '"':
+            im_text = True
+        elif ch == '[':
+            tiefe += 1
+        elif ch == ']':
+            tiefe -= 1
+            if tiefe == 0:
+                break
+    return json.loads(html[j:k + 1])
+
+
+def ff_seite_meldungen(html, von, bis):
+    """ForexFactory-Kalenderseite → Meldungen wie beim Feed (Zeitpunkt aus „dateline“, UTC)."""
+    out = []
+    for tag in ff_seite_tage(html):
+        for n, e in enumerate(tag.get('events') or []):
+            wichtig = {'high': 'hoch', 'medium': 'mittel'}.get(str(e.get('impactName') or '').lower())
+            titel = ' '.join(str(e.get('name') or '').replace('\\/', '/').split())
+            if not wichtig or not titel:
+                continue
+            land = {'USD': 'USA', 'All': 'Welt'}.get(e.get('currency'))
+            if e.get('currency') == 'EUR':
+                if titel.startswith(FF_OHNE):
+                    continue
+                land = 'Deutschland' if titel.startswith('German ') else 'Eurozone'
+            if not land:
+                continue
+            zeitlabel = str(e.get('timeLabel') or '').strip().lower()
+            if re.fullmatch(r'\d{1,2}:\d{2}(am|pm)', zeitlabel) and not e.get('timeMasked') and isinstance(e.get('dateline'), (int, float)):
+                tb = datetime.datetime.fromtimestamp(e['dateline'], tz=UTC).astimezone(BERLIN)
+                datum, zeit, modus = tb.date(), tb.strftime('%H:%M'), ''
+            else:
+                try:
+                    datum = datetime.datetime.strptime(str(e.get('date') or ''), '%b %d, %Y').date()
+                except ValueError:
+                    continue
+                zeit, modus = None, 'ganztägig' if 'all day' in zeitlabel else 'offen'
+            if not (von <= datum <= bis):
+                continue
+            solo = str(e.get('soloUrl') or '')
+            url = 'https://www.forexfactory.com' + solo if solo.startswith('/calendar/') else 'https://www.forexfactory.com/calendar?week=next'
+            out.append({'quelle': 'ForexFactory', 'datum': datum.isoformat(), 'zeit': zeit, 'modus': modus, 'land': land, 'titel': titel,
+                        'wichtig': wichtig, 'url': url, 'maerkte': maerkte_ff(titel, land),
+                        'id': 'ff-%s-%s-%s' % (datum.isoformat(), (zeit or 'tag').replace(':', ''), e.get('id') or n), 'n': 1000 + n})
     return out
 
 
@@ -209,7 +297,7 @@ def zusammenfassen(meldungen):
         links = []
         for x in (td[:1] + ff[:1]):
             links.append({'text': x['quelle'], 'url': x['url']})
-        ms = sorted({m for x in liste for m in x['maerkte']})
+        ms = [m for m in ALLE_MAERKTE if any(m in x['maerkte'] or 'ALLE' in x['maerkte'] for x in liste)]
         vorlaeufig = any(x['modus'] == 'vorläufig' for x in td)
         termine.append({
             'id': haupt[0]['id'],
@@ -220,7 +308,7 @@ def zusammenfassen(meldungen):
             'weitere': titel[1:],
             'ff': ff_zeile,
             'land': land,
-            'maerkte': ['ALLE'] if 'ALLE' in ms else ms,
+            'maerkte': ms,
             'wichtig': 'hoch' if any(x['wichtig'] == 'hoch' for x in liste) else 'mittel',
             'quelle': links[0]['text'],
             'url': links[0]['url'],
@@ -253,6 +341,32 @@ def main():
         meldungen += ff
     except Exception as e:  # noqa: BLE001 – ohne ForexFactory weiter
         print('ForexFactory: %s – nur Tradays.' % e)
+    # Nächste Woche: Kalenderseite von ForexFactory (der Feed hat nur die laufende Woche)
+    try:
+        alt = json.load(open(ziel, encoding='utf-8'))
+    except (OSError, ValueError):
+        alt = {}
+    zwischen = alt.get('ff_naechste') if isinstance(alt.get('ff_naechste'), dict) else {}
+    ff_naechste, ff_naechste_stand = [], ''
+    gespeichert = zwischen.get('meldungen') if isinstance(zwischen.get('meldungen'), list) else []
+    try:
+        alter = (jetzt - datetime.datetime.fromisoformat(zwischen['stand'])).total_seconds() if zwischen.get('stand') else 1e9
+    except (TypeError, ValueError):
+        alter = 1e9
+    naechste_von = von + datetime.timedelta(days=6)   # ForexFactory-Woche: Sonntag bis Samstag
+    if gespeichert and alter < FF_SEITE_ALTER and not arg('--ff-seite'):
+        ff_naechste, ff_naechste_stand = [x for x in gespeichert if isinstance(x, dict) and x.get('datum', '') >= naechste_von.isoformat()], zwischen['stand']
+    else:
+        try:
+            html = open(arg('--ff-seite'), encoding='utf-8').read() if arg('--ff-seite') else hole(FF_SEITE, {'Accept': 'text/html', 'User-Agent': UA_SEITE, 'Accept-Language': 'en-US,en;q=0.9'}).decode('utf-8', 'replace')
+            ff_naechste = [x for x in ff_seite_meldungen(html, von, bis) if x['datum'] >= naechste_von.isoformat()]
+            ff_naechste_stand = jetzt.astimezone(BERLIN).isoformat(timespec='seconds')
+        except Exception as e:  # noqa: BLE001 – ohne die nächste Woche weiter
+            print('ForexFactory nächste Woche: %s' % e)
+            ff_naechste = [x for x in gespeichert if isinstance(x, dict) and x.get('datum', '') >= naechste_von.isoformat()]
+            ff_naechste_stand = zwischen.get('stand', '') if ff_naechste else ''
+    vorhanden = {x['id'] for x in meldungen}
+    meldungen += [x for x in ff_naechste if x.get('id') not in vorhanden]
     termine = zusammenfassen(meldungen)
     if len(termine) < 10 or not any(t['wichtig'] == 'hoch' for t in termine):
         raise SystemExit('Zu wenige Termine (%d) – alte Datei bleibt.' % len(termine))
@@ -261,24 +375,22 @@ def main():
         'quelle': 'Tradays und ForexFactory' if ff_ok else 'Tradays',
         'quellen': {'tradays': True, 'forexfactory': ff_ok},
         'hinweis': 'Wichtige Termine (hoch und mittel) aus den Wirtschaftskalendern von Tradays und ForexFactory für USA, '
-                   'Eurozone und Deutschland, Uhrzeiten in deutscher Zeit. ForexFactory liefert nur die laufende Woche. '
-                   'Wird täglich automatisch aktualisiert.',
+                   'Eurozone und Deutschland, Uhrzeiten in deutscher Zeit, mit den betroffenen Märkten. ForexFactory: laufende '
+                   'und nächste Woche. Wird werktags alle 2 Stunden automatisch aktualisiert.',
+        'ff_wochen': (1 if ff_ok else 0) + (1 if ff_naechste else 0),
         'von': von.isoformat(),
         'bis': bis.isoformat(),
         'termine': termine,
+        'ff_naechste': {'stand': ff_naechste_stand, 'meldungen': ff_naechste},
     }
-    try:
-        alt = json.load(open(ziel, encoding='utf-8'))
-        if alt.get('von') == neu['von'] and alt.get('termine') == neu['termine']:
-            print('Termine unverändert (%d Zeilen, %s bis %s).' % (len(termine), neu['von'], neu['bis']))
-            return
-    except (OSError, ValueError):
-        pass
+    if alt.get('von') == neu['von'] and alt.get('termine') == neu['termine'] and alt.get('ff_naechste') == neu['ff_naechste']:
+        print('Termine unverändert (%d Zeilen, %s bis %s).' % (len(termine), neu['von'], neu['bis']))
+        return
     with open(ziel, 'w', encoding='utf-8') as f:
         json.dump(neu, f, ensure_ascii=False, indent=1)
         f.write('\n')
-    print('%d Termine geschrieben (%s bis %s, davon %d hoch; ForexFactory: %s).' % (
-        len(termine), neu['von'], neu['bis'], sum(t['wichtig'] == 'hoch' for t in termine), '%d Meldungen' % ff_anzahl if ff_ok else 'nicht erreichbar'))
+    print('%d Termine geschrieben (%s bis %s, davon %d hoch; ForexFactory: %s, nächste Woche %d Meldungen).' % (
+        len(termine), neu['von'], neu['bis'], sum(t['wichtig'] == 'hoch' for t in termine), '%d Meldungen' % ff_anzahl if ff_ok else 'nicht erreichbar', len(ff_naechste)))
 
 
 if __name__ == '__main__':
