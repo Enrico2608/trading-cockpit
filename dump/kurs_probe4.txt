@@ -1,0 +1,25 @@
+  0.5 s subscriptionResponse {"channel": "subscriptionResponse", "data": {"method": "subscribe", "subscription": {"type": "activeAssetCtx", "coin": "xyz:GOLD"}}}
+  0.5 s activeAssetCtx xyz:GOLD oracle 3586.8 mark 3589.0 mid 3588.95 Nr. 1 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  0.6 s subscriptionResponse {"channel": "subscriptionResponse", "data": {"method": "subscribe", "subscription": {"type": "activeAssetCtx", "coin": "xyz:SP500"}}}
+  0.6 s activeAssetCtx xyz:SP500 oracle 7152.9 mark 7157.8 mid 7157.45 Nr. 1 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  0.6 s subscriptionResponse {"channel": "subscriptionResponse", "data": {"method": "subscribe", "subscription": {"type": "activeAssetCtx", "coin": "BTC"}}}
+  0.6 s activeAssetCtx BTC oracle 62003.8 mark 61968.0 mid 61962.5 Nr. 1 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  1.1 s activeAssetCtx BTC oracle 62003.8 mark 61968.0 mid 61954.5 Nr. 2 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  1.1 s activeAssetCtx xyz:GOLD oracle 3586.6 mark 3588.9 mid 3588.95 Nr. 2 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  1.1 s activeAssetCtx xyz:SP500 oracle 7152.6 mark 7157.4 mid 7157.25 Nr. 2 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  1.9 s activeAssetCtx BTC oracle 61992.0 mark 61963.0 mid 61954.5 Nr. 3 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  1.9 s activeAssetCtx xyz:GOLD oracle 3586.6 mark 3588.9 mid 3588.95 Nr. 3 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  1.9 s activeAssetCtx xyz:SP500 oracle 7152.6 mark 7157.4 mid 7157.25 Nr. 3 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  9.2 s activeAssetCtx BTC oracle 61996.0 mark 61948.0 mid 61967.5 Nr. 10 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  9.2 s activeAssetCtx xyz:GOLD oracle 3587.0 mark 3589.0 mid 3588.95 Nr. 10 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+  9.2 s activeAssetCtx xyz:SP500 oracle 7151.7 mark 7156.7 mid 7157.45 Nr. 10 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 19.3 s activeAssetCtx BTC oracle 62003.0 mark 61968.0 mid 61967.5 Nr. 20 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 19.3 s activeAssetCtx xyz:GOLD oracle 3587.3 mark 3589.0 mid 3588.95 Nr. 20 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 19.3 s activeAssetCtx xyz:SP500 oracle 7151.2 mark 7156.2 mid 7156.15 Nr. 20 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 29.6 s activeAssetCtx BTC oracle 62000.0 mark 61964.0 mid 61968.5 Nr. 30 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 29.6 s activeAssetCtx xyz:GOLD oracle 3588.6 mark 3590.3 mid 3591.15 Nr. 30 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 29.6 s activeAssetCtx xyz:SP500 oracle 7151.7 mark 7156.6 mid 7157.65 Nr. 30 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 40.0 s activeAssetCtx BTC oracle 62025.0 mark 61989.0 mid 61996.5 Nr. 40 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 40.0 s activeAssetCtx xyz:GOLD oracle 3589.3 mark 3591.2 mid 3591.15 Nr. 40 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+ 40.0 s activeAssetCtx xyz:SP500 oracle 7153.9 mark 7158.8 mid 7158.75 Nr. 40 Felder ['dayBaseVlm', 'dayNtlVlm', 'funding', 'impactPxs', 'markPx', 'midPx', 'openInterest', 'oraclePx', 'premium', 'prevDayPx']
+Zähler in 40 s: {'xyz:GOLD': 40, 'xyz:SP500': 40, 'BTC': 41}
