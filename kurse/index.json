@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T01:54:52+00:00",
+ "stand": "2026-11-20T02:45:15+00:00",
  "quelle_url": {
   "Dukascopy": "https://www.dukascopy.com/swiss/english/marketwatch/historical/",
   "Coinbase": "https://www.coinbase.com/"
@@ -35,6 +35,36 @@
    "quelle": "Dukascopy XAG/USD (Spot, Bid)",
    "nk": 3,
    "von": 1420153200,
+   "bis": 1795042800,
+   "dateien": [
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11"
+   ]
+  },
+  "USOIL": {
+   "quelle": "Dukascopy WTI Light Crude (CFD, Bid)",
+   "nk": 2,
+   "von": 1420156800,
    "bis": 1795042800,
    "dateien": [
     "2015",
