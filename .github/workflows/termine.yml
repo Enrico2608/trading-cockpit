@@ -12,8 +12,8 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           mkdir -p dump
-          git fetch -q origin gh-pages && git show origin/gh-pages:termine.json > dump/termine_neu.json
-          python3 werkzeuge/termine.py dump/termine_neu.json 2>&1 | tee dump/termine_log.txt
+          curl -sSL https://raw.githubusercontent.com/Enrico2608/trading-cockpit/gh-pages/termine.json -o dump/termine_neu.json
+          time python3 werkzeuge/termine.py dump/termine_neu.json 2>&1 | tee dump/termine_log.txt
           python3 werkzeuge/termine.py dump/termine_neu.json 2>&1 | tee -a dump/termine_log.txt
           python3 werkzeuge/schlagzeilen.py dump/schlagzeilen.json 2>&1 | tee dump/schlagzeilen_log.txt
       - run: |
