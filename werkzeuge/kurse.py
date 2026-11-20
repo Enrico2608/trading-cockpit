@@ -53,8 +53,10 @@ ZULETZT = {}
 STATISTIK = {'ok': 0, 'wiederholt': 0}
 
 
-def hole(url, versuche=6):
-    """Höflich abrufen: je Server fester Abstand zwischen Abrufen, bei 429/503/Abbruch lange Pausen."""
+def hole(url, versuche=12):
+    """Höflich abrufen: je Server fester Abstand zwischen Abrufen, bei 429/503/Abbruch lange Pausen.
+    Dukascopy sperrt GitHub-Server zeitweise bis zu ~15 Min.; mit 12 Versuchen (bis ~45 Min.) kommt ein Lauf meist
+    durch, statt den Markt abzubrechen. Das Zeitbudget (--minuten) begrenzt das Warten ohnehin."""
     server = url.split('/')[2]
     pause = 45
     for v in range(versuche):
