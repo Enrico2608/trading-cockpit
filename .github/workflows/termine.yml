@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install -q websockets
-      - run: mkdir -p dump && python3 werkzeuge/kurs_probe4.py
+      - run: mkdir -p dump && python3 werkzeuge/news_probe.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
