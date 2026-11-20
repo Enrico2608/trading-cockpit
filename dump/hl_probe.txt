@@ -1,0 +1,61 @@
+Start 2026-11-20T07:32:03.584457+00:00
+REST xyz:GOLD 1m: 11 Kerzen, letzte {"t": 1795159920000, "T": 1795159979999, "s": "xyz:GOLD", "i": "1m", "o": "3553.9", "c": "3553.9", "h": "3553.9", "l": "3553.8", "v": "0.7203", "n": 4}
+REST PAXG 1m: 9 Kerzen, letzte {"t": 1795159800000, "T": 1795159859999, "s": "PAXG", "i": "1m", "o": "3547.1", "c": "3547.0", "h": "3547.1", "l": "3547.0", "v": "0.233", "n": 4}
+REST xyz:SILVER 1m: 11 Kerzen, letzte {"t": 1795159920000, "T": 1795159979999, "s": "xyz:SILVER", "i": "1m", "o": "41.723", "c": "41.723", "h": "41.723", "l": "41.723", "v": "4.79", "n": 1}
+allMids xyz: GOLD=3553.85 SILVER=41.7315 XYZ100=26201.5 (147 Einträge)
+   0.3 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "candle", "interval": "1m", "coin": "xyz:GOLD"}}
+   0.4 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "candle", "interval": "1h", "coin": "xyz:GOLD"}}
+   0.4 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "candle", "interval": "1d", "coin": "xyz:GOLD"}}
+   0.4 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "candle", "interval": "1h", "coin": "PAXG"}}
+   0.4 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "candle", "interval": "1h", "coin": "BTC"}}
+   0.4 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "candle", "interval": "1h", "coin": "xyz:SILVER"}}
+   0.4 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "candle", "interval": "1h", "coin": "xyz:XYZ100"}}
+   0.4 s  Abo bestätigt: {"method": "subscribe", "subscription": {"type": "trades", "coin": "xyz:GOLD"}}
+   1.0 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61595.0 n=6971 (Nr. 1)
+   1.5 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61594.0 n=6972 (Nr. 2)
+   2.3 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61592.0 n=6974 (Nr. 3)
+   4.7 s  candle s='xyz:XYZ100' i='1h' t=20.11. 07:00:00 c=26192.0 n=2594 (Nr. 1)
+   5.2 s  candle s='xyz:XYZ100' i='1h' t=20.11. 07:00:00 c=26192.0 n=2596 (Nr. 2)
+   7.0 s  candle s='xyz:XYZ100' i='1h' t=20.11. 07:00:00 c=26192.0 n=2598 (Nr. 3)
+   7.9 s  candle s='xyz:GOLD' i='1m' t=20.11. 07:32:00 c=3552.7 n=8 (Nr. 1)
+   7.9 s  candle s='xyz:GOLD' i='1h' t=20.11. 07:00:00 c=3552.7 n=691 (Nr. 1)
+   7.9 s  candle s='xyz:SILVER' i='1h' t=20.11. 07:00:00 c=41.725 n=949 (Nr. 1)
+   7.9 s  candle s='xyz:GOLD' i='1d' t=20.11. 00:00:00 c=3552.7 n=15587 (Nr. 1)
+  10.0 s  candle s='PAXG' i='1h' t=20.11. 07:00:00 c=3543.6 n=110 (Nr. 1)
+  14.5 s  candle s='xyz:GOLD' i='1m' t=20.11. 07:32:00 c=3551.9 n=11 (Nr. 2)
+  14.5 s  candle s='xyz:GOLD' i='1h' t=20.11. 07:00:00 c=3551.9 n=694 (Nr. 2)
+  14.5 s  candle s='xyz:GOLD' i='1d' t=20.11. 00:00:00 c=3551.9 n=15590 (Nr. 2)
+  15.0 s  candle s='xyz:SILVER' i='1h' t=20.11. 07:00:00 c=41.713 n=952 (Nr. 2)
+  16.3 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61496.0 n=7745 (Nr. 25)
+  18.4 s  candle s='xyz:GOLD' i='1m' t=20.11. 07:32:00 c=3552.0 n=12 (Nr. 3)
+  18.4 s  candle s='xyz:GOLD' i='1h' t=20.11. 07:00:00 c=3552.0 n=695 (Nr. 3)
+  18.4 s  candle s='xyz:GOLD' i='1d' t=20.11. 00:00:00 c=3552.0 n=15591 (Nr. 3)
+  19.7 s  candle s='PAXG' i='1h' t=20.11. 07:00:00 c=3544.0 n=111 (Nr. 2)
+  23.5 s  candle s='xyz:XYZ100' i='1h' t=20.11. 07:00:00 c=26187.0 n=2662 (Nr. 25)
+  26.8 s  candle s='xyz:SILVER' i='1h' t=20.11. 07:00:00 c=41.704 n=954 (Nr. 3)
+  27.3 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61451.0 n=8171 (Nr. 50)
+  30.2 s  → ping gesendet
+  30.3 s  pong: {"channel": "pong"}
+  39.1 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61504.0 n=8511 (Nr. 75)
+  53.7 s  candle s='PAXG' i='1h' t=20.11. 07:00:00 c=3544.1 n=112 (Nr. 3)
+  55.4 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61512.0 n=8572 (Nr. 100)
+  60.5 s  → ping gesendet
+  60.6 s  pong: {"channel": "pong"}
+  71.3 s  candle s='xyz:XYZ100' i='1h' t=20.11. 07:00:00 c=26190.0 n=2704 (Nr. 50)
+  74.7 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61503.0 n=8690 (Nr. 125)
+  89.1 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61503.0 n=8736 (Nr. 150)
+  90.4 s  → ping gesendet
+  90.5 s  pong: {"channel": "pong"}
+ 106.6 s  candle s='xyz:XYZ100' i='1h' t=20.11. 07:00:00 c=26184.0 n=2757 (Nr. 75)
+ 107.4 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61500.0 n=8853 (Nr. 175)
+ 118.4 s  candle s='xyz:GOLD' i='1m' t=20.11. 07:34:00 c=3550.9 n=2 (Nr. 25)
+ 118.4 s  candle s='xyz:GOLD' i='1h' t=20.11. 07:00:00 c=3550.9 n=742 (Nr. 25)
+ 118.4 s  candle s='xyz:GOLD' i='1d' t=20.11. 00:00:00 c=3550.9 n=15638 (Nr. 25)
+ 120.5 s  → ping gesendet
+ 120.6 s  pong: {"channel": "pong"}
+ 126.1 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61508.0 n=8995 (Nr. 200)
+ 126.6 s  candle s='xyz:SILVER' i='1h' t=20.11. 07:00:00 c=41.688 n=999 (Nr. 25)
+ 133.4 s  candle s='xyz:XYZ100' i='1h' t=20.11. 07:00:00 c=26184.0 n=2803 (Nr. 100)
+ 143.8 s  candle s='BTC' i='1h' t=20.11. 07:00:00 c=61510.0 n=9089 (Nr. 225)
+Zähler je (Coin, Intervall) in 150 s: {"trades|": 114, "BTC|1h": 234, "xyz:XYZ100|1h": 112, "xyz:GOLD|1m": 40, "xyz:GOLD|1h": 40, "xyz:SILVER|1h": 29, "xyz:GOLD|1d": 40, "PAXG|1h": 8}
+Ruhetest: Verbindung nach 100 s noch offen (ohne Ping)
