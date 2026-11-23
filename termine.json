@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T14:58:04+01:00",
+ "stand": "2026-11-23T20:39:38+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -389,10 +389,6 @@
     },
     {
      "titel": "Prelim GDP Price Index q/q",
-     "wichtig": "mittel"
-    },
-    {
-     "titel": "Unemployment Claims",
      "wichtig": "mittel"
     }
    ],
