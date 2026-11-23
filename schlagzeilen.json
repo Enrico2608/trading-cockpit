@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T16:42:02+01:00",
+ "stand": "2026-11-23T18:32:47+01:00",
  "quelle": "Google News",
  "hinweis": "Schlagzeilen der letzten 48 Stunden aus Google News (deutsch) je Markt – nur Überschrift, Quelle und Link. Wird werktags alle 2 Stunden automatisch aktualisiert.",
  "gruppen": [
@@ -17,28 +17,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Dieser Winter könnte für Stromkunden in Deutschland richtig teuer werden",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-23T16:25+01:00",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUjMyRzNpS0VVMmRacTNiSkZPSXJVZEFiV3hSOU1laEVvRy13MU9HX0RSZU9CRlNKR0x2TUt5UXN6ZWZWdFZJSnR1RDVnU3NyOXJlV01keTUxSnFlVlFxdlR4enRjMW9XcEwyMHpoenJhSkI1LUNvMHB5WDBYdXE0OGtscTZJX0pWSGxFclFaTDdlZXdnNUlRaU9jT0JxODVvMUs4QTB6U1ZNYnZJN04yOVdQT3E4bTA?oc=5"
+       "titel": "NVIDIA-Aktie: Der Billionen-Dollar-Mann Jensen Huang rettet den AI-Trade – und die Wall Street",
+       "quelle": "Finanzen.net",
+       "zeit": "2026-11-23T18:14+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRlBBRTF2dnhkT0xhLXRnYVd6TGFDcGtQY2FXQXkxRkR2cWNJWHU1eTZBYTh3ZUFpZDBHU1pvM0hySWpBNmxfOUoxRnJWTGZyR0xPWGdXNUJDWm1YNjNOTWlJZktNQXBwRXBTUjRSbGZlVEsxNTNmRzBCWEtXWXpacFFOQXNIcUx4WV9RVG9WdUF0bWxCeTI2eWZjRHFhNGVVRzRSRVNjdURYZl9rUlk3SkVta0dlQnpGQXA1Rld1YnFoVnhpaXh6Sm9ST2xNd3RId0FMNWliNVJrQmRBS0hfaGQ1RlJmVzc1MVI1T2Vabw?oc=5"
       },
       {
-       "titel": "Goldriese AngloGold Ashanti steigt mit mindestens 72,7 Mio. Dollar ein!",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-23T16:23+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlJsMjBWQ25Ndmdlc0VONmFrUHlxNEZuTG5pYXJBcjlfaXY1Qy1pbUh5enhjWXBCVFJqazRKR0VTTUgyTGhVbVBTZjJSWTMtdGw1TS1CMjdUd0t2MXBhQ2VSMHRHbTVwTGlCTjdiM2MzYkZsV1Z6M2huMm5sd01WbnVJZDJiZjQtQUs4SUM3VDFmVWxqV0t2anN2SDlJVXlRODJsalpYa0ZuQlVKZEg4?oc=5"
+       "titel": "Wall Street legt kräftig zu, nachdem Nvidia Huang wieder ins Amt berufen hat; der Dollar steigt sprunghaft an",
+       "quelle": "TradingView",
+       "zeit": "2026-11-23T18:06+01:00",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVnR0UF8wU0lPUDNYM2Zkay1DU3hjd3libUdVYnB4NHdnNUhhV2U1bGFyQjlfd1NMWklOcHBqb0l5SFV4RWFKSG5IeUZ1MW9PTE9feGlhX3pVOVc3N2tIVEQ4YWlJNmgwTGIxNy0wZUwyLVhkTzZv?oc=5"
       },
       {
-       "titel": "Nach den Midterms: Wird die Stromrechnung zum zusätzlichen Risiko für Nvidia?",
+       "titel": "Börsen-Rally: NVIDIA schießt 32 Prozent hoch – DAX gewinnt 3,2 Prozent",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-23T16:19+01:00",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2ZNcm5WeXZvQXlsZElkeVk4RVNEN2ZGNXBSa3NWWjk2UmY5bVJ5bmdLOG9ROXhWRTdQR3RDSzVwMGE4LUFsam14ZzVuQ01ucDNxYlI5ejBaRmxsRGtid1BrdmYzQUtXVlRKb0FBVm9qMno0eGd6N19ISGp2bUUxV3hUcnlicllYbFV4TDZJdmJPQjNCZFliaGRRMkpxMWxZVURKTw?oc=5"
+       "zeit": "2026-11-23T17:50+01:00",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGFBcU1DRHY3aEtxdzRPY3hPMVAzVGFqcHdNVWVUYWUwOGtFZkJKdWZqd0NzTHdvd05rY2JUWVFPc0w0TzhGNWdPdTZUbDJJelQtSXNSWk5yeENyRXBxdkxtRlIxMDI1WWJWYXAxVnhQMDFPMVlvaWdFaUJCdzFnOFczQXlYV2RwMXNxSWZ1VVpsV0x3RDVVTkg3a09lb20xeFZKSUJrRHAxREJjUGpVSElXbWc1d0xsX3FuengwWEI3QUhDSkVz?oc=5"
       },
       {
-       "titel": "Wall Street steuert auf M&A-Rekord zu: CrowdStrike kauft Zscaler",
-       "quelle": "aktien.news",
-       "zeit": "2026-11-23T16:16+01:00",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOanE0QWVoejZUeG1RVlMwSGloOWJRcGR4SWE5a0Q1aWpRbHVIMHZLdWVhTjh4YmU5T1lzcGZOdFJIekZNSmxmQU5MSmltMlFBbng1aS14SmRCZlMzUElrWlZRZVFhTWdxM1Nxd2h2dWNpS2tHNlJreTZuWVBVS0F0cHprRGZaQUtmcHJkX0JNbw?oc=5"
+       "titel": "NVIDIA-Volltreffer: Gewinn mitgenommen, Depot auf Allzeithoch",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-23T17:39+01:00",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbmtDQk1fMnhWUzQ0Ni1QNHJjR2xuVk5NQnNnTmYzSFQxZERKSHBPb282QW9tcFRsblVaY2VHdjV3eXo2M2hrUl9kRXlzSkktZHdqeC04eDRVTjJmV2c1VDNSTGpIT0FzN25OWGhMOUxNeS1IQTlsT2JLakhHX1pVMkJqLVZSZU1SQmMzOTNWeGFKM0t4ZlQ5cWZ6SGdLeUJTM2p3UkI5QmJqLU1WcXAxNkhqeFYwOHJrcnJ3N1A2eEN4UW9t?oc=5"
       }
      ]
     },
@@ -50,28 +50,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Wohl auf Druck der US-Regierung: Nvidia beruft Ex-Chef Huang zurück an die Firmenspitze",
-       "quelle": "Tagesspiegel",
-       "zeit": "2026-11-23T16:35+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenhPN3ViOHZiN3RvWjZtcUVocXVhMkx5dUtESFI4NlRDNmhmUWw0dmp2ZEYtRjBuRTZtNllVRlB0c20ydDJIczc1R21XY1dFZDZ0RWdONzFBVS1EeVdlU0NGcWVTbVVyWXNCZFJjb0JxQVBTSlBtOEM3RjcxV3lGS3FTX29nN3hZRFpEckZqWW1zdklVTFJxdURja0czZkVzdUZJTFpDekVTRHV2SVotM2dBX2xwdTNfbFd1OWFHVjgzN2JYWEFvVQ?oc=5"
+       "titel": "Nvidia holt Jensen Huang zurück – Aktie schießt nach oben",
+       "quelle": "Capital.de",
+       "zeit": "2026-11-23T18:26+01:00",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjN1SjVxbk95VmdpMEZ4TjNqb0ZkV194bEtFSUtFWk1mTGMwTHNnQWFaSWNwcUN3QlVCWGtyY2JoM2V0a0VyaG1YY1dHX0piQVdURzdQSjFIQUx2Y0JBWXBPWC1nRHZLejA3cjdUazJkREYxOHVCWHZadUxKQnU4TDVXdUdNbHNvZFFMNlRIc2ZnZmJOX1dwNW11ZGlkejlpMktONktZOWdnX2k4aTR3c21QQmd5cmNVVHdhS2pVZw?oc=5"
       },
       {
-       "titel": "Huang-Comeback! Nvidia entfacht Börsen-Feuerwerk",
-       "quelle": "BILD",
-       "zeit": "2026-11-23T16:34+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3hicmcwTHk3bDJ0dXRJZDNCbi0tdGVITFdsN2F6RkdiQ2tOX3N5OV9kSGJ3SGlscmdIMGF5a0pGTzFTUXNOS2JTQUVYMG1RR1ItM3FUTEtYSDhPemVrQi1uQ3RadTA3M253QzFFSVZfZGMwOGV2dTQwLWZoeG44V3Z0R2R4TnN1Y2REV2w3NUxSRzgyUV9JM2JOM2ZIeEU0OXNycE9pM1dJZnJsRXdtdG9pMnUwbVlJaXJkRDJjcFJvQ01SRlJDaA?oc=5"
+       "titel": "Jensen Huang: Es geht um weit mehr als eine Männerfreundschaft",
+       "quelle": "DIE ZEIT",
+       "zeit": "2026-11-23T18:20+01:00",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkk3d2wweTJ0d0lWRWJSWmUxTFRORk9kWmRacXZWazR3SGNDdFg5c3o5aEtxODQ0d0o5TUV2eFp1cTllUVdQNm5ybl9pdjJfVlRyZEQ5TVp0NWlMWlFza3pLa2lMeG9OdDRaWmQzalN0Z3BhOFU0VjMzZHJCa0Z3cFdzQVc5YjhxYVl3Nw?oc=5"
       },
       {
-       "titel": "Nvidia, Trump und die Frage nach dem Ende der KI-Rallye",
-       "quelle": "aktien.news",
-       "zeit": "2026-11-23T16:34+01:00",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnMyREhycG5pd2gzZTJ6MDB4a09wd3ZGdzJqaUdkbXFvbnhYb044c3NNSkF5bUFrZDdkNjRZNEh3ZlNzTlk2OFFlTEJ4dTRSV1c1Q3FJWjRoUFc1LXNaMXdIcWRhdjlNa1RoMjBBSi00NkhIRXU2SEp5XzVBNzEyQTBPLUg?oc=5"
+       "titel": "„Das ist besser als eine Seifenoper“ – Anleger feiern Huang-Rückkehr",
+       "quelle": "RP Online",
+       "zeit": "2026-11-23T18:17+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3QzdjZ5OW9aSUdTREhVaXJPb3JLWnQyakN5ZXJscEFPQnNjelpaclU0WmZpdEx2ZEhVZGRNZENTSmoxU0hxZDV5SW41Rzc0cGo3NDllems0M0QteDY3d1FrZ0FZbDQycFdlVXlxY2RWRkpNYTA5d3N5UEltY1dvZzgwc095dDVnLU01S3k3U0lsQW04US1FaHhyVDgxNlU0MXB4OTNZemxhM2tkVWUyLU41SQ?oc=5"
       },
       {
-       "titel": "Rückkehr zu Nvidia: Jensen Huang kann offenbar machen, was er will",
-       "quelle": "t3n",
-       "zeit": "2026-11-23T16:33+01:00",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYm90YXRzTWFUalc3SERGdWRjWVU3UmtRazY0X2FPYXV5QjJRdVk3bV90cmhVQTEybTZ6bHI4cVYyOFBwbzYtWDhYNUQ0eVh0a3NwbVhsSEZfRm5sSGdiR1d5bncxdkNoUzZMTEZNaHlEWEFjQTVwTlU2YmVYS251aFNIU0N5UU5HdVBYbmtQbURjemNCVzZCYzd3?oc=5"
+       "titel": "Aktien Europa Schluss: Kräftige Erholung nach Rückkehr Huangs als Nvidia-Chef",
+       "quelle": "T-Online",
+       "zeit": "2026-11-23T18:13+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVUVxR1VTQmlBN0lubDl2dDc3dl9lOTZobXZSdXBVRE9DUmI0aW9qWEdwdmZlZ19Qc0l5bU5Ldld5MWdwX1ZHSFBrcy1yV3lVQ3NjaGVsYTVnVDZIc1U5eUttWEF3R0ZROTFZNjc5QmpYTXlYM0xVUXJqa2RORmV2a29ud0RJMU5vTzl5TS1wYW1neXJHUW5OQi1LR180eTllZGNkYlFTQkRsa0RmTG5iQU9TR1FkOGZuWXQybEduWVpieGFLNWdVdUJBeXRqTWhKNkxKcnRwMDZERGc?oc=5"
       }
      ]
     }
@@ -89,28 +89,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Nach dem Kurssturz: Wer traut sich noch, Bitcoin zu kaufen?",
-       "quelle": "MarketScreener Deutschland",
-       "zeit": "2026-11-23T16:36+01:00",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDgySF8zeThzRk1KU000RTNfRk9JbExyc3hfalE5X1NxSFRMV1VhaGJTWl9NQnBZTVRwSTVjVmVKQnJYQWkzZS16U0hTQ2doMlp1WVItZnFLNHVuWk55dS1BRVBaMG5Td1lBdWVRcjB1dGlldXU3OTlkQmRURTVNSEZCSDEzc3dLY0V2RlBDVkJrdC1lMjJkZ1Z1Sk9qZW1kaDYyR3ptSU5NbzMyREJPbHNZOHN4eVcyR0RvbVZfaw?oc=5"
-      },
-      {
-       "titel": "Russische Abgeordnete wollen eingezogene Bitcoin in Staatsreserve übertragen",
-       "quelle": "Blocktrainer",
-       "zeit": "2026-11-23T16:33+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2pfZWo4ZXU5bGJGTTBzU3NZSFZISXg1QUxXM3NEZ0cwbm9jaVNJbE95cU1ab2Mxai1MbU9HSHBscE5MZU9TckhrTE5JRHh5d19kc3JkUjJWazN5TWh6U29LS29BMHF3WmUzalNDbXRjUnduQll1bGJwaW1SYmZET1hPaFgwMTVqTGNudEEtejFnRndqZDhROGVPQk9TWHpPQnlqWmg5MU80Yk9FOFdR?oc=5"
-      },
-      {
-       "titel": "Seltenes Bitcoin-Signal erst zweimal zuvor aufgetreten: Anlass zur Sorge?",
-       "quelle": "Newsbit.de",
-       "zeit": "2026-11-23T16:28+01:00",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1FxbG4zdDlpMjZPai1jbXVOYXBkUzl5NEJpVmtERlNLSjl3eld2YTBHTjZWOWxKY1BDWnYxOFEwcXlOSUItUEtnU2pqRUV0dkd0WUJSN0RLRzJuSDU0MVEtUFpFcmpkSklLQ251dVpXREpPbHJ4ODRoSUJHOXFBRXVDU0pRY1Eyc3N2cHBCekJyV0htNVE?oc=5"
-      },
-      {
-       "titel": "Strategy Aktie: 457 Bitcoin für 29,6 Millionen Dollar, Bestand bei 851.305 BTC, Einstand 75.446 Dollar – Trägt der Bitcoin-Tresor die Durststrecke?",
+       "titel": "Bitcoin-Miner Aktien: IREN +28 Prozent, CleanSpark +17, MARA +16 nach Huang-Comeback bei Nvidia – Ist das eine Bitcoin-Wette oder eine KI-Wette?",
        "quelle": "AktienCheck.de",
-       "zeit": "2026-11-23T16:19+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTElWSDM4dGozNEZjYjYwT2tPNnhOUG5VNERYRzhYem5hTzlPTk10Tk8wRHN2RnRIS0RjRkk3bzdKMWstdlR1Rl8xZmlKaEQwTFJteGdocy1SVGwwYk8zdXBvRGdJVUhsZE13b29NSDhIT1JhOTNhNHJuVS1qc2VfUHRxcGYxXzZ2QmdEa0hqQWYycTVuQm5VWTNlRHBDYkVmT292STVPVFZhZw?oc=5"
+       "zeit": "2026-11-23T18:19+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlRWaUpIMjlxcjZOanFObWtMemNyLURxUmJ0WGczUDloRG1VUndVb0F6RWhINmI1ek84QXZLTUIzSEJLdnhQVVEyRTRhbXJkSUVfNzkwcEk0Um9wNGVLcXVnVmltRERSQnhoMEtCUl9BYWVram5PbFBPYVk0LVU1aEx6b2J3YzNuT0tMa1VNOVZEbWJpUWhwSWdxQl9uTGFycDltQTU3eDV0aTdtWVE?oc=5"
+      },
+      {
+       "titel": "Bitcoin-Kursausblick: Kann BTC die Erholung aufrechterhalten, nachdem Nvidia Jensen Huang wieder eingesetzt hat?",
+       "quelle": "www.tmgm.com",
+       "zeit": "2026-11-23T18:12+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSzlIRnhoMHpCMzFuTnhiblV6VXhwWWZ0dGI5SjlNSlJXRW81UUM1WHNRMHR5N1JPelM3blBidWhoQ1hJM2JadEF2YkZuQjEyeTJyaGY4Z0NmUl9SdWlZYW1Md0FTYzZOVnlpaXZPd3haSzJDMGVjbzZ3SWhWVjI1OF9Ra1JfYnNRTnFrQk05ZEFhZWRwOEk2ZTVIcnhCeTkxWktldFN1RjFjOXJIYnRDanBibGtBb1gyaDQyR0UzMmxUeVdEOExKLXBQRWhSczQyU25Sdko3SlB6U241ZXctamRLQQ?oc=5"
+      },
+      {
+       "titel": "Fed-Zinspolitik drückt Gold und Bitcoin auf Jahrestiefs",
+       "quelle": "joinmares.com",
+       "zeit": "2026-11-23T17:46+01:00",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzBiLS0xcnktaDFnaGlteFdKN1BudXMtT0V5UFpMNGk1c3FhZjhSYVdVbmE2NHVIZm5ZeGZ4Vk10VzJhWV91SEJXQ0k2ektRbEt4UWNWRkdWRDBuUURydW9OLVhyTzRka2xEeFd5YktkQWlxZXg1eEMteUdrd0xVYjlSc1pPb09MczJ3dl9KZw?oc=5"
+      },
+      {
+       "titel": "Bitcoin vs. Gold im Ausblick: BTC und XAU legen nach der Wiedereinsetzung von Nvidia-CEO Jensen Huang zu",
+       "quelle": "www.tmgm.com",
+       "zeit": "2026-11-23T17:40+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbDlDREROeFlnVmUyNGxmUC1RZnJ6YS02ZHc2cUJ4SUJRd2U5cjJjOTczajdvVG5UMXFsTldEVUhuT1dTSkVLRDBUbkhyQVFIVkxBeXc2OHkzV2sydjlzM190R0xURlViR3MtNFZONVN0MTdtRVJyejdXMUVKT041SDE4cXRTNEZwVXoyM04yaE0zVVo1X3ZHSkJUS09JWWctY2NERjhxQUZXTjFvY3locXJsclJWOWx6aDVTaUg5RG5ldVM5QXJRQnVmc2htUFVsTDJTVmNBTUJKR0tuaEk1c2VUeC1DOEdwYl9F?oc=5"
       }
      ]
     },
@@ -122,10 +122,10 @@
      ],
      "meldungen": [
       {
-       "titel": "Monero-Kurs: Offene Derivatepositionen erreichen 141,3 Mio. USD",
-       "quelle": "ad-hoc-news.de",
-       "zeit": "2026-11-23T13:10+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNczdPbjhJWGtmMjVQZ2hYRER4Z2JYTUpmX3VpSko5aTFSUEZ4S2ZwTzFnMmxqNVJPOXZTVjhLZVRSdTVfcTBmZURScDc2dEowdEMzLUFmLVVDclo1RU1Sd2NFRkZ4ZmlHVUxiOWFQcDQzaEhtcmJuZzJ2WC1keW41c3lmVzVuVGFpT0hCdzhBc1prUTNiNjMyS1RPSTR1bjR3cm1YdEpvYW03V0RFNlUyWWkxTVppVTVmNk85dUNXR1Q?oc=5"
+       "titel": "Bitwise Hyperliquid Staking ETN | DE000A4ARTJ5 | A4ARTJ",
+       "quelle": "extraETF",
+       "zeit": "2026-11-23T16:16+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tbFp0cE01Q2pRbjcxQms3b2dTMkZNX3FDT2hrZEh5Z2NWc3FRV1BfVmtQYjhwa0RzUHFtNFVSUjFsV0ZkcXhLMjViVUEyb3hzUTQwZ0NkTEpRemtv?oc=5"
       },
       {
        "titel": "Hyperliquid-Kurs: Gebührenmodell bündelt Spot- und Perpetual-Volumen",
@@ -192,28 +192,28 @@
      ],
      "meldungen": [
       {
+       "titel": "Goldpreis aktuell: Goldpreis erholt sich leicht vom 14-Monats-Tief",
+       "quelle": "WirtschaftsWoche",
+       "zeit": "2026-11-23T17:32+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHFROXdOTWl2azFjVThoWFdDN0pVY1NTcHJJaGZUbVM3R0pERTVFWm9ET1RMaTJtTENtOTdRbmZlQUhnWi03ZC1Ta2dOVjFoeklibG1kT05fNDJEQVZ1b0E3ZUNlMVNheWsyb3RuT2pzR1hpQ2VjUlVtczlZazd6ZExQQzBrTmprcHI3THhjSGlYMndXdkg1d0s0bGlvWUFDSUZCQnp1LUluTGlnVzlBS181bkY3LU1FMGV3?oc=5"
+      },
+      {
+       "titel": "Goldpreis, Silberpreis, Öl (Brent/WTI) – Rohstoffe am 23.11.2026",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-23T17:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDB4Wm1feUoya0NQRG9uSkhHdm5aNDl4R3dnMml0cFJ3N1RHWFc4MXM2Q1pfMktOSnJKQ2JjNnhwQVBpUDdlZ3JsVW5rdDVGLWZRUjE2VjJ0Z29LQnZzVHFxZm1WNjhoR1dDZ1ByNElzOUJjdk5ZV1ZfNkEwS3ZKY2JvWHVRWFl6bDRydEJzbEpCVTBRYVVmcFNpZGRwUmRrc1d1ZURBTi1haF9qU3NLdnZ3aVlNUGlPNlB0TjFqMHBDYndYQTV2Z202NktzSDQ?oc=5"
+      },
+      {
+       "titel": "Goldpreis: Erholung vom 14-Monats-Tief auf über 3.600 Dollar nach 9% Wochenverlust - Trägt die Fed-Hoffnung?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-23T16:25+01:00",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGNIQ1l3OTdrWllPSjFhRTd4U3VMaVpxdS1WZ1ozMlRpUFFLc0xyc2hESlh2dVVUZWtSTWpuRS1zdWdXVzRnS0x6WUdMMXZtYlhGb0hrMzJMN0xsUEtYYUxLX1dZRXdKY0EtSDBGRTQtZFZmR3RCR3gxczNleExQc0gtYWhvc2JNMW5iMnZzVGx0a0ZOOVphcFkwbnpkX1JlRzhiUWFGS1dzTURfbTI4NA?oc=5"
+      },
+      {
        "titel": "Goldpreis erholt sich: Chinesische Käufer und Fed-Erwartungen geben Schub",
        "quelle": "Cash",
        "zeit": "2026-11-23T16:01+01:00",
        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJzRzlyQzdQZTJTSWlLQWRvSGFWRlNvME9JSWZjTVlwbDh5LUJSbTBoQjJSR2hBNzV4eERtSHpFR01oZmdBcmQyMHUzdFlQdHlBZU93cGlMdHZJQmZqTllISEFVWkhZay0zU200RnVkeTNZVWM3UDEwWTZRZnVQODVIZUU3QUZYTDkzVHNwNnRaTmpHYVdOOHowYzZEOWhOaHVWYWxsSko5OFp4N21LeGxKMA?oc=5"
-      },
-      {
-       "titel": "Verschnaufpause nach dem Ausverkauf: Goldnotierung stabilisiert sich nach herben Rückschlägen",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-23T14:55+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDkyN0lhUnRPbVNUSk9MOFZDeUVWMVZEQ0c0S1NzVlU1aVNNcDVWeGdPdUpqY3BRdndQZDZ5WjRyNDdLTE9wc2hKS2xSVnhuTDVoNEVrU3dfMk1maC1lT0FLVG1HT3g4T2EzX2Eta0hOQUdkblU3MmUtLUQ0a1hxV0dtRW50Mm1vSEVtWXlHSVM0SVRQRmVKRWt3NS1YMzIwcUFKaWd1dnRtVmhqSS04SjJNdDVtcTZyRU9kcGtEM0txeXZ4bE9MUFVrN21sR2N6dHQtTUhnZjAxTVRkdFdXMkRFVTdkVXhIbWloN0hSUVl6TmlTY0E?oc=5"
-      },
-      {
-       "titel": "Goldpreis über 3.620 Dollar: Startet jetzt die Rally?",
-       "quelle": "Investor-Verlag",
-       "zeit": "2026-11-23T14:47+01:00",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGZGN3dLWkxVbXJNOU5LUHpXa3FkWHVBSFBId182ZzhPU3ZiaWJmbktwOERlZW9WaVVNOV9hQXZpbzFtSm5DWmpJUGtjak9rMTVSQ0cxWjhuWmtFYXBkSFE4MEtIdHowYWZ0emFKdGp3RlBsUlRhVHhBcEdiWHhIaUVEZkpRWDl5MS1aTnVld29yV1B1OTl0MXBLT3FZSGR5?oc=5"
-      },
-      {
-       "titel": "Goldpreis klettert wieder: Warum der Ölpreis trotz Angriffen auf Tanker sinkt",
-       "quelle": "Salzburger Nachrichten",
-       "zeit": "2026-11-23T14:27+01:00",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGRoNjNSdmxoc1l3TzFuaVFtemU5b0NmVHBtMW11Sm1mb3dyU1Exa2xwczU2NmR2dEtlZUlwWEZodVE1QTNJVUxwU3Z3TEFGbUgxbndZaVltN3NlZG1UNm9EYjVVcVdfVi1TY2Eya204U3BvSzdUTWo2ZkpRSy1NNVpHQl9vcDhlZHVhcFRFalhEVlR1RHJHbFdYLXZmR1l2SVFJSVNtYTlnRTRhVFhuY0dvY2ZYd0dZVkpBVHFVcw?oc=5"
       }
      ]
     },
@@ -224,6 +224,12 @@
       "SILBER"
      ],
      "meldungen": [
+      {
+       "titel": "Silber Preis: Silber springt um 6 Prozent",
+       "quelle": "ad-hoc-news.de",
+       "zeit": "2026-11-23T17:04+01:00",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEt4NjNCbkVXTDAzX0lpUXgydUY0cE1ZTHRKMnFucnA1TlFVV1M4MXRqQlRpTnlYRUNIa3VRSUxjMmppclM1TjNUWmk0dU9hU2t3T0ZfUXY2eEVzWWJEbmhMWEtMb3NYMXR6TlEzZzdaaGFhc0xGaUFsZUVlRnNyak5qMDhhY1JlNFU4b0pLMDUwcXBYaE9MTFRscFU3RjN0bzl3N0dZemhSM1dkdVIxdm5B?oc=5"
+      },
       {
        "titel": "Silber Preis: Sinkende US-Renditen stützen Erholung",
        "quelle": "Börse Express",
@@ -241,12 +247,6 @@
        "quelle": "finanzen.at",
        "zeit": "2026-11-23T15:10+01:00",
        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMGtVRmU0RFlYY3RBb0pkaDBqd1N5bHJ5OTdBeXY5N3pHMDRjWGdiRXN6Qlp4TWNiTkR2MmczOV9TVFFBZTdqcVNSQTNTakJmWVdEb2dQaXBFNWdMQUp4aXUxYmp1YWd6TDVRYmppa256ZGZVVFRVS1Q1QTVaaXpBM09neDN6UEg1eG16V1BXQ25iUVFaNzlVOHB1YnV1bU1VZGdKU29zVnVSUDYzdGlxYVRBazJ4dDBVWmFCVURncTdpWUJKYUVBeFowTkViclk5YzQ1NA?oc=5"
-      },
-      {
-       "titel": "Silberpreis-Prognose: XAG/USD steigt um mehr als 3 %, doch die Bären behalten die Kontrolle",
-       "quelle": "TradingView",
-       "zeit": "2026-11-23T14:13+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2Z0ZlUXlwUkw0bDVvR2NWeWw1Q19qbGpNXzd3ZmhCT2c2OUVKLVFTa0JSRXZlbEdqRzJWYUtOempiLUl0cm5KSDlrWUxaSmpFWXBaQVUycFdLUkVqQVlzVEF0QXdQbjNI?oc=5"
       }
      ]
     },
@@ -257,6 +257,12 @@
       "USOIL"
      ],
      "meldungen": [
+      {
+       "titel": "Ölpreis: Drei Wege für OPEC+ am 29. November, Brent bei 92 Dollar, Banken sehen 86 bis 88 Dollar für 2027 – wer bestimmt den Preis?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-23T18:25+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2JuRUl2X3ZRSUR5ZjRTM1daT0lqUFp6OWNHNlRRVEVqd0NnMU93d2NPQUZhZUJPaUpTbnozY1J1RjNMN1lfbVlZT1k4VjNZb3c0STV2MzRhejQ5MHJpdERiSmNVOFI2Ukh4dzMyd0wtZTE0VS05ZDBldUZxeUtlXzFOaFdhTm1LSmVxV1NnZ2c5cVlONlF3RENPcXZPNnRDV0xDUVhNNFpSOEpHeDJF?oc=5"
+      },
       {
        "titel": "Iran-Krieg: Trump droht mit neuen Angriffen nach dem Jahreswechsel - Brent fällt unter 90 Dollar - Wie viel Risikoprämie steckt noch im Ölpreis?",
        "quelle": "AktienCheck.de",
@@ -274,12 +280,6 @@
        "quelle": "Finanzen.net",
        "zeit": "2026-11-23T15:21+01:00",
        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVUpNcE5nM2lNTHgzb1UwQWZnNXJVTzF3MW9USkFqQkhiaGdrV3Rkd0VkUmR6TWFKVl9hblhTdG9fZE9FdUxydWl6UE1EcGZEMmFaTEwxSXluRV9DMkRlUnhWN1FZNTh4SEg1SThNM0h6ZFhMUFFMUzdkVzFWZEk1TDQ0TkxaMjhUTWY4WmdvZHpHUDNhc1l5UHl5SjdDeXMteVRMSEEyX00yYlQ2WEJBbTJjUDdFeHVkc0R0QzJZSjhJR21qWUVaMVdLM2YxRGcxZkpFQ3ptVUo4aWVOYlRFQWZsLXZBb2dPRUx5WmhybkRDU2M?oc=5"
-      },
-      {
-       "titel": "Deutsche Bank sieht Rückkehr des Öl-Überangebots: Brent bei 70 US-Dollar oder darunter erwartet",
-       "quelle": "Investing.com Deutsch",
-       "zeit": "2026-11-23T14:21+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUWFfVVpkMU9oY2tUS2Naa1JzajA4Ulg2NHBiekx6Z3IyNk81ay1WTUpseGt6eHE2T1E3VHlRcEpwZmhNRWctSnRWZlZCa28tU1FoY0NqM0p6SHVfby03SFlzMERFcW5xQ3FDZDBTUm4xNVF2WjdJcmVva0pTM1BNQVhndE1oZVI1LTNOSWxydEtBZk02cFhDRzU2VjdPLUtobVRJWC13WkNXWk90S0U4SE5CWVlGcWdnZURkTnBYUW01TE9uRHpWV2lrMlJ1SE52M3d3UzRtZ0pacmpidVRBX0pVX0NZN28?oc=5"
       }
      ]
     }
