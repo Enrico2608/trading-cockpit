@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-20T18:04:49+01:00",
+ "stand": "2026-11-23T06:42:52+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -7,1206 +7,9 @@
  },
  "hinweis": "Wichtige Termine (hoch und mittel) aus den Wirtschaftskalendern von Tradays und ForexFactory für USA, Eurozone und Deutschland, Uhrzeiten in deutscher Zeit, mit den betroffenen Märkten. ForexFactory: laufende und nächste Woche. Wird werktags alle 2 Stunden automatisch aktualisiert.",
  "ff_wochen": 2,
- "von": "2026-11-16",
- "bis": "2027-01-03",
+ "von": "2026-11-23",
+ "bis": "2027-01-10",
  "termine": [
-  {
-   "id": "td-327445",
-   "datum": "2026-11-16",
-   "zeit": "10:15",
-   "zeitart": "",
-   "titel": "Vorstandsmitglied Mauderer der BBk spricht",
-   "weitere": [],
-   "ff": [],
-   "land": "Deutschland",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/bbk-vice-president-mauderer-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327518",
-   "datum": "2026-11-16",
-   "zeit": "11:00",
-   "zeitart": "",
-   "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-323207",
-   "datum": "2026-11-16",
-   "zeit": "11:00",
-   "zeitart": "",
-   "titel": "Industrieproduktion m/m",
-   "weitere": [],
-   "ff": [],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/industrial-production-mm"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-321987",
-   "datum": "2026-11-16",
-   "zeit": "14:30",
-   "zeitart": "",
-   "titel": "NY Empire-State-Index des verarbeitenden Gewerbes",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/ny-empire-state-manufacturing-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/ny-empire-state-manufacturing-index"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "ff-2026-11-16-1800-129",
-   "datum": "2026-11-16",
-   "zeit": "18:00",
-   "zeitart": "",
-   "titel": "Fed Chairman Warsh Speaks",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "hoch",
-   "quelle": "ForexFactory",
-   "url": "https://www.forexfactory.com/calendar/129-us-fed-chairman-warsh-speaks",
-   "links": [
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/129-us-fed-chairman-warsh-speaks"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-287891",
-   "datum": "2026-11-16",
-   "zeit": "21:30",
-   "zeitart": "",
-   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
-   "weitere": [
-    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
-    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
-    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
-   ],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "USOIL",
-    "NASDAQ",
-    "SP500"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-288314",
-   "datum": "2026-11-16",
-   "zeit": "21:30",
-   "zeitart": "",
-   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
-   "weitere": [],
-   "ff": [],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-316483",
-   "datum": "2026-11-17",
-   "zeit": "11:05",
-   "zeitart": "",
-   "titel": "ZEW Konjunkturerwartungen",
-   "weitere": [],
-   "ff": [],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/zew-indicator-of-economic-sentiment"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-316475",
-   "datum": "2026-11-17",
-   "zeit": "11:05",
-   "zeitart": "",
-   "titel": "ZEW Konjunkturerwartungen",
-   "weitere": [
-    "ZEW Konjunktursituation"
-   ],
-   "ff": [],
-   "land": "Deutschland",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/zew-economic-sentiment-indicator"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-270285",
-   "datum": "2026-11-17",
-   "zeit": "14:30",
-   "zeitart": "",
-   "titel": "Einzelhandelsumsatz m/m",
-   "weitere": [
-    "Kern-Einzelhandelsumsatz (ohne Autos) m/m",
-    "Einzelhandel Kontrollgruppe m/m",
-    "Import Preisindex m/m",
-    "Export Preisindex m/m"
-   ],
-   "ff": [
-    {
-     "titel": "Core Retail Sales m/m",
-     "wichtig": "hoch"
-    },
-    {
-     "titel": "Retail Sales m/m",
-     "wichtig": "hoch"
-    }
-   ],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/retail-sales-mm"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327514",
-   "datum": "2026-11-17",
-   "zeit": "15:10",
-   "zeitart": "",
-   "titel": "Fed Präsident Waller spricht",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-280470",
-   "datum": "2026-11-17",
-   "zeit": "15:15",
-   "zeitart": "",
-   "titel": "Fed, Industrieproduktion m/m",
-   "weitere": [
-    "Fed Industrieproduktion y/y"
-   ],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/industrial-production-mm"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-270249",
-   "datum": "2026-11-17",
-   "zeit": "16:00",
-   "zeitart": "",
-   "titel": "Lagerbestände der Hersteller, Einzel- und Großhändler m/m",
-   "weitere": [
-    "Lagerbestände der Einzelhändler m/m",
-    "Lagerbestände der Einzelhändler exkl. Autos m/m"
-   ],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/business-inventories-mm"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327523",
-   "datum": "2026-11-17",
-   "zeit": "19:30",
-   "zeitart": "",
-   "titel": "ECB Vorstandsmitglied Lane spricht",
-   "weitere": [],
-   "ff": [],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-324092",
-   "datum": "2026-11-18",
-   "zeit": "10:00",
-   "zeitart": "",
-   "titel": "EZB, Finanzstabilitätsbericht",
-   "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB Financial Stability Review",
-     "wichtig": "mittel"
-    }
-   ],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-financial-stability-review",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-financial-stability-review"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/616-ez-ecb-financial-stability-review"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-323841",
-   "datum": "2026-11-18",
-   "zeit": "11:00",
-   "zeitart": "",
-   "titel": "CPI y/y",
-   "weitere": [
-    "CPI m/m",
-    "Kern CPI y/y",
-    "Kern VPI"
-   ],
-   "ff": [],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-270201",
-   "datum": "2026-11-18",
-   "zeit": "14:30",
-   "zeitart": "",
-   "titel": "Baubeginne",
-   "weitere": [
-    "Baugenehmigungen",
-    "Baubeginne m/m"
-   ],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/housing-starts",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/housing-starts"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-328622",
-   "datum": "2026-11-18",
-   "zeit": "15:15",
-   "zeitart": "",
-   "titel": "EZB Präsident Lagarde spricht",
-   "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB President Lagarde Speaks",
-     "wichtig": "mittel",
-     "zeit": "15:25"
-    }
-   ],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-287310",
-   "datum": "2026-11-18",
-   "zeit": "16:00",
-   "zeitart": "",
-   "titel": "Schwebende Hausverkäufe m/m",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/pending-home-sales-mm"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-319912",
-   "datum": "2026-11-18",
-   "zeit": "16:30",
-   "zeitart": "",
-   "titel": "EIA Rohöl, Änderung der Speichermenge",
-   "weitere": [
-    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
-   ],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "USOIL"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-314170",
-   "datum": "2026-11-18",
-   "zeit": "19:00",
-   "zeitart": "",
-   "titel": "Auktion für 20-Jahres-Anleihen",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/20-year-bond-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/20-year-bond-auction"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327519",
-   "datum": "2026-11-18",
-   "zeit": "19:35",
-   "zeitart": "",
-   "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-237378",
-   "datum": "2026-11-18",
-   "zeit": "20:00",
-   "zeitart": "",
-   "titel": "FOMC Protokoll",
-   "weitere": [],
-   "ff": [
-    {
-     "titel": "FOMC Meeting Minutes",
-     "wichtig": "hoch"
-    }
-   ],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fomc-minutes"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/304-us-fomc-meeting-minutes"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-276711",
-   "datum": "2026-11-18",
-   "zeit": "22:00",
-   "zeitart": "",
-   "titel": "TIC Langfristige Nettotransaktionen",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/tic-net-long-term-transactions"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327527",
-   "datum": "2026-11-19",
-   "zeit": "11:00",
-   "zeitart": "",
-   "titel": "EZB Direktoriumsmitglied Elderson spricht",
-   "weitere": [],
-   "ff": [],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-elderson-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-elderson-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-287217",
-   "datum": "2026-11-19",
-   "zeit": "14:30",
-   "zeitart": "",
-   "titel": "Philadelphia Fed Index der Unternehmer",
-   "weitere": [
-    "Erstanträge auf Arbeitslosenhilfe",
-    "Philadelphia Fed, Beschäftigung",
-    "Folgeanträge auf Arbeitslosenhilfe"
-   ],
-   "ff": [
-    {
-     "titel": "Philly Fed Manufacturing Index",
-     "wichtig": "mittel"
-    },
-    {
-     "titel": "Unemployment Claims",
-     "wichtig": "mittel"
-    }
-   ],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/philadelphia-fed-manufacturing-index"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-index"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327525",
-   "datum": "2026-11-19",
-   "zeit": "14:30",
-   "zeitart": "",
-   "titel": "EZB Präsident Lagarde spricht",
-   "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB President Lagarde Speaks",
-     "wichtig": "mittel"
-    }
-   ],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327517",
-   "datum": "2026-11-19",
-   "zeit": "15:25",
-   "zeitart": "",
-   "titel": "Fed Gouverneur Jefferson spricht",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-jefferson-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-jefferson-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-284697",
-   "datum": "2026-11-19",
-   "zeit": "16:00",
-   "zeitart": "",
-   "titel": "CB wirtschaftlicher Frühindikator m/m",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/leading-economic-index"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-314168",
-   "datum": "2026-11-19",
-   "zeit": "19:00",
-   "zeitart": "",
-   "titel": "10-jährige TIPS Auktion",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-tips-auction",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/10-year-tips-auction"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327520",
-   "datum": "2026-11-19",
-   "zeit": "20:15",
-   "zeitart": "",
-   "titel": "Rede des Vizevorsitzenden für Aufsicht der Fed, Barr",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-vice-chair-for-supervision-barr-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-319666",
-   "datum": "2026-11-20",
-   "zeit": "08:00",
-   "zeitart": "",
-   "titel": "PPI m/m",
-   "weitere": [],
-   "ff": [],
-   "land": "Deutschland",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/germany/ppi-mm"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327526",
-   "datum": "2026-11-20",
-   "zeit": "09:30",
-   "zeitart": "",
-   "titel": "EZB Präsident Lagarde spricht",
-   "weitere": [],
-   "ff": [
-    {
-     "titel": "ECB President Lagarde Speaks",
-     "wichtig": "mittel",
-     "zeit": "09:15"
-    }
-   ],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "hoch",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-president-lagarde-speech"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327515",
-   "datum": "2026-11-20",
-   "zeit": "14:25",
-   "zeitart": "",
-   "titel": "Fed Präsident Waller spricht",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-waller-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-268718",
-   "datum": "2026-11-20",
-   "zeit": "16:00",
-   "zeitart": "",
-   "titel": "Michigan, Konsumklima",
-   "weitere": [
-    "Michigan, Konsumentenerwartungen",
-    "Michigan, Inflationserwartungen",
-    "Michigan, 5-jährige Inflationserwartungen"
-   ],
-   "ff": [
-    {
-     "titel": "Revised UoM Consumer Sentiment",
-     "wichtig": "mittel"
-    },
-    {
-     "titel": "Revised UoM Inflation Expectations",
-     "wichtig": "mittel"
-    }
-   ],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
-    },
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentiment"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "ff-2026-11-20-1800-645",
-   "datum": "2026-11-20",
-   "zeit": "18:00",
-   "zeitart": "",
-   "titel": "President Trump Speaks",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "ForexFactory",
-   "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
-   "links": [
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-327516",
-   "datum": "2026-11-20",
-   "zeit": "18:15",
-   "zeitart": "",
-   "titel": "Fed Gouverneur Cook spricht",
-   "weitere": [],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "SILBER",
-    "BTC",
-    "HYPE",
-    "NASDAQ",
-    "SP500",
-    "DOW"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-cook-speech",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-cook-speech"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-322101",
-   "datum": "2026-11-20",
-   "zeit": "19:00",
-   "zeitart": "",
-   "titel": "Baker Hughes Ölplattformzählung",
-   "weitere": [
-    "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
-   ],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "USOIL"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-287892",
-   "datum": "2026-11-20",
-   "zeit": "21:30",
-   "zeitart": "",
-   "titel": "CFTC Gold, nichtkommerzielle Nettopositionen",
-   "weitere": [
-    "CFTC Rohöl, nichtkommerzielle Nettopositionen",
-    "CFTC S&P 500, nichtkommerzielle Nettopositionen",
-    "CFTC Nasdaq 100, Nichtkommerzielle Nettopositionen"
-   ],
-   "ff": [],
-   "land": "USA",
-   "maerkte": [
-    "GOLD",
-    "USOIL",
-    "NASDAQ",
-    "SP500"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/united-states/cftc-gold-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
-  },
-  {
-   "id": "td-288315",
-   "datum": "2026-11-20",
-   "zeit": "21:30",
-   "zeitart": "",
-   "titel": "CFTC EUR, nichtkommerzielle Nettopositionen",
-   "weitere": [],
-   "ff": [],
-   "land": "Eurozone",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "Tradays",
-   "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions",
-   "links": [
-    {
-     "text": "Tradays",
-     "url": "https://www.tradays.com/de/economic-calendar/european-union/cftc-eur-non-commercial-net-positions"
-    }
-   ],
-   "kalender": true
-  },
   {
    "id": "td-326343",
    "datum": "2026-11-23",
@@ -1274,7 +77,31 @@
    "kalender": true
   },
   {
-   "id": "ff-2026-11-23-1545-149772",
+   "id": "td-329484",
+   "datum": "2026-11-23",
+   "zeit": "15:30",
+   "zeitart": "",
+   "titel": "ECB Vorstandsmitglied Lane spricht",
+   "weitere": [],
+   "ff": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/european-union/ecb-executive-board-member-lane-speech"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "ff-2026-11-23-1545-552",
    "datum": "2026-11-23",
    "zeit": "15:45",
    "zeitart": "",
@@ -1942,6 +769,55 @@
    "kalender": true
   },
   {
+   "id": "ff-2026-11-29-tag-149583",
+   "datum": "2026-11-29",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "OPEC-JMMC Meetings",
+   "weitere": [
+    "OPEC Meetings"
+   ],
+   "ff": [],
+   "land": "Welt",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "ForexFactory",
+   "url": "https://www.forexfactory.com/calendar/798-opec-jmmc-meetings",
+   "links": [
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/798-opec-jmmc-meetings"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "ff-2026-11-30-tag-151212",
+   "datum": "2026-11-30",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "German Prelim CPI m/m",
+   "weitere": [],
+   "ff": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "mittel",
+   "quelle": "ForexFactory",
+   "url": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm",
+   "links": [
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm"
+    }
+   ],
+   "kalender": true
+  },
+  {
    "id": "td-319674",
    "datum": "2026-11-30",
    "zeit": "08:00",
@@ -2133,7 +1009,16 @@
     "Kern CPI y/y",
     "Kern VPI"
    ],
-   "ff": [],
+   "ff": [
+    {
+     "titel": "Core CPI Flash Estimate y/y",
+     "wichtig": "mittel"
+    },
+    {
+     "titel": "CPI Flash Estimate y/y",
+     "wichtig": "mittel"
+    }
+   ],
    "land": "Eurozone",
    "maerkte": [
     "GOLD",
@@ -2146,6 +1031,10 @@
     {
      "text": "Tradays",
      "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-index-yy"
+    },
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/593-ez-core-cpi-flash-estimate-yy"
     }
    ],
    "kalender": true
@@ -2191,7 +1080,16 @@
     "Bauinvestitionen m/m",
     "ISM Verarbeitendes Gewerbe, Beschäftigung"
    ],
-   "ff": [],
+   "ff": [
+    {
+     "titel": "ISM Manufacturing PMI",
+     "wichtig": "mittel"
+    },
+    {
+     "titel": "JOLTS Job Openings",
+     "wichtig": "mittel"
+    }
+   ],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -2209,6 +1107,10 @@
     {
      "text": "Tradays",
      "url": "https://www.tradays.com/de/economic-calendar/united-states/jolts-job-openings"
+    },
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/252-us-ism-manufacturing-pmi"
     }
    ],
    "kalender": true
@@ -2342,6 +1244,35 @@
    "kalender": true
   },
   {
+   "id": "ff-2026-12-03-1430-147026",
+   "datum": "2026-12-03",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Unemployment Claims",
+   "weitere": [],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "SILBER",
+    "BTC",
+    "HYPE",
+    "NASDAQ",
+    "SP500",
+    "DOW"
+   ],
+   "wichtig": "mittel",
+   "quelle": "ForexFactory",
+   "url": "https://www.forexfactory.com/calendar/11-us-unemployment-claims",
+   "links": [
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/11-us-unemployment-claims"
+    }
+   ],
+   "kalender": true
+  },
+  {
    "id": "td-326386",
    "datum": "2026-12-03",
    "zeit": "15:45",
@@ -2383,7 +1314,12 @@
     "Auftragseingänge der Hersteller m/m",
     "ISM Nicht-verarbeitendes Gewerbe, Beschäftigung"
    ],
-   "ff": [],
+   "ff": [
+    {
+     "titel": "ISM Services PMI",
+     "wichtig": "mittel"
+    }
+   ],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -2401,6 +1337,39 @@
     {
      "text": "Tradays",
      "url": "https://www.tradays.com/de/economic-calendar/united-states/ism-non-manufacturing-pmi"
+    },
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/253-us-ism-services-pmi"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "ff-2026-12-04-tag-148787",
+   "datum": "2026-12-04",
+   "zeit": null,
+   "zeitart": "offen",
+   "titel": "Treasury Currency Report",
+   "weitere": [],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "SILBER",
+    "BTC",
+    "HYPE",
+    "NASDAQ",
+    "SP500",
+    "DOW"
+   ],
+   "wichtig": "mittel",
+   "quelle": "ForexFactory",
+   "url": "https://www.forexfactory.com/calendar/459-us-treasury-currency-report",
+   "links": [
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/459-us-treasury-currency-report"
     }
    ],
    "kalender": true
@@ -2442,7 +1411,20 @@
     "Durchschnittlicher Wochenverdienst y/y",
     "U6 Arbeitslosenrate"
    ],
-   "ff": [],
+   "ff": [
+    {
+     "titel": "Average Hourly Earnings m/m",
+     "wichtig": "hoch"
+    },
+    {
+     "titel": "Non-Farm Employment Change",
+     "wichtig": "hoch"
+    },
+    {
+     "titel": "Unemployment Rate",
+     "wichtig": "hoch"
+    }
+   ],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -2460,6 +1442,10 @@
     {
      "text": "Tradays",
      "url": "https://www.tradays.com/de/economic-calendar/united-states/unemployment-rate"
+    },
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/159-us-average-hourly-earnings-mm"
     }
    ],
    "kalender": true
@@ -2475,7 +1461,16 @@
     "Michigan, Inflationserwartungen",
     "Michigan, 5-jährige Inflationserwartungen"
    ],
-   "ff": [],
+   "ff": [
+    {
+     "titel": "Prelim UoM Consumer Sentiment",
+     "wichtig": "mittel"
+    },
+    {
+     "titel": "Prelim UoM Inflation Expectations",
+     "wichtig": "mittel"
+    }
+   ],
    "land": "USA",
    "maerkte": [
     "GOLD",
@@ -2493,6 +1488,10 @@
     {
      "text": "Tradays",
      "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
+    },
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/53-us-prelim-uom-consumer-sentiment"
     }
    ],
    "kalender": true
@@ -4466,73 +3465,372 @@
     }
    ],
    "kalender": true
+  },
+  {
+   "id": "td-322534",
+   "datum": "2027-01-04",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Bauinvestitionen m/m",
+   "weitere": [],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "SILBER",
+    "BTC",
+    "HYPE",
+    "NASDAQ",
+    "SP500",
+    "DOW"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/construction-spending-mm",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/united-states/construction-spending-mm"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-229139",
+   "datum": "2027-01-05",
+   "zeit": "09:55",
+   "zeitart": "",
+   "titel": "Änderung der Arbeitslosigkeit",
+   "weitere": [
+    "Arbeitslosenrate",
+    "Arbeitslosenzahl"
+   ],
+   "ff": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/unemployment-change",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/germany/unemployment-change"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-319693",
+   "datum": "2027-01-05",
+   "zeit": "14:00",
+   "zeitart": "",
+   "titel": "CPI m/m",
+   "weitere": [
+    "CPI y/y"
+   ],
+   "ff": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/germany/cpi-mm"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-326313",
+   "datum": "2027-01-06",
+   "zeit": "16:30",
+   "zeitart": "",
+   "titel": "EIA Rohöl, Änderung der Speichermenge",
+   "weitere": [
+    "EIA Rohöl, Änderung der Speichermengen in Cushing, Oklahoma"
+   ],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/united-states/eia-crude-oil-stocks-change"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-327476",
+   "datum": "2027-01-07",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "Einzelhandelsumsatz m/m",
+   "weitere": [],
+   "ff": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/retail-sales-mm",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/germany/retail-sales-mm"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-283362",
+   "datum": "2027-01-07",
+   "zeit": "11:00",
+   "zeitart": "",
+   "titel": "Verbraucherpreiserwartung",
+   "weitere": [
+    "Indikator der wirtschaftlichen Einschätzung"
+   ],
+   "ff": [],
+   "land": "Eurozone",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "hoch",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-expectations",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/european-union/consumer-price-expectations"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-322522",
+   "datum": "2027-01-07",
+   "zeit": "14:30",
+   "zeitart": "",
+   "titel": "Handelsbilanz",
+   "weitere": [
+    "Exporte",
+    "Importe"
+   ],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "SILBER",
+    "BTC",
+    "HYPE",
+    "NASDAQ",
+    "SP500",
+    "DOW"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/trade-balance",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/united-states/trade-balance"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-319643",
+   "datum": "2027-01-08",
+   "zeit": "08:00",
+   "zeitart": "",
+   "titel": "Handelsbilanz",
+   "weitere": [
+    "Auftragseingänge der Hersteller m/m",
+    "Auftragseingänge y/y"
+   ],
+   "ff": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/germany/trade-balance",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/germany/trade-balance"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-314663",
+   "datum": "2027-01-08",
+   "zeit": "16:00",
+   "zeitart": "",
+   "titel": "Michigan, Konsumklima",
+   "weitere": [
+    "Michigan, Konsumentenerwartungen",
+    "Michigan, Inflationserwartungen",
+    "Michigan, 5-jährige Inflationserwartungen"
+   ],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "SILBER",
+    "BTC",
+    "HYPE",
+    "NASDAQ",
+    "SP500",
+    "DOW"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/united-states/michigan-consumer-sentiment"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-329482",
+   "datum": "2027-01-08",
+   "zeit": "19:00",
+   "zeitart": "",
+   "titel": "Baker Hughes Ölplattformzählung",
+   "weitere": [
+    "Baker Hughes US, Gesamtzahl der Ölförderanlagen"
+   ],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "USOIL"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/united-states/baker-hughes-us-oil-rig-count"
+    }
+   ],
+   "kalender": true
   }
  ],
  "ff_naechste": {
-  "stand": "2026-11-20T18:04:49+01:00",
+  "stand": "2026-11-23T06:42:52+01:00",
   "meldungen": [
    {
     "quelle": "ForexFactory",
-    "datum": "2026-11-23",
-    "zeit": "09:30",
-    "modus": "",
-    "land": "Deutschland",
-    "titel": "German Flash Manufacturing PMI",
+    "datum": "2026-11-29",
+    "zeit": null,
+    "modus": "ganztägig",
+    "land": "Welt",
+    "titel": "OPEC-JMMC Meetings",
     "wichtig": "mittel",
-    "url": "https://www.forexfactory.com/calendar/266-ge-flash-manufacturing-pmi",
+    "url": "https://www.forexfactory.com/calendar/798-opec-jmmc-meetings",
     "maerkte": [
-     "GOLD",
-     "SILBER"
+     "USOIL"
     ],
-    "id": "ff-2026-11-23-0930-147681",
-    "n": 1002
+    "id": "ff-2026-11-29-tag-149583",
+    "n": 1000
    },
    {
     "quelle": "ForexFactory",
-    "datum": "2026-11-23",
-    "zeit": "09:30",
-    "modus": "",
-    "land": "Deutschland",
-    "titel": "German Flash Services PMI",
+    "datum": "2026-11-29",
+    "zeit": null,
+    "modus": "ganztägig",
+    "land": "Welt",
+    "titel": "OPEC Meetings",
     "wichtig": "mittel",
-    "url": "https://www.forexfactory.com/calendar/267-ge-flash-services-pmi",
+    "url": "https://www.forexfactory.com/calendar/437-opec-meetings",
+    "maerkte": [
+     "USOIL"
+    ],
+    "id": "ff-2026-11-29-tag-149590",
+    "n": 1001
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-11-30",
+    "zeit": null,
+    "modus": "ganztägig",
+    "land": "Deutschland",
+    "titel": "German Prelim CPI m/m",
+    "wichtig": "mittel",
+    "url": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm",
     "maerkte": [
      "GOLD",
      "SILBER"
     ],
-    "id": "ff-2026-11-23-0930-147682",
+    "id": "ff-2026-11-30-tag-151212",
     "n": 1003
    },
    {
     "quelle": "ForexFactory",
-    "datum": "2026-11-23",
-    "zeit": "15:45",
+    "datum": "2026-12-01",
+    "zeit": "11:00",
     "modus": "",
-    "land": "USA",
-    "titel": "Flash Manufacturing PMI",
+    "land": "Eurozone",
+    "titel": "Core CPI Flash Estimate y/y",
     "wichtig": "mittel",
-    "url": "https://www.forexfactory.com/calendar/552-us-flash-manufacturing-pmi",
+    "url": "https://www.forexfactory.com/calendar/593-ez-core-cpi-flash-estimate-yy",
     "maerkte": [
      "GOLD",
-     "SILBER",
-     "BTC",
-     "HYPE",
-     "NASDAQ",
-     "SP500",
-     "DOW"
+     "SILBER"
     ],
-    "id": "ff-2026-11-23-1545-149772",
-    "n": 1010
+    "id": "ff-2026-12-01-1100-151334",
+    "n": 1007
    },
    {
     "quelle": "ForexFactory",
-    "datum": "2026-11-23",
-    "zeit": "15:45",
+    "datum": "2026-12-01",
+    "zeit": "11:00",
+    "modus": "",
+    "land": "Eurozone",
+    "titel": "CPI Flash Estimate y/y",
+    "wichtig": "mittel",
+    "url": "https://www.forexfactory.com/calendar/168-ez-cpi-flash-estimate-yy",
+    "maerkte": [
+     "GOLD",
+     "SILBER"
+    ],
+    "id": "ff-2026-12-01-1100-151333",
+    "n": 1008
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-01",
+    "zeit": "16:00",
     "modus": "",
     "land": "USA",
-    "titel": "Flash Services PMI",
+    "titel": "ISM Manufacturing PMI",
     "wichtig": "mittel",
-    "url": "https://www.forexfactory.com/calendar/583-us-flash-services-pmi",
+    "url": "https://www.forexfactory.com/calendar/252-us-ism-manufacturing-pmi",
     "maerkte": [
      "GOLD",
      "SILBER",
@@ -4542,18 +3840,18 @@
      "SP500",
      "DOW"
     ],
-    "id": "ff-2026-11-23-1545-149784",
+    "id": "ff-2026-12-01-1600-146586",
     "n": 1011
    },
    {
     "quelle": "ForexFactory",
-    "datum": "2026-11-24",
+    "datum": "2026-12-01",
     "zeit": "16:00",
     "modus": "",
     "land": "USA",
-    "titel": "CB Consumer Confidence",
+    "titel": "JOLTS Job Openings",
     "wichtig": "mittel",
-    "url": "https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence",
+    "url": "https://www.forexfactory.com/calendar/578-us-jolts-job-openings",
     "maerkte": [
      "GOLD",
      "SILBER",
@@ -4563,75 +3861,12 @@
      "SP500",
      "DOW"
     ],
-    "id": "ff-2026-11-24-1600-146888",
-    "n": 1009
+    "id": "ff-2026-12-01-1600-149799",
+    "n": 1012
    },
    {
     "quelle": "ForexFactory",
-    "datum": "2026-11-25",
-    "zeit": "14:30",
-    "modus": "",
-    "land": "USA",
-    "titel": "Core PCE Price Index m/m",
-    "wichtig": "hoch",
-    "url": "https://www.forexfactory.com/calendar/85-us-core-pce-price-index-mm",
-    "maerkte": [
-     "GOLD",
-     "SILBER",
-     "BTC",
-     "HYPE",
-     "NASDAQ",
-     "SP500",
-     "DOW"
-    ],
-    "id": "ff-2026-11-25-1430-148237",
-    "n": 1003
-   },
-   {
-    "quelle": "ForexFactory",
-    "datum": "2026-11-25",
-    "zeit": "14:30",
-    "modus": "",
-    "land": "USA",
-    "titel": "Prelim GDP q/q",
-    "wichtig": "hoch",
-    "url": "https://www.forexfactory.com/calendar/27-us-prelim-gdp-qq",
-    "maerkte": [
-     "GOLD",
-     "SILBER",
-     "BTC",
-     "HYPE",
-     "NASDAQ",
-     "SP500",
-     "DOW"
-    ],
-    "id": "ff-2026-11-25-1430-148292",
-    "n": 1004
-   },
-   {
-    "quelle": "ForexFactory",
-    "datum": "2026-11-25",
-    "zeit": "14:30",
-    "modus": "",
-    "land": "USA",
-    "titel": "Prelim GDP Price Index q/q",
-    "wichtig": "mittel",
-    "url": "https://www.forexfactory.com/calendar/45-us-prelim-gdp-price-index-qq",
-    "maerkte": [
-     "GOLD",
-     "SILBER",
-     "BTC",
-     "HYPE",
-     "NASDAQ",
-     "SP500",
-     "DOW"
-    ],
-    "id": "ff-2026-11-25-1430-148300",
-    "n": 1005
-   },
-   {
-    "quelle": "ForexFactory",
-    "datum": "2026-11-25",
+    "datum": "2026-12-03",
     "zeit": "14:30",
     "modus": "",
     "land": "USA",
@@ -4647,8 +3882,155 @@
      "SP500",
      "DOW"
     ],
-    "id": "ff-2026-11-25-1430-147025",
+    "id": "ff-2026-12-03-1430-147026",
+    "n": 1010
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-03",
+    "zeit": "16:00",
+    "modus": "",
+    "land": "USA",
+    "titel": "ISM Services PMI",
+    "wichtig": "mittel",
+    "url": "https://www.forexfactory.com/calendar/253-us-ism-services-pmi",
+    "maerkte": [
+     "GOLD",
+     "SILBER",
+     "BTC",
+     "HYPE",
+     "NASDAQ",
+     "SP500",
+     "DOW"
+    ],
+    "id": "ff-2026-12-03-1600-146610",
+    "n": 1013
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-04",
+    "zeit": "14:30",
+    "modus": "",
+    "land": "USA",
+    "titel": "Average Hourly Earnings m/m",
+    "wichtig": "hoch",
+    "url": "https://www.forexfactory.com/calendar/159-us-average-hourly-earnings-mm",
+    "maerkte": [
+     "GOLD",
+     "SILBER",
+     "BTC",
+     "HYPE",
+     "NASDAQ",
+     "SP500",
+     "DOW"
+    ],
+    "id": "ff-2026-12-04-1430-146938",
     "n": 1006
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-04",
+    "zeit": "14:30",
+    "modus": "",
+    "land": "USA",
+    "titel": "Non-Farm Employment Change",
+    "wichtig": "hoch",
+    "url": "https://www.forexfactory.com/calendar/66-us-non-farm-employment-change",
+    "maerkte": [
+     "GOLD",
+     "SILBER",
+     "BTC",
+     "HYPE",
+     "NASDAQ",
+     "SP500",
+     "DOW"
+    ],
+    "id": "ff-2026-12-04-1430-146913",
+    "n": 1007
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-04",
+    "zeit": "14:30",
+    "modus": "",
+    "land": "USA",
+    "titel": "Unemployment Rate",
+    "wichtig": "hoch",
+    "url": "https://www.forexfactory.com/calendar/56-us-unemployment-rate",
+    "maerkte": [
+     "GOLD",
+     "SILBER",
+     "BTC",
+     "HYPE",
+     "NASDAQ",
+     "SP500",
+     "DOW"
+    ],
+    "id": "ff-2026-12-04-1430-146926",
+    "n": 1008
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-04",
+    "zeit": "16:00",
+    "modus": "",
+    "land": "USA",
+    "titel": "Prelim UoM Consumer Sentiment",
+    "wichtig": "mittel",
+    "url": "https://www.forexfactory.com/calendar/53-us-prelim-uom-consumer-sentiment",
+    "maerkte": [
+     "GOLD",
+     "SILBER",
+     "BTC",
+     "HYPE",
+     "NASDAQ",
+     "SP500",
+     "DOW"
+    ],
+    "id": "ff-2026-12-04-1600-148581",
+    "n": 1010
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-04",
+    "zeit": "16:00",
+    "modus": "",
+    "land": "USA",
+    "titel": "Prelim UoM Inflation Expectations",
+    "wichtig": "mittel",
+    "url": "https://www.forexfactory.com/calendar/236-us-prelim-uom-inflation-expectations",
+    "maerkte": [
+     "GOLD",
+     "SILBER",
+     "BTC",
+     "HYPE",
+     "NASDAQ",
+     "SP500",
+     "DOW"
+    ],
+    "id": "ff-2026-12-04-1600-148593",
+    "n": 1011
+   },
+   {
+    "quelle": "ForexFactory",
+    "datum": "2026-12-04",
+    "zeit": null,
+    "modus": "offen",
+    "land": "USA",
+    "titel": "Treasury Currency Report",
+    "wichtig": "mittel",
+    "url": "https://www.forexfactory.com/calendar/459-us-treasury-currency-report",
+    "maerkte": [
+     "GOLD",
+     "SILBER",
+     "BTC",
+     "HYPE",
+     "NASDAQ",
+     "SP500",
+     "DOW"
+    ],
+    "id": "ff-2026-12-04-tag-148787",
+    "n": 1013
    }
   ]
  }
