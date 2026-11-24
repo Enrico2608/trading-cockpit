@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T22:27:53+01:00",
+ "stand": "2026-11-24T06:35:18+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -3738,7 +3738,7 @@
   }
  ],
  "ff_naechste": {
-  "stand": "2026-11-23T22:27:53+01:00",
+  "stand": "2026-11-24T06:35:18+01:00",
   "meldungen": [
    {
     "quelle": "ForexFactory",
