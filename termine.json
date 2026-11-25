@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T14:54:47+01:00",
+ "stand": "2026-11-25T22:35:53+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -794,30 +794,6 @@
    "kalender": true
   },
   {
-   "id": "ff-2026-11-29-tag-151212",
-   "datum": "2026-11-29",
-   "zeit": null,
-   "zeitart": "ganztägig",
-   "titel": "German Prelim CPI m/m",
-   "weitere": [],
-   "ff": [],
-   "land": "Deutschland",
-   "maerkte": [
-    "GOLD",
-    "SILBER"
-   ],
-   "wichtig": "mittel",
-   "quelle": "ForexFactory",
-   "url": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm",
-   "links": [
-    {
-     "text": "ForexFactory",
-     "url": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm"
-    }
-   ],
-   "kalender": true
-  },
-  {
    "id": "ff-2026-11-29-tag-149583",
    "datum": "2026-11-29",
    "zeit": null,
@@ -838,6 +814,30 @@
     {
      "text": "ForexFactory",
      "url": "https://www.forexfactory.com/calendar/798-opec-jmmc-meetings"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "ff-2026-11-30-tag-151212",
+   "datum": "2026-11-30",
+   "zeit": null,
+   "zeitart": "ganztägig",
+   "titel": "German Prelim CPI m/m",
+   "weitere": [],
+   "ff": [],
+   "land": "Deutschland",
+   "maerkte": [
+    "GOLD",
+    "SILBER"
+   ],
+   "wichtig": "mittel",
+   "quelle": "ForexFactory",
+   "url": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm",
+   "links": [
+    {
+     "text": "ForexFactory",
+     "url": "https://www.forexfactory.com/calendar/169-ge-prelim-cpi-mm"
     }
    ],
    "kalender": true
@@ -3791,7 +3791,7 @@
   }
  ],
  "ff_naechste": {
-  "stand": "2026-11-25T14:54:47+01:00",
+  "stand": "2026-11-25T22:35:53+01:00",
   "meldungen": [
    {
     "quelle": "ForexFactory",
@@ -3825,7 +3825,7 @@
    },
    {
     "quelle": "ForexFactory",
-    "datum": "2026-11-29",
+    "datum": "2026-11-30",
     "zeit": null,
     "modus": "ganztägig",
     "land": "Deutschland",
@@ -3836,8 +3836,8 @@
      "GOLD",
      "SILBER"
     ],
-    "id": "ff-2026-11-29-tag-151212",
-    "n": 1015
+    "id": "ff-2026-11-30-tag-151212",
+    "n": 1011
    },
    {
     "quelle": "ForexFactory",
@@ -3853,7 +3853,7 @@
      "SILBER"
     ],
     "id": "ff-2026-12-01-1100-151334",
-    "n": 1009
+    "n": 1015
    },
    {
     "quelle": "ForexFactory",
@@ -3869,7 +3869,7 @@
      "SILBER"
     ],
     "id": "ff-2026-12-01-1100-151333",
-    "n": 1010
+    "n": 1016
    },
    {
     "quelle": "ForexFactory",
@@ -3890,7 +3890,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-01-1600-146586",
-    "n": 1014
+    "n": 1020
    },
    {
     "quelle": "ForexFactory",
@@ -3911,7 +3911,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-01-1600-149799",
-    "n": 1015
+    "n": 1021
    },
    {
     "quelle": "ForexFactory",
@@ -3927,7 +3927,7 @@
      "SILBER"
     ],
     "id": "ff-2026-12-02-0940-157092",
-    "n": 1001
+    "n": 1005
    },
    {
     "quelle": "ForexFactory",
@@ -3948,7 +3948,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-03-1430-147026",
-    "n": 1009
+    "n": 1013
    },
    {
     "quelle": "ForexFactory",
@@ -3969,7 +3969,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-03-1600-146610",
-    "n": 1012
+    "n": 1016
    },
    {
     "quelle": "ForexFactory",
@@ -3990,7 +3990,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-04-1430-146938",
-    "n": 1005
+    "n": 1006
    },
    {
     "quelle": "ForexFactory",
@@ -4011,7 +4011,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-04-1430-146913",
-    "n": 1006
+    "n": 1007
    },
    {
     "quelle": "ForexFactory",
@@ -4032,7 +4032,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-04-1430-146926",
-    "n": 1007
+    "n": 1008
    },
    {
     "quelle": "ForexFactory",
@@ -4053,7 +4053,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-04-1600-148581",
-    "n": 1009
+    "n": 1010
    },
    {
     "quelle": "ForexFactory",
@@ -4074,7 +4074,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-04-1600-148593",
-    "n": 1010
+    "n": 1011
    },
    {
     "quelle": "ForexFactory",
@@ -4095,7 +4095,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-04-tag-148787",
-    "n": 1012
+    "n": 1013
    }
   ]
  }
