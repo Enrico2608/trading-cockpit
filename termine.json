@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T06:35:57+01:00",
+ "stand": "2026-11-25T12:33:48+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -338,7 +338,7 @@
   {
    "id": "td-280410",
    "datum": "2026-11-25",
-   "zeit": "11:30",
+   "zeit": "11:41",
    "zeitart": "vorläufig",
    "titel": "Auktion 10-jähriger Schuldverschreibungen",
    "weitere": [],
