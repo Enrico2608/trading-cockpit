@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T22:31:39+01:00",
+ "stand": "2026-11-25T06:35:57+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -355,6 +355,35 @@
     {
      "text": "Tradays",
      "url": "https://www.tradays.com/de/economic-calendar/germany/10-year-bond-auction"
+    }
+   ],
+   "kalender": true
+  },
+  {
+   "id": "td-330556",
+   "datum": "2026-11-25",
+   "zeit": "13:25",
+   "zeitart": "",
+   "titel": "Fed Governor Bowman spricht",
+   "weitere": [],
+   "ff": [],
+   "land": "USA",
+   "maerkte": [
+    "GOLD",
+    "SILBER",
+    "BTC",
+    "HYPE",
+    "NASDAQ",
+    "SP500",
+    "DOW"
+   ],
+   "wichtig": "mittel",
+   "quelle": "Tradays",
+   "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-bowman-speech",
+   "links": [
+    {
+     "text": "Tradays",
+     "url": "https://www.tradays.com/de/economic-calendar/united-states/fed-governor-bowman-speech"
     }
    ],
    "kalender": true
@@ -3738,7 +3767,7 @@
   }
  ],
  "ff_naechste": {
-  "stand": "2026-11-24T22:31:39+01:00",
+  "stand": "2026-11-25T06:35:57+01:00",
   "meldungen": [
    {
     "quelle": "ForexFactory",
