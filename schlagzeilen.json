@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-25T14:54:49+01:00",
+ "stand": "2026-11-25T16:38:33+01:00",
  "quelle": "Google News",
  "hinweis": "Schlagzeilen der letzten 48 Stunden aus Google News (deutsch) je Markt – nur Überschrift, Quelle und Link. Wird werktags alle 2 Stunden automatisch aktualisiert.",
  "gruppen": [
@@ -17,28 +17,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Kommt Europa diesmal mit einem blauen Auge davon?",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-25T14:46+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFhYWVXbDhueXl2Y3hNQ0Zqd01MN2wxN2ZOcG1jRDNTbU5wX3Y5bmcwUTlHSnJlZ25zZ0NUZEVtV3VTRTRkOEd1ZUJqUE9fOTRxSDFBWXNOU1Q3Q05OV2t0TTZ1SXN6NXNMdUpCX3d2ZVY3bUJWbWhLU1BuUkdfdDkxN0tacHVCYVl2RVNOSlpBRGkzYjcwdFJiaGNacVZYMWlDYTdZalo?oc=5"
-      },
-      {
-       "titel": "Wall Street: Die frischen Zahlen sind da – mit Einordnung",
+       "titel": "Massive Verkaufswelle: Nasdaq 100, S&P 500 und Dow Jones tiefrot",
        "quelle": "Der Aktionär",
-       "zeit": "2026-11-25T14:42+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTTR6eFBLeXlPMGZPcFJBS3h0UmRXWFM2dDVVOGNCSzFHeXB0WDZwOGRZUWdmcFN1WHRHMHhBTkM3TExfNy13QTc4ZUw1NXhqZXpSVU9xVERXUWZJZmEzWkNhMjY1REZELTZWckQ2bFFUQnVwOWI4VENwRkY5QjJ3b1lpWlpJUkJJcGJSRElpNGluTERGUGc1SG1mNDV4OFhRUEFxQ0F2TmVwYTdfMENnSklZZE93OUt6WEE5ZVdvYjNubzQ?oc=5"
+       "zeit": "2026-11-25T16:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUkptTnFYTXZReFdqSkw3YVhWSEx5NXRSTGtSaHMtWHdFdVFqVjBHQjJVRTg3NFduWjBhTlk2MlVNYnVSXzMyNHVJenpseGVNdzVjcFhEeFo0ZFk4Rkx6cnNLUXY2N1lOd2tHSXM1Skt1V0tQNE9HOUl6ZUd0cDhDY0JJR1JxT0g3dUxDZ19YbE5CN2p3TjJPcnk0TzBtN3YyQ0FJYnVWMnNWUUg4NWY5LW1wbWF2S19TdXNXSWJzcWl0NGxSX2VGeWpUbWs?oc=5"
       },
       {
-       "titel": "Gold und Silber unter Druck: Droht jetzt auch Kupfer der nächste Preissturz?",
+       "titel": "IT-Werte geben nach, Nutanix Registered (A) stürzt ab",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-25T14:30+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTDRtOEdDN1lTWGp0WHRWZW9MTlh4UXpNVWs3dHo0MUE1dXczNHJFSHYzRUZHU21acW5IaC0zZFVIVGphUUtOQTVEQ3Q4ZURsdDBDUm1zWTk2VGpFSkF1aXJVQ2pMZUphbUVhMDZqa2ExVGh5aTRXR0FSR3NTMVJzMGhDNklfLVU5TUxVR25vUUpKSHlVTk5Zd1VKdTBCZTRYWGJPOHktTUg3OHlvSENSOTk5dzNpU1FJcFFEWm1pSklPZ3M?oc=5"
+       "zeit": "2026-11-25T16:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYjFUQy1sRThlZmtPRTRONE5PNkdTTkUtN3dLQ1ZjeTg2cDJBSHFtbkpZWE5vWThQLWlaQ3RPNU5Zdnl0U1hieG1KQ0JKcjB2RG4xR3ZxYV9LU0dRZU5EYXlOa0VoWldWY3JzMElfLWhvaGVCZXAyS08xS2JkY2VyUFVnbXlxUzFhTF9abTBhTjNaYm5yOElOcHhGOFM5M3ctY3FsUXh3elQxdFl3MUE?oc=5"
       },
       {
-       "titel": "Ab Januar 2027: Sofidel erhöht Preise europaweit",
+       "titel": "Fokus Aktien mit extremen Handelsvolumen am Mittwoch, den 25.11.2026",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-25T14:24+01:00",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWcwQjEtcmEzUmx1V3NlWUVqRlRVclVsOXB0THZRYU1SRlNGclB3R21CV2JiRUlhUldIRTNOb0xDZkd6UUtJNjRWUkVIT0ZRY2tZZ0t2d3hnVnNCNmhkb0JEWFhxYVlQRk5GOTJwa2ZuWm1XQU1WM2pZUEdhSXo1SVpRTWpRb1JIbGpwczh0TFlMZEJhQ0h0S0pBVlRkUQ?oc=5"
+       "zeit": "2026-11-25T16:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXk2TXF3WHpUMzJzQ3JMbkdYRllYc05mWmNZS0dGd2JIYUxRYUp3OFRraEdXYUJ4SDNrWnpZT1NUOVZlTjQ0SU9ENnlTQTRTWFlyNXBLNXRUMk9kU2g2OGtianNVZmVQb1YydmpseTYxRDlwU0VWUG9qS0pYYl90SkdnWWd6bDVwQjhuMGU5aUxZVE9mMndWMEZqd0p2LTFFVkoxTm14TGlxYnVh?oc=5"
+      },
+      {
+       "titel": "Börsenstart USA - 25.11. - US Tech 100 schwach -3,35 %",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-25T16:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmg2VnctMHYwcmZJZElfQUNmSTFFaGdGRjl1T1NzUkI4WEQzQmgtUnhBSVdIYWtKQ0dwU1p5UHUxamMzd0R5NTNIaHRLejNrT0NZYWcwUzZOem9fMzlhT0lXcUFSSC1Cd21SVHd5OFhxV1ZoOVVFZXJLc0dDWWt2UHlCZkxmU0xlaHUtdUhOdnFYaWQtQ0Z3N0dtUkdBN2ZKY0I3QWVGS2ZRMGcwRlJZYmZaemRuM0dCZ0JxTQ?oc=5"
       }
      ]
     },
@@ -50,28 +50,28 @@
      ],
      "meldungen": [
       {
-       "titel": "NVIDIA Aktie: Spektakuläres Comeback von Jensen Huang",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-25T14:42+01:00",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjJ3Zjgzb2dKRTdoVWVURWFjN19YaXZZVldzcXFwNmZiY1JxU0dlQ3FWbHBpSnZuV0NWZHZJRzRSMTB4NzBzc2w5cUt3N19QTVQ3UVItLWUtSko5b0p0RXRRY1l6OTNpUjIxQjlLeElXbzlWSm9xMTFlQkltUDFvaHFXNFBXSld1Qnc5NQ?oc=5"
+       "titel": "Futures sinken weiter ins Minus: Tech-Sorgen belasten Nvidia und Nasdaq",
+       "quelle": "aktien.news",
+       "zeit": "2026-11-25T16:28+01:00",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYXMzZXBEaEotY0ljRkREbEU1RGJkaEs5amxRdW9ydnJPWDZ2SjNpUnlGa0tzQW9ob0hXejluZVpPcncxVVNSa0N0OGlHQzExTkc3T01oZU16TFhna0xxa1RvcUdNQUcwaEZjTm95bnVMamVMTnZCMlM4WUc5YWttVGVxWlNJTDh6MlRza1J1Q0Q3NEczamZCN0J3?oc=5"
       },
       {
-       "titel": "Soros verkauft NVIDIA-Aktien im dritten Quartal: Was wussten die Großanleger vor der Affäre?",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-25T14:40+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS1NTR21Mc2V3RkVhMWRUeFZfNjFBdks5bzBMd05vN2RHWHFfQ0FJazFmWkp4a1dRRmlKZ1BVOXJlRmZGaFlmZ2FXUnlqTVBrV21sWFBaMzZLd0RqalBaaXdaU254ZlAxM1dBdlhoVW1RaW5mMVJvTkRoN0YwSTR6c1N1OU8wZWtNbktVLWVlRkk4WEFqbkoyWXhzOUtQTl9DT1ZiakxKRXdjdUo2bUxLTy11YjFXSExJOG5Wam1UZ2tudDQ1RThpQ193eUhGV3J0d2g3aFZUOXlRN1hYUElVb2lRN3lwUzU3bGQ5UFFCcV8zYXE0MWJwTXdRekhKdw?oc=5"
+       "titel": "Aktien mit den größten Bewegungen am Mittwoch: Nvidia, Dell und Ambarella",
+       "quelle": "aktien.news",
+       "zeit": "2026-11-25T16:26+01:00",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUG4yUjkyWmZFMUtZcnljZG85aUJsNjNwdXNXcm56b0FrZjM4aWRWd29TRUNtdTFpcG1BaWhpUFZ5aFJhNkpVVkh0WkMzZ3RrYjB4MTFEVW9fQVg0b3dxbERjbG1xYXM2ZlpxX2tHdXFiZ2dCM0xPdlUzeFBxZHktMVc5RkliLXFmb3RVWndCUXRRekdRYkdyYTJOWE4?oc=5"
       },
       {
-       "titel": "Hotfix löst Problem nicht: Nvidia-Treiber kann Ihre SSD zerstören",
-       "quelle": "BILD",
-       "zeit": "2026-11-25T14:37+01:00",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREZBOHVTbWFWRlBrY2dLVWtjQU40YnphOW5adzRjaTdtSG9nNFZsTTNNeEZiUDYyaVRwbEt6UTVkeVU2M00wUGhSOS05WW15X25vbGZfaW9JV2xya2ZLTW1QdGszWnhreDE2cUlvSUljV0FoYXdPVEp6ZmpfdnhDdms0ejAxSFFVcTVPT3BaNHlWcW5icWtrY0Nxel83QWxKM2V4NjlrbnY0ZDFzYTctRk4yeGo5TW9zOF91b245V3BmM0JiYnc5WXdVU2I?oc=5"
+       "titel": "Unveröffentlichte Kreditakten: Plötzlich tauchen Millionen-Deals von Nvidia in China auf",
+       "quelle": "FinanzNachrichten.de",
+       "zeit": "2026-11-25T16:23+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQS2g0dDZUcDUzMU44TEphOHlNXzl4QlFKdkVFWlMyUWk1eURSbHpmN0Uxa1J1bXpYWGtaV2drcnMzV3Nwa0RjSGRjTlFOcG5SQUtmV3BoZFRKWVd3aTVOOUE5Rm1tQVVvamtmRWdfTUltTjhEOEUxTjNtTGFkemUxZGo2bDNOT2g4ZlhTbVF2bHhZR2hjb2hKcmNzSXBya0M3R1BkSkFPcGprd2xhVzF3cWc1Y2h5YWxVNDUzaF8zLXZVcjJ2SUg4YVVhNDB0SjB1RGxiQmpXWFE2QXZKbFVRSE45aVdVMXliSnpXS0g0elo?oc=5"
       },
       {
-       "titel": "Erst Affären, jetzt Applaus: Jensen Huang zurück bei Nvidia - und Trump ist daran nicht unbeiteiligt",
-       "quelle": "Merkur",
-       "zeit": "2026-11-25T14:35+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM19WT1NObVJ2dFJkdjJIWU9TNnNhMTktbHNsRy0wSm5TSnpoT1BQUU1lNDN0MWtzQTMyaVN0SEdPRGs0V1oydmxFTVVKMWtUOUJGd0dPREpxSFNxVVc4NFhqMHJYM2J2UkJEVDlGS2FyUmlyTWNXYkZPb29peURKNEgwZ3JuRm9GeTZUc2RjbURtSVBhdmcwOG1TLTVCZ3VBeVc5ZjFNbkdlUQ?oc=5"
+       "titel": "Nvidia und das Problem mit \"Jensen 2.0\"",
+       "quelle": "Der Aktionär",
+       "zeit": "2026-11-25T16:15+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXN0NlRDQTI5SFhiNlRpVXR3RFZubGRaZEY0bTkzVUdkY090aUZOMFU2NHBtVW15TVduWmJpT3NNeTcwT2ozdFlUN3VlUmd6bmNxUnJ4akRaQzRfNmNxM2JpV3JKLXotdDlrZzlnRGduOUo2SEFKS1ZXVmZDeGJ5SnVPdDJNbWptZTZ5WDM3cFBUU0gwaFFMZy12eGpvQ3h6QjgxVmczSzc3dnF1dlBB?oc=5"
       }
      ]
     }
@@ -89,28 +89,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Bitcoin-Prognose: Hält die Unterstützung bei 58.000 Dollar?",
-       "quelle": "IG",
-       "zeit": "2026-11-25T14:29+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWGxLUWs1dG5hZmNCWjZ6NDAyaW0xYjk0TUN3bWJvS29vanhIQzJ6S3VDWDl3aFdmbEU4Ml9iamdRbEswdWZtdl9WU3ZJc044a0puWnk5cFA5MDZYUGE4b3BwTFAzM0xjckxYM1psSU4tbVZKczF0X2ZXTUx2VTdZZF9laEc3RTRtcldoVzhlYmlHZnVDSms4TzhBaFpUR2pOV09hYlVsNmlfQ2s?oc=5"
-      },
-      {
-       "titel": "Bitcoin Kurs: Nasdaq-Future minus 2,4 Prozent, VIX über 30, Angst-Index bei 13 – hält Bitcoin vor den PCE-Daten um 14:30 Uhr die 58.000 Dollar?",
+       "titel": "Coinbase Aktie: Kurs rutscht auf 96 Dollar, eigene Bitcoin liegen unter dem Einstand – wie lange trägt das Abo-Geschäft ohne Handelsboom?",
        "quelle": "AktienCheck.de",
-       "zeit": "2026-11-25T14:29+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnNQR200Q1g3eFRHX0g2YmhUd2xpeHJnNENaVUM2a1ZvMFAzN0htb05meUY4bE43V2xpU3J0SVRBQUFkZ2dkTUlVTWoyUjJaYlZnWF9NbjN6N0tUeXVDS2xIOWhrNXE0QzdHZ2dDMlo4akZLcUpkYms3cVVEb1g3RXJJenZYbEpha1QycVczY21nUTdUNEluYkNSLVl4Ukg4bDEwSEtWcGpBZw?oc=5"
+       "zeit": "2026-11-25T16:26+01:00",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVp1WkF3Yk9EQmNzZWNwemczMFhhVExMRGxwdm9fckNKcktXVGFxb3F6dlZlejN2dWlWa0FBMjVQOEt1T1E4VnFhaXRfblF4S2xvSXNPWlhZa25jeF9oUDZoVjg1aW5jTGVUTkQ4ZlhxRnNaUmFDTFNoTF9lMHJwUER4ZG1HWUJkSmlKYWd6NVhSZUctZGZFQ1NBMm9sYnhGN0VBQ3dtTQ?oc=5"
       },
       {
-       "titel": "Robinhood Aktie: Rekordumsatz, Krypto-Handel halbiert, Kurs minus 36 Prozent – wie tief zieht Bitcoin den Neobroker?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-25T14:29+01:00",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHpuVThaSVd5OUw0YWN0cHBQSzgwVDhlbHBvbUloNGQzdVJYWHRUWXM1YWl4Vk5RUy1YM0ZZNzFEcWtweWlNWlRrQVRZYThrSHZCUjl6X01ZYWlBamxFejA3UHk2bWRoZGdnSmhLaDJsVmlOLWRqSm53WUJGNUtSUS1zQmhxd2xHUnRUVnpzdzJvbDllZmIzTw?oc=5"
+       "titel": "Bitcoin-ETFs steuern auf schlimmsten Monat zu: Anleger ziehen fast fünf Milliarden Dollar ab",
+       "quelle": "Cash",
+       "zeit": "2026-11-25T16:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWZULWNrdEF0VWhOTWJGU0l3TjlGNjRGZ1kyQU9OWEY4OU5iTXlpV2ZHQnkzaHZldS1NeExtVThMZGRJUzBLME12ZkU4ak1YSEJZQkhueXRPYjNkS1MwS2xlVHF0a2pHZ3ZJWGRvdENtTEZVeGJtdDFWcVZleGdtbDFZSkZwd3pIODVXTGI0cUhtREphcjlqbk9paUJLTFJXdWNlZWNoV19ET2pzdXZiek00bUZtRDFodm1JeEE4ZWpDa25wNDl4a0ZvaWY?oc=5"
       },
       {
-       "titel": "Bitcoin steht vor seinem zweitgrößten Kursrückgang in einem vierten Quartal, ein Indikator deutet auf 2027",
-       "quelle": "BeInCrypto",
-       "zeit": "2026-11-25T14:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzR2ZRcHFpbmQ4cU5DZHduRTdERUlsMkhzQkJxM2RWalJRNkozVm9TenNBN01ueENobzlIandwbVdqOFNhU2NaVFZWU0s4LWk2U2ZtU2pvc1FLOVJZNUpyaG1YTk5qVktXNnNQVUhWQmhDblVna3lmMkJXVUt2dw?oc=5"
+       "titel": "US-Wirtschaftsdaten bringen Bitcoin weiter unter Druck",
+       "quelle": "Blocktrainer",
+       "zeit": "2026-11-25T15:55+01:00",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWlJUlpLNWkyNWlsWUU0WkNnbG10Yk9oRUdIRmtzMTBjNWZqTVFtYndDd3NNMjlyd2xzdmJCRXpHLS03YmNKdDEtTXRKOXIzelJOc0FaZEFlbjRkVGlIVGw2N0gxcjRmaU9yV0JPSUQtMWJnbGlTVktnUGNTY21oOXpjNWU0WTR5bHBZdjFzNXc?oc=5"
+      },
+      {
+       "titel": "Bitcoin erneut nahe Zweijahrestief: Wo sich jetzt eine Kaufchance eröffnet",
+       "quelle": "Finanzen.net",
+       "zeit": "2026-11-25T15:15+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEprYkR4RmQ3Y1EzNFlHWkJnUUhxVkdSS1NxSHpwaTZhWDZWcE9XSVQ2WmVWaTJPaVdvNGMyNldDdzRRTHg4dURNMkxVRkhnV2lVdFVVZmxFMHdKQXVoVnM2TVAtN3k5Y3loX3dGUUVuaUpIVDhuV2NKOGZvQ2pwaFNzVVowak5FNE9CRFNzczZWbUdVNXFMWU5iRjRKM0dFVTRDYm96cThlV2hBaVR4NFhvV3lSMUdsRUlSeXM0VmUtT0dEWk1DMmx5bFJPWWg3TEVQeHVvT3g?oc=5"
       }
      ]
     },
@@ -153,28 +153,28 @@
      "maerkte": [],
      "meldungen": [
       {
-       "titel": "NHL: Chicago Blackhawks zu Gast bei Seattle Kraken",
-       "quelle": "News.de",
-       "zeit": "2026-11-25T14:02+01:00",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS1dvd0VySHBFbTVmSzdWaXpSZEZQcUx1cGFwQ3hiLUFsazRXX3lod0VZdUtuNjlYQTJVWFdKQmlSR1NwbXUzTE5OcVNrMld5cHFka3ppYklfVW52WjZqaHplUVlEZHFXdzJ4Uzd1UV9nVXotOERKNnBZX2g0eGdmTkF0X01CX0c0RmI1ZDBBTk0yZGhzYzNfYnRTVXktSGNua2FqenU2MFN5b01Odzk5RFJxMWE?oc=5"
+       "titel": "Kraken Robotics Inc. : RBC Capital Markets bekräftigt seine Kaufempfehlung",
+       "quelle": "MarketScreener Deutschland",
+       "zeit": "2026-11-25T16:25+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTUtLQ2xhS0FOY3laNWFlOEFkd2dzZ3FMTkJXLThnVWVKaE83cW5fV0JNRi0tRWFHRi1yYU1jNjQ3Z2Ffc01aTTR3bllnbEs2amtXb1pZMnJCY0RDS3M4MEp3eVQwcWdJR3gzQUpoSkt0ZmYwRjJBUmdHRU4tUkVJYVNjWGlJajFGRFNYd2xUdzlTbmFxM0QtclJMNlRLWHhoWUtOMEFWR1l6ZGJCYTdCcVFOY0U3NTFraDhuZlBBeEkwNkZqODdFTXlJV2poX281SmVoNQ?oc=5"
       },
       {
-       "titel": "Coinbase: XLM-BTC-Handel für 25. November angesetzt",
-       "quelle": "ad-hoc-news.de",
-       "zeit": "2026-11-25T13:03+01:00",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONXJ3VzF6OEtZbUJTMzNEUXVqd1gyRDNqUHVLcHZuYThMTG9BMDU4QmFtc3RZT3ZDNHdRX0JGT1ZSeG1QNDdzekltOEVTTVdiZkEzbE5DYVFVNjg3SmxLUTVWMHMzMGlVSTNmRkM0SF83MzFoN0R3ZEJCNzlpbDVxRjY2ZDIxcHRvVXFWV2FsTFVaS0JpdlRzRHlzdzlLVkdSNEc3YkVueWM1dDA5MUlmdVZR?oc=5"
+       "titel": "S&P 500-Titel Coinbase-Aktie: So viel Verlust hätte eine Investition in Coinbase von vor 5 Jahren bedeutet",
+       "quelle": "finanzen.ch",
+       "zeit": "2026-11-25T16:02+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbGhaNTc5a21uRTZCVnZQQ1BCSnFqTEwzdkpzbU5TdFBkYVV2QnB5cFNfQmJjSmxiWkI0dWwxaVlxeHJVeDFyOEdNVTNLajJzZ2JQcEViT3Nsck44VzYzOWVFSUF6aHU0MTFqU0RPNlBibUhVSlVKWl81WE5Bd3Jzc1Q3cXRYMEtKeFlQRVZQYXkwakloZFRZTUlhSzUxMGpqREotZ0VldEtaaGZxM296SGNTVTFfT2pwRzk0ZUNwZWtPN1lRSnBIQW9KVm9iaFlvc0hMWUowQVA1NkJvYWgwQ1pFamNyODlIY3BaWTM3Z3JwQQ?oc=5"
       },
       {
-       "titel": "Coinbase Aktie: Gewinn plus 66 Prozent, Umsatz minus 35 Prozent – wie ein Bitcoin-Buchgewinn das Quartal rettet",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-25T12:35+01:00",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUhNY0MzcHR5X3E2amVpeldPS2tzZ0o2QVpGeE8tenFIdEFYajFEWHRaU01UOFZGMS1zSGx0YVJ6cktseUpfd20zN0VmbE5PdFFlbUlYY1lMMU94WkRtM3IydlBmNXhoWGtWSkV3enNvc2VhbDUydWZsaV9UaFR4ejdyOVVQY0tFaUdzbU9ZVm96LTg?oc=5"
+       "titel": "Einblicke von BasheerAlgundubi (@Basheer_algundubi)",
+       "quelle": "Binance",
+       "zeit": "2026-11-25T14:54+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aVFktdi1PT2ZUUU5MY0lfeS1rSHhXd2pOdFhZQ0wwSzVBbXVicXQyNm0yV2VkSjVBaGVQUEFXQlNKX0o0eFU3azVnM05YU2tpaW5aeTVkbUNxMGhUbjVIRzg3Wng?oc=5"
       },
       {
-       "titel": "Binance Coin: So viel Verlust hätte eine Investition von vor 1 Jahr bedeutet",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-25T11:03+01:00",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRnNkVjRKLUFMeDJrWEkzbkNTWkFHNU1FYlduZ01QODJfU1JSOFo3ekZhNVZoa0xrZjk5a1hRSkVoeEUyVE5fV3lPZk1ZdEgxSnEtZ0dzR0VIM3g5MXlYWmhTdkpsTVFWLWE1WE05STc1bnRtajU0RkNtS05sNkRfaEhDSWxLR08za0xkSHdpZHlTM044TU5kS3huNjd6RVFaVUFObDRlblhmRzlvMHRhXzhHSjVlUGctWkVna21MMUVNNHI3eTRF?oc=5"
+       "titel": "„Bei Binance wurden einfache Governance-Prinzipien nicht eingehalten“",
+       "quelle": "Börsen-Zeitung",
+       "zeit": "2026-11-25T14:43+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHYxU1VPaUFTT0tZazFyQXVWVjBnMjlscHRjMHFiT1ZIY1hNSXgwaW84VUotbEFtVllhNzB1UEExR3NDMG9HQ3NySkVzVTBxVGhrek9oMXk4a05JcmpDUkNtNWdQZzdLVk9LclhVV2VVREE5RWZzcWNpOWEweXhXM2sxbFFSanFmQVNfRi1uY2FTQW9uRUt3OGdrXzExWTllMXZJOTkxTkJYMjVESmdObjl6WE4?oc=5"
       }
      ]
     }
@@ -192,28 +192,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Goldpreis stark unter Druck: Analysten sehen weiteres Abwärtsrisiko",
-       "quelle": "Börse Online",
-       "zeit": "2026-11-25T14:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkhGTTRDMHpTUFFpNnBLV1IwbW40d2NkN0dwalF5dzlCU0xfcTNKQnJWOEdCaVc2UXpaV1luOUR4RjFOTHRPNm5rTlFzZ2VKcU1rNEdjemJUUFFxMllCdmtuU0pXRGRrWEcwLTFmRWJNVGVGbTE1S3BITW1ubU05N2trdVdweHNoc25XSVpQV0JMeXo4NXlnTTdNaXlqSUhqajk4Z2xqMlBveHVPUmJGZVNsNjZHcUFxT1hsU1EtTEQzbXB4NXBtZUgwdjc?oc=5"
+       "titel": "Gold nahe 3.500 US-Dollar nach stärker als erwarteten US-Daten zu Erstanträgen auf Arbeitslosenhilfe - Nachrichten und Statistiken",
+       "quelle": "IndexBox",
+       "zeit": "2026-11-25T15:33+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2djWmZaYUZQM1Z3RHZkZXVFdngzZThVNkhGZGNjUzVQRkZqdUZlVHpRR2JzcUVrWVYtU2p0X2FqNUQ3OW5RelN0NjlSLWV4OW52UHBRcDVGUUYyUzVTTlUyWTVVUVV1Z0NzNklLcFBpV2RKUkNacnJVeEV1UGQxT0RCV1lEdHIxQ0FGblJ1cExXVVhmbnZWX1VURnpGX3JMLXg2VVlIZ0wzajBUdUIwM0hzUEQ?oc=5"
       },
       {
-       "titel": "Goldpreis fällt erstmals seit über einem Jahr unter 3500 Dollar",
-       "quelle": "Cash",
-       "zeit": "2026-11-25T13:59+01:00",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPblRuc2xSdmZtdVg2X0pYYVVhTE5lQ2hPX2VPcjNwMWt3MlpGSjY3bG1LQ0tHMXB4ajA2ZEhKQ0ZRUkFVYUFIdlMwbkE1UGdKTmJnSGFKWlhIR2Z5S3B3RnVqN0xaWGJrYlZDakR0UWZ6Z1VNSE9UYTlpOFdBLUd1UjVKMzBFZWU4S2JINWJWSzhUMmRDQ1VodV9jeVEtTXpiOWhCN3BJRQ?oc=5"
-      },
-      {
-       "titel": "Goldpreis, Weizenpreis & Co.: Wie sich die Rohstoffkurse am Mittwochmittag entwickeln",
+       "titel": "Goldpreis: Krisenschutz mit Schwächen? Was Anleger nach dem Kursrutsch beachten müssen",
        "quelle": "finanzen.ch",
-       "zeit": "2026-11-25T13:17+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWUctakh3YV9iRGtSWWFqUWw3d1JRb1VSTjYyMjB6UkZpSWpFYnJOaVY3bEVUbEp1dThmNFZYUVFIZnN0ZGVDbFptQ2t1YkdEdDUxMTFjR1ZqbnJJYW5mbFBtYmo0QVhxMUNIblJWTm1CMkRWb0tPYjQ0UjAydk43cG9PMHJRU01adFcwTFRKamNleWpkdlpmYmxTTzRqR2dJN1dqLUhtdmZmR0d2T0o5MV9mT1d0RnRmYmdkdVdab3pLUGxQdWxxWlFLNWk4MEFkSmVmNjBR?oc=5"
+       "zeit": "2026-11-25T14:37+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObU9ySHhiaElUNmMwV0FMU0RJU1ZfUjE4OFJpMldxRndLcEk0emRVbEFsb2RnUFVDMlNWMVFBT25GNDJzakpwMXgwQldyclJOWlpPTk5sbjZYYThobDlWNHhjVzNVVTdnWEtCY1dnSEpiUVktYzh6UHI0MGpXR1dUWkJ5aTRUWnF6bmc2THd6TmRxX0VkbGFnRnVuU01ENGpuVUFEM1o0OGE4Qm9VTGdxcFk2bTM5eEdUZV9ueWNKN1E4aUJjU0U3aTllbVU3R1QxQzBaa0dwb3pTdw?oc=5"
       },
       {
-       "titel": "Goldpreis: Unhackbar in der Krise, schwach an der Börse - Was Anleger jetzt beachten müssen",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-25T12:31+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTHJVUGNHd01jdUxYdGszOHRMT1A1aEt1TXRIc2ZaWnIxRkYwdFo2OTR2bWY1ME1vT2lHWkRrY1ZJVDF1eHU0SWlUeTZkSGlCOE13dGVON0hWWFZpZVJNWDQ4a2dNaTAyX2dNRUJLNkZ0eU1MTE9EN1VkOC13b0ZoRjh4Z1lCelpXLUg4MjB1YUZaZTJYdFhzSG1CZ3lvblE5VjZMQ1BvbXpZXzU0MjRDRnZZazNtWDRZWnZNbl9hZE9qVWg5TFBKQWJaaEllcjhWOU9GZTJGZ242MDRLN1pyRF8wdnk2V1B0ZFB6aUI3b2lYeEtEX0lQamxJN3VmelNjNnFwVkZuY2lHSjQ?oc=5"
+       "titel": "Goldpreis: Goldman Sachs mit klarer Prognose",
+       "quelle": "Börse Online",
+       "zeit": "2026-11-25T14:01+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0dLaDh6X0xVVmRsSVdzUEVXQ01aUVo3LWYwd0xPSVRWYS1VOVZpN3ZMbWVpQ0E5Z2xZMV84TWFDYk1vVkFaNXVQcXUxWWhKRFpVQlE2SjhWS0M2NlgyTEZXLUk3clY0UDJVWnM4MTJ5c3VRazNHVWRoYjg4UEUtenBjSWFlZnNWTFM0ZGJnVFpONUROVlZvVWJKd2I2MHVfTmhzYnRhMWJWYzhz?oc=5"
+      },
+      {
+       "titel": "Goldexperte Bußler sieht 100-Prozent-Chance: „Wir sind ganz nah am Boden“",
+       "quelle": "Börse Online",
+       "zeit": "2026-11-25T14:01+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzdVV2FDeW5IOVg4ZENNM18tSmd4b3lkOUlURnlOZGgtVTdqMUoxYkVOUkFVVS1USExmdlFpNmZSNE8tVVdQUk1seU1YRkVaQ1BxRWxnaGZ4NFRta28wWXNvdDJ6bF9GXzhMc05fZkFfdnZ2QWdYRmxmdHd4b1A2TmhrLXRQcERhYVZFV3dtSGlHOW4xX3FIMjU5bzhCZ09mdm1kTnhiVjF6Z01jWUNJTWRvSVdmcUFyOEh4OFRQbF82QkRBUS1tR0lUQ0dIbDZJZnc?oc=5"
       }
      ]
     },
@@ -225,6 +225,18 @@
      ],
      "meldungen": [
       {
+       "titel": "Silberpreis kracht auf 40 Dollar: Pan American Silver und Hecla Mining im Abwärtssog - Wie lange hält die Marke?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-25T16:08+01:00",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczJMX19Fb0J4cVlVZk00MUtScE85a1drSEx1VzBhZjN5RWJrTGU0TV9EYlZLMlNKZW45Yy1LNFVKSTNZSTVoWXNkTWtVME5JYnVNT0t4SWpsX0hXZlkxVHI0UHdlNzQ0THFlZC1laC13Y25ISDQ1a2hjVTZpYmRpTTA1WW1KZC1Wb1NzSl9mQnd6YmtPM29iQ1gwTVNtNHJxejBLTGpB?oc=5"
+      },
+      {
+       "titel": "Silber Preis: Aktienausverkauf greift auf Silber über",
+       "quelle": "Börse Express",
+       "zeit": "2026-11-25T15:38+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1N4d3BWUzVrc1B2cTNBWTBkdUJTcmFvMmVPM0FraE5Wck94T3ItZ1lFUVA3SGtJMTFfbTU0d0hFZUpXcFZQcE0ydW1pR00xdnloQjNXOE1YVnR2N09JRUdFeEZOWHBod2ZOMm5udzRtdUpaX3RlZk5Bak54YmJEVVhGTm9jU1h2RHJmOVRwQ01fSzRqWFpfQTAxTEhCOEVUUTdEY0JsV1E?oc=5"
+      },
+      {
        "titel": "Silberpreis: Erstmals seit August 2025 unter 40 Dollar, Gold-Silber-Verhältnis bei 88 – was sagen die PCE-Daten um 14:30 Uhr?",
        "quelle": "AktienCheck.de",
        "zeit": "2026-11-25T14:29+01:00",
@@ -235,18 +247,6 @@
        "quelle": "ad-hoc-news.de",
        "zeit": "2026-11-25T13:59+01:00",
        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWJEb25pRlU2NTlMTVFKX0xDV2lRb1I5VnBaOXFRVzUzNUtfdTcwT1FpWUFJaGhXcUcxYUdfVmlDSnRSQUZXbGFNeFQ4UEFvSERhV3o5UVdtQzlsLVZSY0luLVcxTVNzeTNHeGlrcU9lNm5lZlljNXNxTVJMTUg2Tk0zWDJnYloxNGJjOWlxTGk3VmhHVi13NE14WFVwUDZMLV9TSmJvaXFwVlBq?oc=5"
-      },
-      {
-       "titel": "Silberpreis hält sich nahe 14-Monats-Tief, da der US-Dollar vor PCE fester tendiert",
-       "quelle": "DE.COM",
-       "zeit": "2026-11-25T13:50+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZnl3R2pMRWN1akZ6a2wzaVVNVmtkWEMzZ1NIVGRsUzF0NXpmbWxEdGJfSGZ4cHlmSGY2Ym5vbk5sck9DdmprSmZwQUg1Vk0wSkFGd3RIVHBNZkpxcE1ncDVmaFNHUHcxT0R3eXRLZ2VKakhEZ2JVLVpVb2FmSzZVYmFHRTdjUWRhaU9zalZIdW02Y25GUUtPY2wtMm45X1lUeDc2Ml9IMVRCY0kxa2NpQ05JRDNQbmZ6SF9Sdnh2NTNHNHpuV3VDOGV6UDZocGZ2aU1qR1NCdHJPWWlnMGQwZUY3SQ?oc=5"
-      },
-      {
-       "titel": "Silber Preis: Dollar-Schwäche reicht nicht?",
-       "quelle": "Börse Global",
-       "zeit": "2026-11-25T11:40+01:00",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnUxM0hRVGQtOXhzNndmUG1KUVZScGZhMjYyZk45YmxkVTBoa2RUUUNEUUw5SExOa05PQjl4U1JLczJQM2tudTU5dHNPQURfTVRuMGhXRDY3TUQzSGMzbVRzVFotajkxUm9DMldJQ0piYlVkdG9nekhvS1NnQUxGX0o2eWI?oc=5"
       }
      ]
     },
@@ -258,28 +258,28 @@
      ],
      "meldungen": [
       {
+       "titel": "Bullen dominieren den Ölmarkt: Brent klettert auf 89,71 USD",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-25T15:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHBHNXY1dzJtQTFnZktJbkRBV0VnbnZmRExMdzU3anAxVE94OVJZUElXRGl3cFc0OXhEbEtWdnZvcy1NcVlFMjdqa2RLR2lpNkhxSW0wVVFhNU94Z3hLMUNqMThrZXhVVmNIVlZTNmdsQ3o3U0ljX3FMWlQ3c19EdjdMUXotblJJQnI0ZktPU0Z1QjRjNEo0ZWYxVGNFYkpRTFpiYlFoekM0cGpSSkxqbV9n?oc=5"
+      },
+      {
+       "titel": "Weitere Angriffe auf Tankschiffe: Ölpreise drehen ins Plus",
+       "quelle": "Finanzen.net",
+       "zeit": "2026-11-25T15:24+01:00",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHdESVhaQ1k1bDd6VUlMS05aSjF1Ry1CQlhHTkx3Ml92STVOUTluWWRpRUhMMjhOLXRvZS1fcW90VHV5RmJFYzJ6TTk2VEx0bXlvaGtmSmtmLVVib0ViYW13YnlDZmJpQzhaajFPb1hfTlZ1bXNLUzlTOEprTXM2b1M1RXo3bEZ1ODhzLTI5ZFJ1aFdINlMtb3l6R3h6eklGQzhKdWZYTE92NFZOWmVFSHo4VUhqZ3ZFU1kxUUhBc0RWUThCNnM0?oc=5"
+      },
+      {
+       "titel": "Neue Attacken auf Tanker treiben die Ölpreise nach oben, Rohöl dreht in die Gewinnzone",
+       "quelle": "finanzen.at",
+       "zeit": "2026-11-25T15:24+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMm9jN2NkQmhCV0JjSDJudkhEMll4WDNqR2VpWWljWGQ3WVFYZW5FWURvby1oN2h3TnhaQl9iR09vajBzT0dGV09OV1pael9CaG41V1NvbEVCaWsxc2Yydlk5TF83YTBRd08wbWc2QlNGQm9RcEJJUFBvUXpPdGpmS2tNbFlmdWJEenhCSGJQVV93REdGa0tBMm13aElnWlUyeTM5N3lHQ3RCaFZxTk5CUWNqdXgyVXRCMWxic19OSWxtbkVOWHJSMHA3YWltakc1cXpiX2haWHNFMnFi?oc=5"
+      },
+      {
        "titel": "Ölpreis: Brent legt auf 91 Dollar zu, Iran meldet brennende Tanker im Golf – was entscheidet die OPEC+ am Sonntag?",
        "quelle": "AktienCheck.de",
        "zeit": "2026-11-25T14:29+01:00",
        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelFTZFlocGRWUmROTjJkYTlWVXRMRWQ3TTFsWGF2Nm1XSGw2MUdDbTExQ2hiR3dCeVBxRE9yQVlNalB4X011VHdpQ0FlZURJQ0VjX1MzemVyMTJXcFBBS1kwRy1ReWJTODBfZUwyYUVGbzRXeHg0b3ZCS0hIUExZREVPUnkyTnBJcVNDMXBlUGkySHF6UWUyVVhZSXJONmtfa0ZGc2VoX19KazI3?oc=5"
-      },
-      {
-       "titel": "Oil: Supply recovery offsets disruption risks – ING",
-       "quelle": "tmgm.com",
-       "zeit": "2026-11-25T14:01+01:00",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXZjWEhmVzA4NW1iV1hIbzNsY0V4V3Rld3dOZFR3cFdaeEpfbndmTW05QWRFVFF5SUxnNTUxcVB2amw1VU9vdjIwTmd3NkdPWnNBbzhPSmVKWFRDQTVWLUlqUnB5MVcyaDh5VUd2V2M1bVhUZFZYUG1MSXd1ME5SRC1KckVkWGp3eXpxVWZRQk42dnM4NmJ2VHFMbGk0WVhRR09LbE5LdTdXQlplOE5BSTJ4Rmo?oc=5"
-      },
-      {
-       "titel": "Chevron Aktie: 10,4 Milliarden Dollar Quartalsgewinn, Ölpreis im Sinkflug – wie lange trägt der Cash-Motor?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-25T13:41+01:00",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbF9uTUYyVDRiMUJpVkRtek5UY0o4TGFnNWZBa0p0WVo0U00tUm1pZFN5amRoMklBUFYwV1lfSHNzRFVGV3ZhQUM1bHJHcEVDMDlWYVIxVjlBYmlybUN4aU9MU0MwVlhkMnJZbmJxNjM5TlcwaU9VbENFWk1ybzBQRklqeXdHMVJVb3BCOUhGY2VmMVBz?oc=5"
-      },
-      {
-       "titel": "Ölpreise geben weiter nach",
-       "quelle": "Energynewsmagazine",
-       "zeit": "2026-11-25T12:44+01:00",
-       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYcnRGYzVKMGh0ZElzcWRiSFpzbmhSU0lwTUYxX085QVd2dWk4eUN6eE5ZWWREQWJjZFBhVmowWVZRbHV6UEJ0YjN2LXJSV3lXRVYtb0JnOEdzQVFOSHl1QUdUZ3VmVWxkUXdPVTdOODl5d0d4a3JrR1kzeVZNQQ?oc=5"
       }
      ]
     }
