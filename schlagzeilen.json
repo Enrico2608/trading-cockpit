@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T20:40:48+01:00",
+ "stand": "2026-11-26T22:27:57+01:00",
  "quelle": "Google News",
  "hinweis": "Schlagzeilen der letzten 48 Stunden aus Google News (deutsch) je Markt – nur Überschrift, Quelle und Link. Wird werktags alle 2 Stunden automatisch aktualisiert.",
  "gruppen": [
@@ -17,6 +17,18 @@
      ],
      "meldungen": [
       {
+       "titel": "SanDisk Corporation erholt sich nach Halbierung im Monatsvergleich",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-26T22:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1o2Z0N6cEM0X0k2QUZFU0xlZmdGQ2JTRWppa1pjRHVtRlQ2WnhzNlZ5UkxWX2hFNlN6c3ZHMnZpcnBHX2g0N0hOd2Z2T3hpSTVJRk1zTElCaUlCXzFVNk9qelBqTTU4WXNvemlZTGwwM0pLSEJhNGFVczdjakVvTTFvWHI3ZHVrb2stVEtRS0liLUh3bkI1c1RZTFZYU1N0anRMSVdTRHByZ0dkNk1td2dfVVBTNEk?oc=5"
+      },
+      {
+       "titel": "Nebius Group Registered (A): Tagesplus bei 41,96 % Minus im Monat",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-26T21:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2J1VGQwSTF0alVfbDg5RXJDM1hLS1NnSWpHa280cDFocnhVVm95M29GcEl0YndWa25fZzdfakY1UUx3cFp0Vk1ZdVBXWVZIYm1odXZnc0RPZjJxR0IzQ25CYnZ2TnprZlE2LWF0UUFxYWJLdkFGUm9zTEtxODhWa3Q3bDFkQ0hxMFBialpLdVA5elJ5WnZpcHVOWnNEM2U5UkNJdFk0Q1VkandDWTExd21RUlR3TkU?oc=5"
+      },
+      {
        "titel": "Denny’s lädt Nvidia-CEO Huang ein – Vom Tellerwäscher zum Chip-Milliardär",
        "quelle": "wallstreetONLINE",
        "zeit": "2026-11-26T20:30+01:00",
@@ -27,18 +39,6 @@
        "quelle": "XTB.com",
        "zeit": "2026-11-26T20:20+01:00",
        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRnZwQXZXck1mRDZBTnNybkxCZGoyMmpQMlB2T2tVM2ZJN2tod1Nwc3g4Wjl3dlN3ZUhhMnlMVTA5M1dMX2JpcG9qa2kzQi1Xdi1LR2lXRlVRd1RlTFRzZncwUFg2TG85WmlfM05nS2V3UUJCSmllcHI5NDZDTDhyYWl3S3A5RXdhWWVldE5LVXF2dWNCU3ptbHY1ZVFEaUZsNVYweTJiTXlvZTlhLV9mRkVHd19MdnExeGZvWlBmbFZMYU13R09MYlc1aThiX0lmRFRQOFU3VTlKMTFLZEdr?oc=5"
-      },
-      {
-       "titel": "Elmos Semiconductor legt nach schwachem Monat um 4,09 % zu",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-26T20:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0d3M1JlbGhZZzRyQzBJcDBuNlNOVEtIWEQ2QWk2akk2eXE0dkh6ZTFkdFBaV09aR2liZHFRLUMwSDFjTk5QYkd5UWFYWS05S2JaRjI3M2V4WTJRS2Jic2QxSjZsUWcyeHFPMmg5dU00STFCeEdETU5paHVWUnZ6TE1aREdzR0tvQ0tXU0F0RXBLSDRxRGtVRkk5Rld1RXRmcW9oX3BPbHlkQV80WTF2RXZB?oc=5"
-      },
-      {
-       "titel": "Iran-Krieg: Tanker-Goldrausch – jetzt wird sogar der Dieseltransport geopfert",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-26T19:59+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWDFYMTFXb1o2RFI1YUNfaEIycFo2eWJra1ZEWlFPSGhsNUxWNlBUNjhObC1TbVNMSkJRSFd6MEFiQlhZYVc3X25MMHh5dWFJQXl0Sl81S1pqdk1pamVJMllHWGxEQUdxejQtcG5PMkNuMHBfWk9wT0hVRTZvN0hFNFh6OGFST0RRcXJOM0NiRUN2ZllIeDhjR3EtMGd2bmM5WEludWljM1c2R1ZOanc?oc=5"
       }
      ]
     },
@@ -50,28 +50,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Liebe, Macht und geschmuggelte Chips – schon wieder eine pikante Affäre bei Nvidia",
-       "quelle": "blue News",
-       "zeit": "2026-11-26T20:13+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWk9ZQ1dtYjRfZTloblZKWUpxRVA3SE0xb0tKUWFXMjVDQjZ4MEprQVRzNG13cS13MG43ZzlyWjJNbG8tMlBIVE9SdFBqblIwQ25aMlhyV1dKdmFjcVRlYUJ3M0JIWXRzN0ptSHlyYnRXRk1mWWNKaEE1enV0ZmxFcVhGVUg4Mk12dXkwRllBMUZhSGRIZ19CS0NDQ2dkakxTLVJhbU9HcDQ0cnVRWjY3YXNmekNpV1NybmdwQ2VoMUJNeFAwckoxRXMwVnk4c0d1NlE?oc=5"
+       "titel": "Nvidia Aktie: FT meldet Lieferstopp für vier Länder",
+       "quelle": "Finanztrends",
+       "zeit": "2026-11-26T21:17+01:00",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObHBQc2lSYUZrVG1za0tXVkd3TGxSS2JId3VhX0JIbDNzRUtFRjdISUF5QW41am1aXzV6OFFaTmRVMWtId2lvb0pNeklCVnJaUTJqQXpfNVFRWXNpbWJxbm53ZDBicWhjMEJuS0pZenl6aUFGQllDVnhHaTAxbENGSFhzS0lnSG1zOXZmS09NRQ?oc=5"
       },
       {
-       "titel": "„Vergifteter Kelch“: Jobs-Biograf Walter Isaacson hält Jensen Huangs NVIDIA-Comeback für einen Fehler",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-26T19:16+01:00",
-       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRGhhd0RXdGZfSFJxanJYZDQ2c1k0RXlQNnBYdDZKc0NSZzRndXlMSVZDdkk0RWR6Q0pWbzRDZUV0b1RTY1ZLZzhpbXNZS0FGdm1OTU9mZFNHNXdVZkdKeGhpNGRRb3lxOXhtZ0lqMElhWXBZbEVTMzhmcGs1NTJkNkFMcFFmLWRTWlNDbXJLemlxSTg1cGlBRkJ6M0o1cnVoQ0JCZ3VnM09NX25GMlB2ck83bDJSeGpnU1FmZFI0ZEg0N3ZiRmhTaWlYVllRend6VzdPRklHU0taOXhyWmFCb0lKYlJULVF2bzRZQWFsdkJtWlBrWkhvNGtPdHJhNE5Rdlhj?oc=5"
+       "titel": "\"Deine Sitzecke wartet\": Denny's lädt Nvidia-CEO Huang ein - Vom Tellerwäscher zum Chip-Milliardär",
+       "quelle": "FinanzNachrichten.de",
+       "zeit": "2026-11-26T20:53+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS0tyZkUtc3JCbkdrajRvUFpHMlNPeW5fU3FFOV94UmZJTHhfdVQ4YjJweXRlSFBGYTNLc3RjcGQzZkFUS2R6MkFjRGtIV043YTkyNEJwMEJXUnRpSVo0Q3R1TUJKcXJvWHUzNU1Yc0VCcnQ5MF92UXloM1dnRlFYWjhtZjBoUmZuZUN5azRpVFkwUUpFbkJhZkJUTEtYM0x5clpQajY1UUN1R3dKQ2VUeGRXN1dfckZ5Y3B3clV1REppNHp2NmJlWmVRR0VhREpKQldJVDRQZzNqeENKSXdLUW5SblhpbFVnb0RXZ2NoLWpmb1FFYm9ZNzVB?oc=5"
       },
       {
-       "titel": "Pentagon erwog Kriegsgesetz für Rückkehr von Nvidia-Chef",
-       "quelle": "L'essentiel",
-       "zeit": "2026-11-26T18:42+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXp6ZzNZR01mNkZNTGpVb3JXYTgtbUpJRlgtWDZqV2RfZURvTUprRm9uRC13bjhMSTItd2h0dWdjRnlnSlhTV0hOQkhwSGRjZl83dGU1akdIQWhZQnYwenRKWWZ4QkZKc3FFV0daS0xrdmtZWFNMZklOUVdRVXYxbjNHQXJ3dm1fU0czWURFUDRLUWhBWjFFb2J1eVFmanpDTDJMeW9TekxIc090ZmRQZ3paU0tfZ1VM?oc=5"
+       "titel": "Nvidia mit Vertrauensproblem, Anthropic bleibt am Kämpfen, auch Infineon gerät schwer unter Druck und Porsche erhält überraschend Zuspruch",
+       "quelle": "NTG24",
+       "zeit": "2026-11-26T20:51+01:00",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3NHc0hyMFdnTkRRYVJRSVN0aTdaVFlsa0FRdDR5M0x3cDVKT0Vld19EV1NMOXdiMTJBc3lHVjZZY3k3enNVejBKVmxUcVBBRXlxMHhHWjRxZGNsQk1PYWJhWVR0Yi1WRldBSXpZNkhjeXJjQjdJR25Sc1ZrSWlOSTYzTG5pd2taMFE5bHBhX0lNb0xKLVpv?oc=5"
       },
       {
-       "titel": "NVIDIA-Lieferstopp: KI-Server dürfen vorerst nicht nach vier Ländern",
-       "quelle": "BornCity",
-       "zeit": "2026-11-26T18:31+01:00",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYjFkcGdYeXJXSUM3Z2xTcExFd3lVR2JoVXlfVzZoQmxXMlNYdElyb01FNE52ZXJVd0JtVGhtUFhHaDAtTmZFa0lmaVpKT2tJSUNUT3M3eHA0LXlVZ252NFhqdWp4TDNQcnQzUEJ5aHNDZnpyNk9xdE83d3NoUHBvWFNqM2NMLVBnWHJSUGcxbzR4ZnlES2NvYm0zY3g?oc=5"
+       "titel": "Dan Loeb kauft Meta und Nvidia – und wirft Amazon komplett raus: das Depot von Third Point nach dem Verlustquartal",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-26T20:42+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXRwaFBxY1pXeEJfWmxUVFJFYUVCSXlNeFJaLVFXeWdvcjF3bmVMU2UzUTZRV2tWSjlkN2VBV29fM0N4dDZvUGJyZGo5dGxxNW9admhMcnc3T3F2UmR2bk1PcGhlZnJ2RDB1VDdqS0tWVWR1dUVuNzZvU3VKUVh3Zm1QUFQwR0FuMGc2QmRja0xDUHpvQ09jMnNoVkVNUjdLS01PWUMwNWdVZw?oc=5"
       }
      ]
     }
@@ -89,28 +89,28 @@
      ],
      "meldungen": [
       {
+       "titel": "Aktien: Alles stürzt ab – doch eine unscheinbare Geldanlage schützt jetzt das Vermögen",
+       "quelle": "WELT",
+       "zeit": "2026-11-26T22:14+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZXpxS1JsZ1JSdmFGWk52YlgzdmhOUzRSa0IwOFg5V2NwdW9KRXFIU19nbmRTMmxNeXZYVlVBRDZKY0d1ZnBzM3dZMFYxVUxMMjJxN3VvT3ZaMFpRSjNPMVQ5ekowMDhJcnUyd3VKbTFvczNBTmFHVWVMYm0tZ3ZMcDNzYThfVEZBazB6cEFYck5VSHNBTk9ETHVaQUZWRVJDVDU1ZGcwVVRRUWsyaVotSGZmc2xrYVFaSjlNVG1XdGhBTVdDNTZzeXdRNE83ak9wbEpXdy1uR3YtdXBFSGtIWXRIbw?oc=5"
+      },
+      {
+       "titel": "Bitcoin: Galaxy kassiert Prognose ein!",
+       "quelle": "Börse Global",
+       "zeit": "2026-11-26T21:36+01:00",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oSFFPUHNLdl8xcnEtV3hRMk12dVZTSHZYUmhfVTdERnBGZkV3UXpkbWEyNm9KSUhsOWZVLURVckdVWFFVaThjc2dJTzhGUEtnLTF0YllSSm9PelUwV0Y3aGloN3lQNV9fMTkxZXl4UjFrcXJ6dllLV3YxODc?oc=5"
+      },
+      {
+       "titel": "JPMorgan erkennt Rekord-Signal für Bitcoin dank MicroStrategy",
+       "quelle": "Yahoo Finanzen Deutschland",
+       "zeit": "2026-11-26T20:58+01:00",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnhsNXVEU3RzbUwtS1p2TWFLcjRBeGtGZzhjNmZUa2hZNFRHbW1lMTNUMVpTMnc1WG5EQXhrcXlkQTRkeFdpR01oY0ZJU2hpQ2g4c3FlUGJJWndVQzBlWWpDY2ZOV2xCSFlIZFI1UVdKREVpR2ZjbG9OX2R1NmJ4NVNmRGdpTDQyTWo0ei0xSTg4SmVrY1hOTFJ2bw?oc=5"
+      },
+      {
        "titel": "Bitcoin Kurs: Sieben Termine bis zum 9. Dezember – von der Optionsverfall über den MSCI-Rauswurf der Strategy Aktie bis zur Fed – wo fällt die Entscheidung bei 60.000 Dollar?",
        "quelle": "AktienCheck.de",
        "zeit": "2026-11-26T20:21+01:00",
        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzVCTjJtS0E2NnhGaEFtU3ozWUNtTXhfODllUGNFT0lkZ3FWa1RKQzk0UnRRbTR0MlNhQ1lZeDZqWnEzZjRaUkJ0azN2Z0wzNG40YW0zY0twVTA4eWoySUpmTGJsLUNUNkd4V1RoZEdMc0JjRFhlV255SFdUdHVoZTFHN1plSU1yX3pMbnVER2hmelNGUnc4OVoxYXJIT3J6WGM2ZnUzOXg2TjhqNzZj?oc=5"
-      },
-      {
-       "titel": "Bitcoin: Entsteht hier eine große Bodenformation?",
-       "quelle": "sharedeals.de",
-       "zeit": "2026-11-26T19:25+01:00",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYlNER3Foak4wS2FYWE01aC16emZfWTlmRHp4eGxQbmk2TUFwS3BJSzV5RW1LU0VXUGVubFg4Qlg4ZDNDT3R4RWRJeENCYmpnRHJzTVowaU5HUVFtOWtFV1ZGRlR1ZzZBdkJvWEVrS2tLZkJyQTRCVWVNWUlQV2NzVw?oc=5"
-      },
-      {
-       "titel": "Aktien: Alles stürzt ab – doch eine unscheinbare Geldanlage schützt jetzt das Vermögen",
-       "quelle": "WELT",
-       "zeit": "2026-11-26T19:16+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZXpxS1JsZ1JSdmFGWk52YlgzdmhOUzRSa0IwOFg5V2NwdW9KRXFIU19nbmRTMmxNeXZYVlVBRDZKY0d1ZnBzM3dZMFYxVUxMMjJxN3VvT3ZaMFpRSjNPMVQ5ekowMDhJcnUyd3VKbTFvczNBTmFHVWVMYm0tZ3ZMcDNzYThfVEZBazB6cEFYck5VSHNBTk9ETHVaQUZWRVJDVDU1ZGcwVVRRUWsyaVotSGZmc2xrYVFaSjlNVG1XdGhBTVdDNTZzeXdRNE83ak9wbEpXdy1uR3YtdXBFSGtIWXRIbw?oc=5"
-      },
-      {
-       "titel": "Eine minimale Zahlung kann die IP-Adresse hinter einer Bitcoin-Wallet offenlegen, so ein Entwickler",
-       "quelle": "Cryptonews.net",
-       "zeit": "2026-11-26T18:55+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16d3A3MmdsT2RfalhpcXNkOUEzd0tpY3NkcW8xZjdxSkZVVlh3c2l4aVdXUDFxWE9qYldLdzJ5V3VTbUVKY3FhVmdhamFNQVBrM1FkQ09CNVFfeUdU?oc=5"
       }
      ]
     },
@@ -153,6 +153,12 @@
      "maerkte": [],
      "meldungen": [
       {
+       "titel": "Central Coast vs Auckland: BTTS",
+       "quelle": "Coinbase",
+       "zeit": "2026-11-26T20:57+01:00",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wM29yMUZDUERYTUU2cXVUYndxcmc0V18tNGFlRnc5V3ZLc053MmVsRG85cG43Y0luMHg2ZnlXV2Z2ME1ld3lXN3lxYjhfSEpWMlpob0hzbUFialBYSmVtbEhENWhwbUtDX0RzS2VSdUtZZUxxTHMxUmdLdDk2UQ?oc=5"
+      },
+      {
        "titel": "BNB Kurs: Binance-Hacker bewegt 35,5 Millionen Dollar in Ether, 1,9 Milliarden bleiben ungesperrt – wie sicher ist die größte Krypto-Börse?",
        "quelle": "AktienCheck.de",
        "zeit": "2026-11-26T20:21+01:00",
@@ -169,12 +175,6 @@
        "quelle": "ad-hoc-news.de",
        "zeit": "2026-11-26T18:42+01:00",
        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGNXVXNqQjJ5Tk1iUXRpN3EyTXNGSXZuWnkyeDdRX0hlNVh2X0xiNjF0M20tRzl0cVNnRWRGVlBXY0NzQ3gwN0ZtSEdRYk00TWYwZmpFekFEWjRCMHhiaC1YNTcxTmdyMFNBSmZ6bklRSUhEWUZMLUVZQUEyckdyUVJRWV9mUjI2TXVGNjdiSUVBWTlhR081a2VNV1N2TFdZZTdPQW5iTHFCQzJ0LWsyMEVoeWd2ajR4Zk9DeGVLeTVOQzhJQVR4RzBNUkk?oc=5"
-      },
-      {
-       "titel": "Coinbase-CEO: Anleger verlassen Bitcoin für IPOs und kommen zurück",
-       "quelle": "Bitcoin News",
-       "zeit": "2026-11-26T18:22+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnpYWUY3SERpQ0FyUS1HcFJsX0o2Qk95VWNZSFZvSTRUd0V2Q3BwTWVaMjRIUk9aNEc2TWV4bnBNZHZKeHh5UmtDTzJ0a2JFV3F0WVYxbnhOQ09wVEdZVDFlMm00OENJQmdKWG9VZWtkSzJIWHlJai13cndlSFdxdjJYNmRoaGc4a2pYWmVqNkhDdUNmWjV2ZkpYcTBHU1ZZWjJOWlkwSFlydndY?oc=5"
       }
      ]
     }
@@ -198,6 +198,12 @@
        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xV3RqQUxSMDRueTZjc3FjSXRUT2tZcDVNZEhrLWpQcDN6STZ5SHk5ZC1OWkZJSU1DcTVpX2wtay1xS21zZEZfeGdQS2wydmxlZUtxMVRZS0F5R3BpbTd2Um5rMC13UTFj?oc=5"
       },
       {
+       "titel": "Gold: Erholung beruht auf Short-Eindeckungen",
+       "quelle": "ad-hoc-news.de",
+       "zeit": "2026-11-26T18:57+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW9SZ0EyZ0ZHY0hPTnh1b2NvYW1EMWdFY3pQV25nLTA3bzI5cUNSRkJCbmdUeVRsbE95cE56Zk5jdzBiSnJlSXpNU041WXNjUEd0OHBBSTFMTEpiQWRCamdYbWEzSGxXYnM4U1lYN0dPZFlwdXlrUFVKcEtuN080U0tLZ2lXNXZ5MzROVkM4aDN5UXp6TkNjVkhqa3V6N3U0WjF2VUx3ZHdCVGwwXzQ5OWpUMTZ2UQ?oc=5"
+      },
+      {
        "titel": "Der Run aufs Gold: Der Goldpreis ist kräftig gefallen – ist jetzt der richtige Zeitpunkt, um einzusteigen?",
        "quelle": "Salzburger Nachrichten",
        "zeit": "2026-11-26T18:00+01:00",
@@ -208,12 +214,6 @@
        "quelle": "wallstreetONLINE",
        "zeit": "2026-11-26T17:30+01:00",
        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUG8yYTZyRWEyQ0xiZDdqS09hMGRZSHlJOWh5VE9DeHM3S0xmVzlkVXZjdWp6dHJfeHU5SE5GcDMwOHZnNWVVSVJiNnQ0Q2FqaVRpNE8xcC1YeE56bENsSThnend2Ql9BcmxRVmRicEpKSUFiNm0teEppQ3hnQnZmRkN4UHpoZTVTVzJhek1RUmpUOVZ2MTVKLXNwaXR4eDVlekdHQWh6aVVkdkE0N28zejZtVnViMmRZMzJZZWFzYmx0VlZrRU9Dd0JsT3FQZmViWU1r?oc=5"
-      },
-      {
-       "titel": "Der Börsen-Tag: Goldpreis fällt",
-       "quelle": "n-tv.de",
-       "zeit": "2026-11-26T17:09+01:00",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdWxvNE1GLVFVbVYtZW9FVFd5X2FDa1Rrb2w4MmN3LXE1QjRBaUNoNDR2TFczdkN3X1I5TlNVeG5qNlR3VXljTDNfZWxSX1JPYUxUTlFVcTJTbXd0LXRoY2JSV21TTFN2bElqUGdpNUpqNjExTUI3QVh4aldWbW1mRFhOM0VGQQ?oc=5"
       }
      ]
     },
@@ -258,6 +258,12 @@
      ],
      "meldungen": [
       {
+       "titel": "Januar-WTI-Rohölkontrakt zuletzt im elektronischen Handel 1,28 USD oder 1,5 % höher bei 84,96 USD je Barrel; Januar-Brent zuletzt 1,96 USD oder 2,1 % höher bei 96,57 USD",
+       "quelle": "MarketScreener Schweiz",
+       "zeit": "2026-11-26T20:38+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOTVOdThtV2NfMktLa0ZGdjZJcXlUdm0tajU3aXBfMXBMcUU5MFFtbE9oalRWaWpyUG16SFBfdS02T3NmTUpleWRVNVdYYjQxVlljSUp0RUxzdVlhV20tbTVmMXBrbEJoSXozRDZPem5UUlFPNS14Q0RuMEZHbWoyc0lveDI1V3JYNzVfbUF2UEJ6UDdjR2g4WGpmb1k1Wkp0bU5qSVhRUG5ia1FzZVFaYmoyR1NET180VF9CRVJjQ25QY2Zya3UweWd5UXdaMFo5U1U0Qnh2LWhqM3JMYzUtOFprMlIycTRmby1ma05BOG9JYklCa05uQUpR?oc=5"
+      },
+      {
        "titel": "Ölmarkt unter Schock – Brent sackt um -1,45 % ab",
        "quelle": "wallstreetONLINE",
        "zeit": "2026-11-26T19:07+01:00",
@@ -274,12 +280,6 @@
        "quelle": "XTB.com",
        "zeit": "2026-11-26T17:27+01:00",
        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjZwemxScHVMemZ0aHIwcUVxMm1CdFZTa2tIUzhEcmk1UVBtRHpzbmY5d2Z3NDRHV3VnUFhlQmMwSi1fd1ZITFpra1ZteHI4QlptQ1N0bTJVcDZhbS15UE1pWVBFQXpUUnFCSmRKSzV6azVVZjM4NTl5dXpsQVdPNjVORFQ5U1U2bTk5YXdmZGZPN1BvbVVTc0dVRWNQcnlPOF83Si1Ibm5CUmpYNE9NTW1nejNiWVNSRE1JWU5qSWNpUjhBVTdj?oc=5"
-      },
-      {
-       "titel": "Deshlab steigen die Ölpreise am Donnerstag",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-26T16:30+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjduN3VybWZlYnM3R1dIdTNFWEt6Sm1vbC1aUGtKcnkxVmV3cTNWc3JVMGtkVjd3UF9VQm5JY3ZLTk5rSlZUTWlvRWhQbkRQOFQwU1hVbFFJSDRKZ1VaR0lPekFiZ2tlOHd0VXp5ZkpnZzI0c1QxVzE5U0hPdGtBTVROUUFXVUpEeWJBaGthYlpKck1QcEQ0NkFVQ0hjUFR6NXBacFJKVzV1YWM4eVJR?oc=5"
       }
      ]
     }
