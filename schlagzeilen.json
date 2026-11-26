@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T12:29:59+01:00",
+ "stand": "2026-11-26T14:54:28+01:00",
  "quelle": "Google News",
  "hinweis": "Schlagzeilen der letzten 48 Stunden aus Google News (deutsch) je Markt – nur Überschrift, Quelle und Link. Wird werktags alle 2 Stunden automatisch aktualisiert.",
  "gruppen": [
@@ -17,28 +17,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Jefferies bekräftigt Kaufvotum - Alzchem Group zieht kräftig an",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-26T12:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzE4MldjTHpnZlJ5cVJDaklSNXZOODl5bWloVlFsMUh5MVkxLWx5TEpOY3p3TmRxTlJkeHdVVlhiZlNsLXB0R2RhR3RndVk4Sm93eEx4ZGZtVzZCanVmR0tFVXZudWZfZU9XMS04RF8tTjNJNEtCWW1pbXd1dVNFT25hY3pibXlFWkpPSU40WFI1TThodlVIdEtjU2NUcXVnX0haRk5GZjQwWE5WWW5BSlFQd3FRTWRq?oc=5"
+       "titel": "Leopold Aschenbrenner: KI-Hedgefonds verliert 65 Prozent im dritten Quartal",
+       "quelle": "Manager Magazin",
+       "zeit": "2026-11-26T14:46+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLVVqV1M3bTJzQnpmZ1JBTThHM2p3ZDFUTDJpSnpmODRmc2Q4WWl3YmJUbWVPWklURlJNaTZwOTZFOFJ0THJLWWlnaE9FR0l2SUszbWg3elItU2c2RXlCVHN3UGpoNEQyTk9kdW1kUnlVNUJUaWx4VmVDZzZ2S0plNjJ3ZlVqV1AxLV9LTWo3TUlMa0YyTVhCQ05XT190QnZldjEtNDhQSTBRUkJTa1B2dlU0Yk50OWN1YWt1T1pqV2VUZkdVdWl4T05rdE5yWWZfMEg0dUIyMG8tUzByUkV5WHpONGs5TGgxNDkzTnRtSjh5ank3UThSWldiMG40Mnc?oc=5"
       },
       {
-       "titel": "SAP-Rivale ServiceNow jetzt mit Top-Einstiegschance!",
+       "titel": "Airbus setzt auf Leichtbau: First Graphene eröffnet mit China-Partner neue Wachstumswege",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-26T11:58+01:00",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2k0UUpIdTRwRlZ3QkdYQS1keFdtT1lVLVVhVmNHNWFidkpyWENjbUhGUDVrTzZUYVllTXVybXhlVDRCNzJSRWEwUFFXZkMzdmpRb3FPaURiWDh6S0ozeUVkWnQ1QmRQX3U1Y1FJZlExOU55c2ZMeEVYN1J2Wl9PM0RGaHYtRm14SkJWRTA2eE40c0Vpa1RBdDBQc004bmFqNF81a2NKbDJ4WWhIa1hwdGluTkRrUQ?oc=5"
+       "zeit": "2026-11-26T14:26+01:00",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmZLODlQWjRZQmV6Rmh3bFMxY251TGNKWjBBTE1mVWt3MGR1YUZiWHpIZVZ4YmJFRjdCa3NrZHozeW9rS2p2OTFERHN1dk4zb000Y2k0aTNlZXZjaEdLdG5ZdkxzdGFZTldQUVBUc3RweWk2NnMxZWZScGdQdUNzV0c2OENfZkZzbldVdERaVTBxQnhQejFKSnlwdEkwdzVZbm0tODlMM21FaGhWdk1hbg?oc=5"
       },
       {
-       "titel": "POET Technologies Aktie: Wall Street Zen nimmt das Verkaufen raus",
-       "quelle": "Börse Global",
-       "zeit": "2026-11-26T11:57+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzV5ZDJuNXlVQkZvMVl4VzAwX2VBc3E1U0FIRmJybVIydlotbnZtZEYyUl9JeV9tcFpMZUVaOG9fb1JZUnRjVHJocXBJekpwZ1VBRG43bnJoU1dfejd5R3ZlVjRFQjU2S3lGYnp4aUVUa1hZZ3lOd0t2OWJmT3NfNjUwMDZqQ013YTFsWDZlMk52b0FJWGtCOE80ZDBJRFc5R1E?oc=5"
+       "titel": "US-Goldminen: Royalty-Gesellschaften steigern ihre Einnahmen",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-26T14:25+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0pIR1QxdXBrcEN3VGFUVGRoa29fYnQ3cXpubFZ5cWMtSjh6dnpuWGpxa2NXSVpwWmhraVp0T2Nkdk53bjJheWdNWVhrcTZTMXVhbUkzRS12ekhvSF9fVkViQ1lGMW5TQU1IQmJJX3VCQ21CZkJzTHFuRmxCLUpMeWRBOWstX1FqbHl3VlVtQzVXajBDREpENmV5eGtsVzV4S2hXN1pfakdkY1lQYXE3bnZDQ2NJZw?oc=5"
       },
       {
-       "titel": "Evotec: Kursverlust erreicht zeitweise 6,61 %",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-26T11:44+01:00",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHp4b0dBWHI2a3lGQTN6ZGN1V2RINzBEYjQzVFVUMmlCYTdCM1gwdnoxN3JvWHJraV9Ca21vbGlaYVpGMExFR2VMeDJkdzJEM3g3U2pSdkNuQ0UwVlpJTmRWMVdILUNTdEdpNnp5dmRvSnZpZ1k1cHhDU0tuX0dDcm1uY1JBaFFQaUs4alc0ZnJKU1hXTF9ZaQ?oc=5"
+       "titel": "Leopold Aschenbrenner galt als Wunderkind – jetzt stürzt sein Fonds Situational Awareness ab",
+       "quelle": "WirtschaftsWoche",
+       "zeit": "2026-11-26T14:23+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2ZHc0xBY0pxV3A2UG9XZlU2Q2h1NkdnMmNfS1NsTWM0X1JuVnMwMHFhTGptYzhMVDZTVXplQlhSbWJQRXpPTkFwVnc1VEoyQy1uRWN6VXRaM2U1ekhPN3UwTFpMQUpEeWYtSHF6amZod0VBWjktOUtTTGU0eFFzV2ZYWEpPcl9ULXRMUzE0ZWVBX2U4N3JPTE53eXM1OV9HcGM1NksxZ29PN2JIUkNQdWR1dW01SndQVHBCRy0yWDV1cXotWWp6aVF6OFVWOEVLOF90U2ZzQXVHdw?oc=5"
       }
      ]
     },
@@ -50,28 +50,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Nach Huang-Affäre: Bericht: Nvidia verbietet Verkauf von Halbleitern in vier Länder",
-       "quelle": "n-tv.de",
-       "zeit": "2026-11-26T12:21+01:00",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjhXelRQdktWQklQVTAyZXlXYTFhM0tQaExhdGVfVkVZVW5ZSDNVNGtTU1p2VjRYR2dkMXpzazBnMzhDRWFOVl9YUjZDMzktTnFzVFJiU05NMGVENnVtbkdlNmdhRVdremdvVzU3b3RvMkdXNDJLQW93Ri0yMHZERnU4Y3F6Wnd3ZkFiaHlCeERhSHFNVkZvR2RMLWVnN1V5eUVtVkZxTy1Oa1dJVDJ2Mw?oc=5"
+       "titel": "Zweistellige Kursgewinne: Bei diesem Speicherchiphersteller hat Nvidia jetzt für einen Riesensatz gesorgt!",
+       "quelle": "FinanzNachrichten.de",
+       "zeit": "2026-11-26T14:23+01:00",
+       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaUNVR1FQWEN2aHFxNW9SZ0xQYTRfN1lFb29jbmlWOEt1UXMwZkxKcEUtdmRhSTl5bGxwZGw3QXdRbHJPSXA2MUx3Y1ZWaWk5M25hM0wyMDZzZkJmUGI0LXRaX09vcGctUThZTk95MFI2MGRNMVFjeUt5Rkwzc3ZoS2xaVklzMTFWTloyc2ROVzRLRTVkaVA5SFZweFFNczlrSWJMaktfcENLYy1HTTU3dDh3V2dMWUV3NlpqOURfQ0Q3bVM0b3l2T3hFUzgtdkpGOW5waDdPbUI2aW1EekRlcFA2eWhWandTdFFvaEdxTmU4bXAtUWRZaWx1MDJ0MzQtQjdROG1n?oc=5"
       },
       {
-       "titel": "Nvidia-CEO macht 90 Minuten Therapie – Experte ordnet es ein",
-       "quelle": "Business Insider Deutschland",
-       "zeit": "2026-11-26T12:19+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTzdjeVdFVERZbWM3d2xQd2c5ZThQc0JZdEUyaTI1MnNHWWpLMWNZaHU5MU9OenF1NGhnU19pVHFDOUZZS2dhU3pqOGU5MG11ekt1MHNaWEhWb3VVbU5VTFZTQTJUdHFJanppTWJYaWpydUpkb1M2dDdyclgzX3VEWE84V2lON3pyTFBRMXBpR1FkaE96cXVnMEg5VFVId1diTTBWcHp6c3BqSGM?oc=5"
+       "titel": "Wiedereinsetzung von Nvidia-Chef Hegseth soll für Jensen Huangs Rückkehr Kriegsgesetz erwogen haben",
+       "quelle": "Tagesspiegel",
+       "zeit": "2026-11-26T14:19+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX1VrcUoxODY5ZEVob1A5a2k5OGFXamZsZk1qV1Y5aTIzYkt5RGFid2ljSUdFXzFlUkotbGJFRUVlVWh1RGR5cDhOZ002VGZUWEdXSW5DdGJ3WnRnclJWS1pqLXF5ckRQaXVlNzB5X3RaTWRUN1Bna1l1aHVITlVqVnhxbTdTbUlPbkx5RnUxOTZpVGtmUE8tY2wyMElUSHVVaFBvNG8zMWpQMTIxUDlQVkRvbFlwY3RLbGhJeWVWNWtnNHdfSU5WOG1jSV9hQUw3Q1U0QjUtOUNjazZ1bzFnV1VUajdTcmc4TXVvN1Bn?oc=5"
       },
       {
-       "titel": "Nach Jensen Huangs Rückkehr: Nvidia droht schlechteres Kreditrating",
-       "quelle": "Golem.de",
-       "zeit": "2026-11-26T12:17+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1M4X0RaaGwzVzVLTkRxWmV5Rno5ZnZpNVZQYWstbVJoakhacWJfSXBOZkRmMGh0Y0daYTR0a0VpYld6aWgxWmRKV3VJTkhITlZNaXVpSUsyTmVxNjdTbHlITGF6aTJfaV9fYTBId0N3am1mNi1lLXhZN1BRWWdUVmRkak1zYm9HUV94a3d5OVdmU0VqNWdmU3BXZExkOUtDanA1REpTZXZ4ZWdiczRF?oc=5"
+       "titel": "Um Huang-Rückkehr zu erzwingen: Trump soll Nvidia mit Uralt-Gesetz gedroht haben",
+       "quelle": "BILD",
+       "zeit": "2026-11-26T14:15+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeW9heGRwTzMtY0JFbmJiZ0E2cWMySWZiZGFTQkdIeHZZUDVFMzJpVnFlcmlZb1F1NFFLanlJMkpuRjNuV1BZVFJGWF9IR2gtWUJXVUZMUmlFSXZycHBUY0Rxbzd1dTZNd2xzdDFlS3JGa3BfODZVdG5Ha1hfLTFORWJYbUZEVDF4dmItOE9ud1Q1TzFaeEJYQVFEeHdwb29kTEltSnlsVEE1eTdqZjRPSkJhQnJ1Ym83UXB1NmZpMGFBSV9nYjVjT2JFdW10WlpDdE4tMFVqUGdLTWhYWFA1N2FIcjUwRW9MMVdLcmcyMUs3dDg?oc=5"
       },
       {
-       "titel": "Michael Burry will erneut gegen Nvidia wetten – er wartet nur noch auf diesen Kurs",
-       "quelle": "Business Insider Deutschland",
-       "zeit": "2026-11-26T12:13+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTZBZUxBM1RqZ24yb1c5ZFZ5RFlxMzI2ZUhodDFQMmJmX0VGTUJ3aEl1OEJSU0xrLVEtNk5VNVdPWUFuUE9GOHNjRkxrVzZvdHBQZ0pJN2RoWUVNQWpEcEJoQVdLeVhxSDFxSG9GTURfckRZRzZvbnkxaHNLZ0VuQ0VRaGtJY3JyMmN5UnpDWnV3TThsYlhfM2NZdHMxWmdqcmpMTWw3cGZlSXBPMF91d2JEakNGRmtlbE1tbU94bENUdw?oc=5"
+       "titel": "Trotz Kurserholung: Nvidia hat weiterhin die Probleme, welche 2 Billionen Dollar an Börsenwert gekostet haben",
+       "quelle": "Cash",
+       "zeit": "2026-11-26T14:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQmtoOVR0MmRPbkhJYlI2TEV1N1hNeWxlSHRLNHZEa2NKcG93a1E2RXJqbElNVkpocFFJb3lNeFZ3SXJiOWRiUzFUaVpWUzU4aW9tQ3NmamZvRFdad0c3U1pLWWdlMHRDb0pxZ2hwWEsxclA3N3RPZUNhQlZUR1Y2Mk9uWDA2S0RaSHJ0TjhKZXdSQjhIdk9Hamtfa1dPeTBfZVVFYjBBTDkza2w2RmhQcUpuTnZMb2lYSEZmLVgzUVZ4TExJcjgxSXY3bXBuUTJKSVFTcnpfZVhWa2s3WlJ6Ry1n?oc=5"
       }
      ]
     }
@@ -89,28 +89,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Bitcoin Kurs: Fed-Zinserhöhung im Dezember zu 94 Prozent eingepreist, Core-PCE bei 3,3 Prozent – wird Bitcoin zur Zinswette?",
+       "titel": "Metaplanet Aktie: Umsatzziel um 59 Prozent gekappt, 10.000 Bitcoin verkauft und 11.000 zurückgekauft, MSCI-Ausschluss am 30. November – wie lange trägt das Bitcoin-Modell?",
        "quelle": "AktienCheck.de",
-       "zeit": "2026-11-26T12:23+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkJrWHkzbk5DSU0zaEI2YnEyZ0EtOHBLa2ttMTVUaVRHbDd0T0swS2lNODJVTjE1Rjc5RkFxUVpVU1ktZEljWE00V3RMMWFLc0xLYTZXTktxVnlOQXlaRWxuZ0xiVEZyU0VpanVGZmRhLU9wQTZpRm50TzY3cEk1REZDc1ROaUJJMEs3WnFBb2JXNXVwMEZVWi1Ia2c1bzN0Tm03bWpBTWhuN05W?oc=5"
+       "zeit": "2026-11-26T14:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalNvdUx0aXFuYktoYTBCSDZSM0RMS2VqSkUxNUVhWDA1UW4zYU55emVUcTJtdWk2a2ZYNm0wZmtnbE9NXzNQN0F4YU5lc3NhVjAzVmpKUi11Zzg4R1doams3SmNrWUpZMXhyaHBMZDlMaUdsTU1RZG11QW1FV1FCS2FXN2d0ZG14R0w4VWg3OW50bUpkN3UwZW9VbFZzX1JIUlJzZ2hMV251UU0?oc=5"
       },
       {
-       "titel": "Bitcoin zurück über 60.000 Dollar, doch die ETF-Anleger:innen flüchten weiter",
-       "quelle": "Trending Topics",
-       "zeit": "2026-11-26T12:13+01:00",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHF0ZUliVzlCdGFjdkJ2SVlkWG45ZTN0bHQ0cDNzcHVzZGZhU0VBVUxFQXl5TmFkYVZJcmxCcTdpb1RkYVBNY1hJUk9GWmxFMTZIVm1vNFR1QXZpbHpvNVN3NFlvVFNnXzQxbjVvcVZ4MWNtaHBuNlpHaXJMM2xBLWJOVElWZw?oc=5"
+       "titel": "Bitcoin ETF: Schweizer BBIT startet an der SIX mit 350 Bitcoin und 0,19 Prozent Gebühr, während US-Fonds Milliarden verlieren – wer kauft Bitcoin in Europa?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-26T14:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0hzS3NYQTVTOGFra1ZjM1JTajhwbzlESzA3Yk5FNzAtWFhQUnhja1dxbFpzUkZ5OHFCcWdrVFFGUS1CeXAxenRRRzZKVlNod3FFN3l5b0dnd1NobkQtaURycUhQdEpfMVRrME1RV1Fia2RSYTIzUV9hY05JYTlBdmllR0h5dWoycGt4UkNJSDNaVFMzZFlWWVd6Tm5yTktJTzVDRXVXdmltNzV2?oc=5"
       },
       {
-       "titel": "350 Bitcoin zum Start: Das macht den neuen Schweizer ETF so besonders",
-       "quelle": "BTC-ECHO",
-       "zeit": "2026-11-26T12:04+01:00",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDdrUXIyb1ZzN0JNc1NibHBrMkowMmV2SlVMemg3QnZLSnZaTnJSTEZWbWw0Q01xcU5tS2czYVJWcFRPTlgtdXhBdmt6a29YZVFTYW9sOVdTUWRCSXVseWxsaFZYQjBTaWR0SE5WU01uUm1KbVBudGNCamFkVlRyaExYZGxQSlpBeDNCb2F3?oc=5"
+       "titel": "Bitcoin für 20 Jahre gesperrt? USA treiben Gesetz zur strategischen Reserve voran",
+       "quelle": "Bitcoin2Go",
+       "zeit": "2026-11-26T14:20+01:00",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wVl9IY2dkQWhNSmh6Y1VhYlppWjFwblBVR3NCcGNTcGZhRG0zeDlROHY0N1lfM0hPaWNnZzBwUDZRaVhUY2FMbXpVdjd0MHFkYWt2cXVTNkVEbUxDOHZPbHJ4eEg2YWMwaElF?oc=5"
       },
       {
-       "titel": "Angriffe auf Bitcoin-Miner: Das müssen Bitaxe-Besitzer jetzt wissen!",
-       "quelle": "Blocktrainer",
-       "zeit": "2026-11-26T11:36+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGNIcGlaVVlfbmI1Umc0aUk2YmZxanBVd1lycDBNcDFoVmZydnJUelhGeGdYMkM0cVRTZklYMFRNa3dUbUQ3Nm5UMWowYlh2bkcwdERFV1JIc1h3dk1OYmlVSzBPeTVVTUVjWFFMMnFEMDlQRlZLMndqaWhlMHZfb0V2OTQ2RnppVERjTUpwSUpqdndIcWV1S3ljQ3RKTkxZTzBzaVlDRkpMYXBSMlBZ?oc=5"
+       "titel": "Ist der Bitcoin-Boden erreicht? Die 13-Punkte-Checkliste von Galaxy gibt eine Antwort",
+       "quelle": "Yahoo Finanzen Deutschland",
+       "zeit": "2026-11-26T14:09+01:00",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWEd1YVE4TEJ3eTNGNVk1ZmNiYnIxeVNIVXh1eWVLQWtRaWxqNy0yX1l0VmNmdGZ0S0xDaUVROGhNTEZNdGxpbFQzQ01Vc1ozd0VKYUxxYmdCckhBbHdrTFJlZmVNak5HMWVLUDFJSW05VjlqM2dOM2p2QkdPM0lEX0EyZlh1eU0wSDZ2THB6SWw2QQ?oc=5"
       }
      ]
     },
@@ -121,6 +121,12 @@
       "HYPE"
      ],
      "meldungen": [
+      {
+       "titel": "Hyperliquid-Kurs: HYPE erreicht August-Tief bei anhaltendem Verkaufsdruck",
+       "quelle": "ad-hoc-news.de",
+       "zeit": "2026-11-26T13:05+01:00",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGNyTkUzc0ZuYUVTWC1rT2V4eFk1ZFlfTVBVaG5aOWsxT2hKcDVzRkNWS01wWXU2ZnMxbDlfbUM1MlExRGJDWGNNM3RsRXQxSFVCU0k1YW5ZVW03VFFVbzVmb2c0R0RnR3BnWDkwZERNLVpLeHNGazktQVpUU3lEblNiQ2I1d1gzV1d6MG1ra25Id05ZbC1qTHVGcXhISHMzaWExNWE5Y1JhanpkN3A2ZExvMWdqSkhNVnJhbXU3dTlMSzU1OGRSakFCaTROMEE?oc=5"
+      },
       {
        "titel": "Hyperliquid Kurs: Franklin Templeton nimmt HYPE am 1. Dezember in den Krypto-Indexfonds auf, Token-Freigabe über 578 Millionen Dollar am 6. Dezember – trägt die ETF-Nachfrage den HYPE-Kurs?",
        "quelle": "AktienCheck.de",
@@ -138,12 +144,6 @@
        "quelle": "BTC-ECHO",
        "zeit": "2026-11-25T20:01+01:00",
        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVFEdzcwVUZfRFpHRUtoTV9QdVM3cG9nVjE4QkhURXV6bnJWTWJiY2Z6ZE45eFkzbUJ3Zk5hQm43TG1uNGlEd2k4U2JfOUJCZnJWUHZqTHBScFpkWE5GbnhVc1N1OUxfRXZaeFF0QTlpdVJOQkdrVVU1dGZ3NVlibWgweGZPMnotZ2JjTWJDVWJrNWRrTG03ZEhxa2stdjBRdkR2WmhRYmRZN0MwUnN1NVBmR2MwMms?oc=5"
-      },
-      {
-       "titel": "Hyperliquid: ETF-Aufnahme trotz Kursverlusten",
-       "quelle": "ad-hoc-news.de",
-       "zeit": "2026-11-25T18:56+01:00",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmdDdGFVbTRMMTh6U0IydTV0VFFsaGpvdDlGLXBoWG1ObDg1OXNmZDkzYmhhc1Fnb0tneW1TTkdRSHV5Y0ZhaVc0R3QtclNmYU5MWDRaR1pRdGRUSEF2bVgyclQzU3VkeFQwVEZmVnROalVzMFJ0cTYtNENzSzM3cEV1SzB1ZXBGRktGYWI4Uk5DQ25KNDllOTVDWF9VZ19uMHNRTHFVOFB0SHAwNmJQYVlERnlQNjA?oc=5"
       }
      ]
     },
@@ -153,28 +153,28 @@
      "maerkte": [],
      "meldungen": [
       {
+       "titel": "USDC-Einziehung nach Binance-Hack: DOJ beantragt",
+       "quelle": "NeoTeo",
+       "zeit": "2026-11-26T14:03+01:00",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZk9hSmhheXRqWk54Z1VQSGtEcktObGxnRWVPSmtsdzZMa3JUbW15MHkzekI1c1ZXZ2I4NUN0ZGdGaGFvVk9kdHAxMTVmZlpTOHFlT2dvV3JLQXB0UWRCaC1qZmJlVFhvM05aMWI2YVMxT2JmOFBLMHB3MWpNelRyYkpNbWxTLVk?oc=5"
+      },
+      {
+       "titel": "Vistra Corp. Tokenized Stock (Coinbase) (VSTC) Kurs Euro aktuell: VSTC/EUR Chart",
+       "quelle": "CoinMarketCap",
+       "zeit": "2026-11-26T12:07+01:00",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2REazJiOVFtalk4OEhJUjlmUXNJYXo3T1ZvVVVFcUxQY2RkSkwyX3V2RGg0Mi1pSnVoaHFpdmwxUHdKOUZQZ2l1OXd1SGpaZDFEUjZIUkRwRzJFY3JHSlBwT3NiXzU3eGt4elhVNkRMX2stb0I1dW1rUjZnbGhCRGhYWQ?oc=5"
+      },
+      {
+       "titel": "Oilers vs Kraken Tipp & Prognose 28.11.2026 | NHL Quoten",
+       "quelle": "Wetttipps-heute.com",
+       "zeit": "2026-11-26T11:18+01:00",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uQXgyLWFSWm1ta0lMRkg0eWtfbXlaN2lRX1dDZXlxTEVhQWxPcVpOZU1zUmZ1dldMS1AyVVZTMFBMbnE3ZDduXzEzODZNWXRjWXlrX2J6WU12TGVhb2xJZDRzSmg1MGJCYmJfZEJjbTMwWjJCbHN4dWJzUHJuMDg?oc=5"
+      },
+      {
        "titel": "BNB Kurs: Binance startet fünf tokenisierte Wertpapiere, darunter BlackRocks Bitcoin-ETF – wird die Krypto-Börse zur Wertpapierbörse?",
        "quelle": "AktienCheck.de",
        "zeit": "2026-11-26T10:24+01:00",
        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3lkZmV5ZkhNZ3Z4X2Nnb0Fodm9EdFhzcUVIWDZRQmIxUEVGWWFscUhuZHA3aWJkVXNoZmdDeHV4elQ5UWhUR0hpS0wyVWZ0RGJOMlVmbTRBb2lyejZZY0NmSVByYWdpMmk1WXZ3NmwwN3pWUWVaNXprWFZPbUQ1X0NKLTVSSDJFQlNQanpxZ24zT3JvRGFhRU1PZVBDOHQwdWhTdFIxLW9pUQ?oc=5"
-      },
-      {
-       "titel": "HIGHLIGHTS | Seattle Kraken – Chicago Blackhawks 1:3 | Regular Season",
-       "quelle": "Sky Sport Austria",
-       "zeit": "2026-11-26T10:08+01:00",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjZjbjZiQjFkMHJsalN4UHYtWmIzeVZERG1GZFZFUXBadzFhTWV1Q3NKWWxUU25jRmJDYmhVdGxVdmxzYUlUQ01LcmdQb3dhZGlfT2wxNmFFOS1XNEYtS2lVX09LbFZaTGNIdWRNbXRaTjBMTUZkcENRVy1YZG5QdXkxbDk3VFpsWUUwQW1KM1JwelNWN1ZHT2lRMEZ0cXdEeXJXSnFtaw?oc=5"
-      },
-      {
-       "titel": "Binance-Chef Teng: Firma deckt 6,3 Mrd. Dollar Schaden",
-       "quelle": "joinmares.com",
-       "zeit": "2026-11-26T09:43+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXRQNmdGTzFQdFlFbEN0b3BsZ3dUOHlLc3hycm8xd0JUajhfTE9PVjVlallDeGF5SVE0S3BiQTRiVWFpREQ0YUk1VVVOTnlNWjVFUExyWXdFM2FneGc3a3puTWVfWWtTWGNXTDFZS1ByQkZfS0pSdkVpcDNmYVRfV2RtZjBhbmhLT3c?oc=5"
-      },
-      {
-       "titel": "Seattle Kraken - Edmonton Oilers - 27.11.2026",
-       "quelle": "NHL.com",
-       "zeit": "2026-11-26T09:18+01:00",
-       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5OGFLZTNBU24yd0FZQXc3MmxFZHo5V3FfaXhMMGlSRGREcE1scXZNWENVSnZZR1pMdHY2bUUzNFp3T2FmZ0YzN3MyeGhOYlNyYjhXMW1pcl81a2RTYVFsZF9CN2RkYk1scno2X1Vrc09aV2l0?oc=5"
       }
      ]
     }
@@ -192,9 +192,21 @@
      ],
      "meldungen": [
       {
+       "titel": "Goldpreis: Heißer Inflationswert drückt Gold auf 3.446 Dollar, Short-Eindeckung holt es vor Thanksgiving zurück – hält die Erholung?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-26T14:12+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTi1iUUFVX0JJRk5Rck1xQWFvRTVkS09INjRLdTBDWEQzVHI2M0lhejl5ZHRIMWJsaEQteUZqVXRrRllIT2RpRXd5eUh0eWpiQ0ZobzYxUllGSEVNWHBRNlhKb2tPZDdDcXJUeGNRdzFqOWpvcWVaUUNyMno0WU9idlFFZlJpd2VUci1QT1E0bEVXRW9tNHJ6R0I1MVpCS29YY2llUlhjckJIRldJMmc?oc=5"
+      },
+      {
+       "titel": "Goldexperte Bußler sieht 100-Prozent-Chance: „Wir sind ganz nah am Boden“",
+       "quelle": "Börse Online",
+       "zeit": "2026-11-26T14:08+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzdVV2FDeW5IOVg4ZENNM18tSmd4b3lkOUlURnlOZGgtVTdqMUoxYkVOUkFVVS1USExmdlFpNmZSNE8tVVdQUk1seU1YRkVaQ1BxRWxnaGZ4NFRta28wWXNvdDJ6bF9GXzhMc05fZkFfdnZ2QWdYRmxmdHd4b1A2TmhrLXRQcERhYVZFV3dtSGlHOW4xX3FIMjU5bzhCZ09mdm1kTnhiVjF6Z01jWUNJTWRvSVdmcUFyOEh4OFRQbF82QkRBUS1tR0lUQ0dIbDZJZnc?oc=5"
+      },
+      {
        "titel": "Goldpreis konsolidiert: Goldminen-Aktien vor weiterer Übernahmewelle 2027",
        "quelle": "Finanzen.net",
-       "zeit": "2026-11-26T10:56+01:00",
+       "zeit": "2026-11-26T12:50+01:00",
        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRTdyTFRMcU16OWtRNDFweXJGN3FrUnhxUXc0Z0t2TXphQmJuTFRzY1BMVU9IYUFBUFcyc2pPREY0c1pKM3JINndqZ2QyMG54S3k3d09EaEEyNHF2YmFTeXZhNUNlR3ZJQ1AyNE1MajBmUEFnNmQ4UDByVmdGVXM3S1RlRm85aXRmSERISXNoM1hqbmktNl9YN3ZBLTRJVlNOLTJlWHdpbWFOMF9QQlFmZ1BjeUZ4Y1cxaEJNeUI3OUt1MWZVTTB5MHQwSnZMUVdETVF2eVN5QmxlQmJadnpMMTFvV29ZU1VyRFdGcHVXODJtTGFmeVlVaQ?oc=5"
       },
       {
@@ -202,18 +214,6 @@
        "quelle": "Goldreporter",
        "zeit": "2026-11-26T10:23+01:00",
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ1NneHNRZURkZzdsYkozSFZGc2JpV0ZfRk9BWmp0VThMOGUzUWNPWHhNdWtCT19LbWhHU3IyS3dobFpESHQxVFZod1pjSVNPWlVrdGxqcURMV1RzSUxMc1plTnNJekZhUTJYeXNuLXUxbDF5Z2k4RElVampJSVp5VWZMeDZyLUtySTZ5WXRnazU?oc=5"
-      },
-      {
-       "titel": "Franco-Nevada Aktie: 89,9 Prozent EBITDA-Marge, 4,8 Milliarden Dollar ohne Schulden – ist das Royalty-Modell der Puffer im Goldpreis-Absturz?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-26T10:17+01:00",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTdveHBtOHJ5SDFMU3NhQTNVMDNWdnItbGlROXpqV2tORWdCaWFDLUdQLV9NaUNnX3hueklyTEEzNXNEY0psc2ptbkhETkJJN0ZJcE1wcnk1QzVLb2l2ZS1JNEc0bFVSRWRreUpITGo4dzI0YUc0YUU1MXY4ZkNIeUR5VWpjalJkeGZLN0IyVGFXRzNQa3JXOVFia2xtUS1UVWYwOXhoenc5TTU1ZUZSNl93ai0?oc=5"
-      },
-      {
-       "titel": "Goldpreis: Goldman Sachs mit klarer Prognose",
-       "quelle": "Börse Online",
-       "zeit": "2026-11-26T09:11+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY0dLaDh6X0xVVmRsSVdzUEVXQ01aUVo3LWYwd0xPSVRWYS1VOVZpN3ZMbWVpQ0E5Z2xZMV84TWFDYk1vVkFaNXVQcXUxWWhKRFpVQlE2SjhWS0M2NlgyTEZXLUk3clY0UDJVWnM4MTJ5c3VRazNHVWRoYjg4UEUtenBjSWFlZnNWTFM0ZGJnVFpONUROVlZvVWJKd2I2MHVfTmhzYnRhMWJWYzhz?oc=5"
       }
      ]
     },
@@ -258,28 +258,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Hawthorn Bancshares: CEO Brent M. Giles kauft Aktien für 19.625 $",
-       "quelle": "Investing.com Deutsch",
-       "zeit": "2026-11-26T12:03+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEROQ3NBcHY0NDJpV05jM1R2MzZXT3o2Mk5yWU16RVdEN1VQU0JSMzNtU25qbGhJeEVZSDZWTXBZS19XZWRYYmpBUF9acF9EMWJ6dlo3Z1FNSVU1SEN0d3pRUE81Mk50aEtmQVBsQTJDMUFjSjF0TFJlaXBlcURQaDgwaTlhNjlTYlRRQzlxWHdMX2J4d08tZXJDdWpmNlJUV2ZTMk0tckg1YjBLakFVWkNvelRNOHRjdkZLTjRmRThRR3M?oc=5"
-      },
-      {
-       "titel": "Ölpreis: Brent bei 94 Dollar nach Huthi-Angriffen – wie lange trägt die Risikoprämie?",
+       "titel": "Ölpreis: Brent-Aufschlag von über 10 Dollar auf WTI, Hormus-Meldungen und OPEC+ am Sonntag – wie viel Risikoprämie steckt im Ölpreis?",
        "quelle": "AktienCheck.de",
-       "zeit": "2026-11-26T11:12+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb05SNC1Qc0RrMllrT28tZzlaUVNDbUJvV1d0NzlwYzdiZUhzNjctMFNlN2tNZTdUQWtRT0Q5NUZZSDE2dkNKaFN0V3ItLWdGTi03UmQ1WlVhWjhDT1lvTVR3WnNZeDdua1JKbnlOc21jU1dQTDVaeHZwd1J2T3BkR3dndUVpbnl5aVpwdmgtZnRqS0JERzNnQTVra0plelF0SXBv?oc=5"
+       "zeit": "2026-11-26T14:12+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVFPZmowUzU3WkJFS3RZXzUyd0VZUm9uT1dhcncwVXlGVHpqZnItZkVZQUhJTnVxRi16WmhKUGY4SmxHUi1sYjZDZUZaSGtTdHdTeTNlbjNuYzM0T2N4aXZ5NDFtZ0xSVUhvRF9rT09UY01LbTRpVGhjVTQ0WVRzc3dtR1dlRG5OWmVJRUVjWnJiekZ0ZjBTOGZTZ2ZsS0FIWE9hckVSSXdfcFdYMmc?oc=5"
       },
       {
-       "titel": "Huthis greifen größte saudische Raffinerie an. Ölpreis steigt (26.11.2026)",
-       "quelle": "esyoil",
-       "zeit": "2026-11-26T10:53+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTFkNTdFU25LVGs3ajdCOHFpVi0zZHN0clJxbUJ4TE4xb01jMGgwbHUyZFBoVmxWN3FXRnpIMXBWbWZITkgzSVhyQk9FdFI2SkZrWW4xQ3lqb1ByQmFMakJVbjB6R2FDU1dRbHhFY1RHaHNkbkR0NExFaUwzdVA0NGtGT2hnRGNPRTctb2duWFRTRGN4QXBCNW5SUkFpVW9WczBv?oc=5"
+       "titel": "Streit über OPEC+-Ölkapazitäten hält vor Sonntagstreffen zu Förderquoten für 2027 an, wie Insider berichten",
+       "quelle": "MarketScreener Schweiz",
+       "zeit": "2026-11-26T14:04+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON1ZMNkw5S3NMZU5hUURELTllMkRzSjVhNS1iSFZPVDcybVZpdXVBSHlxTzRPNFEwMndFbjc5WkQ3aktHck15emREdWhyUEZJM1dYZzd3QXBzQTRfdTBoa2tNR2NxRGxzVDA4ZTFCYlBGU1VzSTRNcUpScy1hNU81cEJvUm1HdFRmOGF3a1U2UzIwWlRVMlJBQ2hzbFlTbUlmemJpOVc2LThTaGlJMzdmUlFKZDhlcWRpcmduUGJodGlWWV9GQ2MzSm9KeXpuTWU1cW93dTRQa2ZkVW1PSm9NN1pYa3FObFNXU1JqRHI0R3N2NGF2QkhNUWJwTXN2RTQ?oc=5"
       },
       {
-       "titel": "Preis für Opec-Öl gestiegen",
-       "quelle": "boerse.de",
-       "zeit": "2026-11-26T10:30+01:00",
-       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yM1ZDQXBFdjZpUXlVUldSdmpOMGZEQV9fX1lWbTJueDVuczFlRm1LUEFWOWxFbXJjdFVmRXJ4MlhHWTZUc2xzb2huN2NKa3BDSGc4YXBHd0d0VnVPTWhPbHZUeUNsc0UzaDlGU3l5a05xaXNIVVV1S1o2VkHSAYIBQVVfeXFMUE15MzFlc1lsTTZsU3RPYWV0YUs0UGlVQ0ZUR1ZYRllCT1ViU2xEWjR2NVZnT3FzYnlEeHlJemJMVUo3R3g3U3k5NHAtQWowaUNZWENuOTl0REYyTnNiZFhZczAtbTF1WGdsMVpqSDdwQkZGSU1vUG9sdEdsU01vTGxMQQ?oc=5"
+       "titel": "Brent: Range test around 200-DMA – Societe Generale",
+       "quelle": "www.tmgm.com",
+       "zeit": "2026-11-26T13:58+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1JoQXc0X0JzVVZoUVdVdHNLZDEwSElSN3Vwd1NRTTF6OU1vdmFuNTcwT0NWZmE2OUhCOXh1cWdYRFp0VWJ0N2IyRjQ4NEpyM245eGlCS1NZMkN4d1VEVDByVGdHS0o3ZjBsU2RodVNIV29EblI2WmFKdWVtamZUa0dqZjd5a0t2ejdrTVJILXVFTDhXM0lkNFRrMVJ1WTBVMXlCZ3NzdDdBU01KYTdGUW5rcDQ?oc=5"
+      },
+      {
+       "titel": "Ölpreise bleiben stabil, Nahostkonflikt birgt Versorgungsrisiken",
+       "quelle": "IDNFinancials",
+       "zeit": "2026-11-26T13:20+01:00",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONG5wV3d3ZWYwRmQzc2xiWERaekVjc0lMNF9Na2o4cF83WjBTUm9LcnFIRUJiRzZmOFIyM255cW5WVjh4WUZHYVIxRE12X0RRZGg3d2J2NW1yZ2c5cXB1cTVOZk9qR2haNFNKZ2JZcFVzYjV4a2ZkX3V0UFMxTTRHbW1iV2UtWDZsVC0waUc1ajBQLU1KR1RWRnp2UHp3MzRaU3FiSVQtM1E5VkFxYzBtN0dR?oc=5"
       }
      ]
     }

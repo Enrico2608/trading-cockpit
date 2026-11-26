@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T06:36:21+01:00",
+ "stand": "2026-11-26T14:54:27+01:00",
  "quelle": "Tradays und ForexFactory",
  "quellen": {
   "tradays": true,
@@ -3765,7 +3765,7 @@
   }
  ],
  "ff_naechste": {
-  "stand": "2026-11-26T06:36:21+01:00",
+  "stand": "2026-11-26T14:54:27+01:00",
   "meldungen": [
    {
     "quelle": "ForexFactory",
@@ -3811,7 +3811,7 @@
      "SILBER"
     ],
     "id": "ff-2026-11-30-tag-151212",
-    "n": 1004
+    "n": 1003
    },
    {
     "quelle": "ForexFactory",
@@ -3827,7 +3827,7 @@
      "SILBER"
     ],
     "id": "ff-2026-12-01-1100-151334",
-    "n": 1011
+    "n": 1010
    },
    {
     "quelle": "ForexFactory",
@@ -3843,7 +3843,7 @@
      "SILBER"
     ],
     "id": "ff-2026-12-01-1100-151333",
-    "n": 1012
+    "n": 1011
    },
    {
     "quelle": "ForexFactory",
@@ -3864,7 +3864,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-01-1600-146586",
-    "n": 1016
+    "n": 1015
    },
    {
     "quelle": "ForexFactory",
@@ -3885,7 +3885,7 @@
      "DOW"
     ],
     "id": "ff-2026-12-01-1600-149799",
-    "n": 1017
+    "n": 1016
    },
    {
     "quelle": "ForexFactory",
@@ -3901,7 +3901,7 @@
      "SILBER"
     ],
     "id": "ff-2026-12-02-0940-157092",
-    "n": 1004
+    "n": 1003
    },
    {
     "quelle": "ForexFactory",
