@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T06:17:17+00:00",
+ "stand": "2026-11-27T06:17:25+00:00",
  "quelle_url": {
   "Dukascopy": "https://www.dukascopy.com/swiss/english/marketwatch/historical/",
   "Coinbase": "https://www.coinbase.com/"
@@ -39,7 +39,7 @@
    "quelle": "Dukascopy XAG/USD (Spot, Bid)",
    "nk": 3,
    "von": 1420153200,
-   "bis": 1795647600,
+   "bis": 1795734000,
    "dateien": [
     "2015",
     "2016",
