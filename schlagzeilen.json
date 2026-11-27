@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T18:32:23+01:00",
+ "stand": "2026-11-27T20:37:28+01:00",
  "quelle": "Google News",
  "hinweis": "Schlagzeilen der letzten 48 Stunden aus Google News (deutsch) je Markt – nur Überschrift, Quelle und Link. Wird werktags alle 2 Stunden automatisch aktualisiert.",
  "gruppen": [
@@ -17,28 +17,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Wall Street: Dow über 50.700 zum Black-Friday-Halbtag, 10-Jahres-Rendite bei 4,92 Prozent – wie lange trägt die KI-Erholung die Fed-Sorge?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-27T18:14+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1c1ZnBMNHlHWmRhbHc4MGQ1OWRwcEJrUWd0RXNzNmZHemFIaVZTSGlzemU0NXNPQVhzZDU5TkNHQ2o1M3VjUHVZTHNXZDVjSzZ3VUZLWC1IZG1YRE4zNXVZYTB4d1E1UFZWU0RVeDRoNTdweXJqSDFsU1VOLXFIZGNjZnkzU1RPQV96eUJTbVFFdXpaXzk2QUlWWnZjY3pNS2pLempVamhUQ1BJMXc?oc=5"
+       "titel": "Sprouts Farmers Market: Kurs fällt gegen den Branchentrend",
+       "quelle": "wallstreetONLINE",
+       "zeit": "2026-11-27T20:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2FNNVc1aVI4dUszUGxDTU5sRUVvd0IyLUllRHZzWUFuUks2UFJnU0RuTnlqNG5SZURjVHctRmhhek53MENmWVlGUjVXeVVtVlJUa1lITUlNTU1zQ2QtWGNvM29JUURLM21XR09DM29mdnRudUZZRzg1ZGFWcmdvb1RRR0ZwRFhZeXMydFhSaEpTWEQ3QzBJOTZYUE9UMXhrdmNmVEQ5NVc4eHI0QWVhbVJaRlNRZw?oc=5"
       },
       {
-       "titel": "Vierfacher Vortagsumsatz: Ottobock gibt 4,14 % nach",
+       "titel": "Steht KI-Aktien der nächste große Absturz bevor?",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-27T18:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYi1Odzd1M3dKcHVLQ3MxdUtkbXMzaWNSbkJwQUlvMnptS1JDLWJ2Zk0yVUJTb0lGaUR6Q0Q3NUlFOUtTYTVKY2lRNXFJUUhhcllxRWxvbUd1WG5VdVZ6dW91ZWhlWkFCZlFtajhFV0pKTThEcnFnX3drNnhKMGpvdUU0MklCTGdBMndWYzJNWEY4ZElhV3Z4SzZyUmtQZWhHenRj?oc=5"
+       "zeit": "2026-11-27T20:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3dZMW9TbWQtX3BTUklYcm9XTmRsaDY0dUJfaFpFdEd4a0VkX0w4OVZlWmp2UnF2djAwTEhFZnZRU2FtTjFGUkQ2UDBuWVBDTDhyZkFPeTgwN2xwSjRORGFLM19MMjh1OGxDQjM4dTlDeVRRSmo2bkhhX1VuME9teTRjTlpnQVUtYU5vX21CVnVobWhSbmxqTkRTOA?oc=5"
       },
       {
-       "titel": "KI-Sell-off: Wer jetzt aussteigt, könnte 25 Prozent Rendite verpassen!",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-27T17:59+01:00",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnBHbmlDWlhhSm1BMXBvRkVXdk0tTHZzRU9IQjVSa2IwcUJaeVBVRHZZOEdjeERCOWZoX1gyQTFXSmlrSERod0tGbE1NS0NGR0JETWlhVlVuZlYxWjlMQzBZVzI3SnJIdE1BRFNFdGFVSV83MGtZNktnUEtCdm9qMVNleDRDNVVOdlp3ZDNsN0tPQTNZM2R5THJRSVVWRE4tNG5BeFNNRFNZMi1XeHdvRjdBeXdzLS1yREFBTjRB?oc=5"
+       "titel": "Börse heute: Wall Street schließt nach Thanksgiving im Plus, Energiepreise geben nach 🌍",
+       "quelle": "XTB.com",
+       "zeit": "2026-11-27T19:54+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcEtaLUxMYkNMYW11SlQ4LXJpTlVWSDRhR3l4REZCRFJPb3MxRzhKSEYwcUZCdHA4OGw0SUpka2ZFQm9TamJBSGZsTU9KMm1rcDNvelF0UUJoclFxQ0ptRFZsMGFwT0M0SXJKV0FQcjd2SkNRa01IQmhZeXI4cEphYWxmX01oZmd5SE1FYV96U3Y2b1F6NUN3dXlOcW1qaVZlM3dIcE1NR3daMTJpckpYNGR2QUNHQWhKX0Ywb0d1UEJVZVNzbVlqQVVaU05SM01Q?oc=5"
       },
       {
-       "titel": "Can First Phosphate Challenge China’s Dominance in LFP Battery Materials?",
-       "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-27T17:58+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFpyM2x1anhFSFFjMEs1NWV2cTBtNkk1elhKN0o0Q1A2OEpMRVp0eFdYRGRfaWM2Vi1VaDR1cXE4Tmk3UHB6cnNPMVlQYVNuanVwSnR0SUw0a2lQX2ZQSS1Tb3pLamJTLWZtZ01KdmZQX0xDOUdmZFR4ZF9WdF9HTU84b0lGck5UbjB6M2FtZ093TTRreVlZSEJnMWJmcWpibHlzQmI3LVcwSU1DSGdkMjRXcw?oc=5"
+       "titel": "Trübe Monatsbilanz: Die Käufer kehren an der Wall Street zurück",
+       "quelle": "n-tv.de",
+       "zeit": "2026-11-27T19:50+01:00",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGtlX0V4MkN4RDBFeUtfbjlrMFN2ZWtQNUxFX01SV18xMU5RRkFlODN3dG9EaldhU1UyN19kWTNsMlRKRzk0bVpNOFlyY2FlQXBiTk9kS0pYNUE4VmR5OC1INURFdmdZNWltUXVtdFEwUmRTYk0xQ2NOX1o1MkRLTTBYYThjNDVualFGckhYc3FtTG0xLXJv?oc=5"
       }
      ]
     },
@@ -50,28 +50,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Jensen Huangs Rückkehr zu Nvidia: Warum alle Warnlampen auf Rot stehen",
-       "quelle": "FAZ",
-       "zeit": "2026-11-27T18:10+01:00",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORm96S0ZqNEd0X3E0NlkxT1BmalFTaGtaRjg1Y1lIVkRmcm1ESnZLRVFYV05PM1htQS1uU0R4Tnd3czM3M25OdXphZWtlZjhQem1rRjRNclhrb2R6QjlVT2JJQ2s4TFN6MWFYMGIxYmVka0ZuaklRY1NFOXdwelRSLWxHTkVkbmVub0tsSzFlWG5uQzVPbkZKVjk2Sno4QTl0dHY4U2VZYloyd0hHTGpNMHlnM1BaanI1MmpNUU9wOA?oc=5"
+       "titel": "Baumwolle statt Leder: Nvidia-Boss Huang versucht es optisch mit Reue",
+       "quelle": "Kurier",
+       "zeit": "2026-11-27T20:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PYWUtVGVsOXFfTk5ZYmJ6bHgzYlkwYjR0ZmZrUzc2VXd3M3R3UHpRMVBYOTNEQkVjd1F4SXg1NDlYUHJlTFJSZ2dDWmd4eFpTUTY1SFRfTmxSVkZOM0dUZXdFTXpGLS1IMWN3V0xPa2l1cFlrR0pneTBWUjk?oc=5"
       },
       {
-       "titel": "Top-Mittagsmeldungen: US-Handelsdefizit im Oktober deutlich ausgeweitet; Nvidia-Chips in chinesischem Rechenzentrum mit Verbindung zu Megaspeed entdeckt",
+       "titel": "AKTIE IM FOKUS 3: Nvidia steigen trotz Bericht zu entdeckten KI-Chips in China",
+       "quelle": "T-Online",
+       "zeit": "2026-11-27T19:41+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0U0VkNISDdnTktzT3BfcUdCWmtjM2lua2JOQmpNV1ZFZTlPamdCTHdrQkoyMklKNWxSX2tJNEhHWXJXT2E1SmhENndCVWpWYmhfUFRyNGQ4Q1BTQnVWcGlvdGV4blV4dXItM09wRjlEWFAzdTRnRUZLZU5vX2pwMUhmZDVUeUcwak9LbHRXMV80dXlzcU9EeVhBMnM4STQ0RHR4aEdUaFNzTjhjNnJreGk5MmprNWVNUUVadFNOMjg3WXlBbExsdENKazBZQktfNEpFQ2hycjNvZw?oc=5"
+      },
+      {
+       "titel": "US-Aktienindizes steigen: Rückkehr von Jensen Huang zu Nvidia begrenzt Verluste im KI-Trade, während Anleger in dieser Woche Engagements in Wachstumswerten reduzieren",
        "quelle": "MarketScreener Schweiz",
-       "zeit": "2026-11-27T17:47+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORUFxcURqZC02RDRrSW1UZlYwSWladlBZZkVxOHlMbGRZNXBNOXg0WnlvekQ5UU0wbV9HRGk4RTlDYTVnQlN3NEZKc3NQN1hRZThGQXZqSy11WEFVazU5Yjh2U2tOLUxwTklSdk9YdUVHVEVBbjdGV3VKTEZ5Q0xDMmN2QkVLM2JXQTV2YVFQWW1CQ0liUDg5VmpNSU1SRVdkZU52a3ZTSEZQbDlSZDU0ZTU0eHRBQlhOUHZRSDRpMTA1ejdtLWV6OW9kTFhrS2tPdktFRUUwT0pkZnh0bWdXdDR5QjVfQmVKRGV4UXpOX3ZIQWtfUDVZ?oc=5"
+       "zeit": "2026-11-27T19:40+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTFVaYkhJWG5zWFZZbGJsM0NDaTVkMWhyNy1PUTFQRTZVUjRrUWhib2Juem5WU19CYzB5ZS1ucEdSM2g0XzYxN0JYdHFaSFo4SGwxSHdKaUxKRXotVmNKRWhwOGNyYTE0NVB3Z0JmNXY3Y1htck1fVGJhbGtUYUUzYy11QS1CQ1dTb0VUaHExNkFxR1ZmN0xEbkZVWlN1eVF2MWJIay1ZQzhsbTQ0N1BIcWhhSzFhMWhld0RTaUVuTEJFbHB5cTh4MWZxdkhDZzg0b0MxalBPTkFUZ0Zmdkw4U3M1ODZhellIUzZyR1laSXNjakVRN05VVlZR?oc=5"
       },
       {
-       "titel": "Nvidia: Blackwell-Chips mit Affäre-Verbindung in China aufgetaucht",
-       "quelle": "WinFuture",
-       "zeit": "2026-11-27T17:45+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0YXlPQ0tjQnZERlpFcDMzTEhtOVRJRVAtbXVrZEY4eWV3WWNzNFhaVk5JaGg4b21UQzNuNzhxWXRvWld4aml6UjdVU0d6UQ?oc=5"
-      },
-      {
-       "titel": "Jensen Huangs Nvidia-Comeback: Donald Trumps bislang beste Entscheidung für Deutschland",
-       "quelle": "Augsburger Allgemeine",
-       "zeit": "2026-11-27T17:34+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMWE2NUI2Vy05SlNwY2p5M05Oekg2RXBtSnBsd0NvVjdLbGxLYXVzdEk5WUpPSGpIcjN1dFpseld0bklaemdrdEZPUjBXRTZpOTZSMFB0V2tEb2dkaEs1SEs4NGg2T252bGIyRENhUVZOdWlZMDJiQjZaVzR6SGx0QTVCNHRQRzFQZ3A5RlIxaEJTYmZKYmRHajR6X3BUOXVvZlQ5aEx4Qlc1UEc2SFRDRmhuTlZBMHA4TnY0OW80ektKWFNUZjFNelZ0eWYxSUhMdUpKVGI2VEZld0hyaVlzTENlTlV5M1FmUWZPZWt0R3Q?oc=5"
+       "titel": "Jensen Huang und Nvidia - was ist da passiert?",
+       "quelle": "ZDF",
+       "zeit": "2026-11-27T19:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iWUZDdFE1Qng0ZVBmUnhCcWFJNV9xRDBZM0RxU0I0MlVrSFlINGhPRzRXd1cyN24yb2JVTW1ZVXlvZVc1Rnk3d3Z5OVlhVjJuOFRuRTZiMjFMNmtRa1gtT0lNUm4wQ3AxdUx3a3lXMnJ2eXl5OEE?oc=5"
       }
      ]
     }
@@ -89,28 +89,28 @@
      ],
      "meldungen": [
       {
+       "titel": "Strategys niedriges mNAV und hohe ETF-Abflüsse: JPMorgan identifiziert Signale der Kapitulation bei Bitcoin",
+       "quelle": "Blocktrainer",
+       "zeit": "2026-11-27T19:27+01:00",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHZMQjBIclNuRTNsVzBhaV9aejZvWlJhZV9jcHkyNE9fSWhZNnZNUE5BbFUyZ1k5WVhYMTUtVFZjVVhlVGpLVTVieG1Wd1pTRWx5ckFtaUs5c3Y3RnVUV1ppQzRyT3Q1T25UMU5rY296SktxTmxELUxISmt5SkJaY1JhYTRTLXdPVlBoQmQtOUlfbjdkcjNtSjEweWJsZw?oc=5"
+      },
+      {
+       "titel": "Cardano am Jahrestief – droht ADA in den kommenden Tagen eine Vorentscheidung?",
+       "quelle": "BTC-ECHO",
+       "zeit": "2026-11-27T19:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUJyOUJna1FUN2p0LTFpc3V1SVpObnhCOXNVNHZYOXpNSldxOVBFb0FzTzJnUWtXNk5manZub3JjN1RnNTBmT01MdG1SbFFWTUJ4TGNiREZpWWxQR1lfM2pBaFBvSXVROWdMVEFybzQxOHdCc3JYTk05R1A5cVNHZWhGYw?oc=5"
+      },
+      {
+       "titel": "Aktien: Alles stürzt ab – doch eine unscheinbare Geldanlage schützt jetzt das Vermögen",
+       "quelle": "WELT",
+       "zeit": "2026-11-27T18:28+01:00",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZXpxS1JsZ1JSdmFGWk52YlgzdmhOUzRSa0IwOFg5V2NwdW9KRXFIU19nbmRTMmxNeXZYVlVBRDZKY0d1ZnBzM3dZMFYxVUxMMjJxN3VvT3ZaMFpRSjNPMVQ5ekowMDhJcnUyd3VKbTFvczNBTmFHVWVMYm0tZ3ZMcDNzYThfVEZBazB6cEFYck5VSHNBTk9ETHVaQUZWRVJDVDU1ZGcwVVRRUWsyaVotSGZmc2xrYVFaSjlNVG1XdGhBTVdDNTZzeXdRNE83ak9wbEpXdy1uR3YtdXBFSGtIWXRIbw?oc=5"
+      },
+      {
        "titel": "Bitcoin vor dem Death Cross: Droht Anlegern jetzt ein Absturz wie 2022?",
        "quelle": "BTC-ECHO",
        "zeit": "2026-11-27T18:21+01:00",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekpfd3d1Z29Rd2xaVkpLMHY5RDNoR2hwTjVpVE5uQW0zNmhPX2tXLXhmdzI3S0tHaUFNc3g0eUNnUXI3amZwZVA5aWtZNlNFYkRDSW1PWmVBb2pMR2xYYTBTTW56UWpxRzQ4MWN3OWZ3UkFSMFNkaDlQSXJsbndvT0Z5VUY2NW5Qejk3Wk5rQm1SMm96RUpXSF9McG5YTFRlTWc?oc=5"
-      },
-      {
-       "titel": "Top-Kryptowährungen uneinheitlich; Bitcoin fällt unter die Marke von 60.000 USD",
-       "quelle": "MarketScreener Schweiz",
-       "zeit": "2026-11-27T18:16+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTZNY3lEZW9hMDliSTM0T3FnNXdnZUxmTUlCMW9OdTZzbVhDMU5NVWZqR21RaEx4aDNiTEp2UWlaQ3NCenktZ0FWcE1yZUYyMkVrUkU2VWdyM3pRQ3hUc2RKMFA2V1VmeTNGbGVBQU5aTFVDV2pldC1UNkJEWUFGc3FBQmtuNkt5VGItWnNkdW9TYWNyZmZQWVp3cXU1NTNSLXpLUHRFbHlYRmRITnp5NjdMSmEtOWZJUU1FY2dYeV96YmR2UXlYNG1SeU9seDFsOWUwaDJ1M0Z3dDRoX05j?oc=5"
-      },
-      {
-       "titel": "Bitcoin, Ethereum & Co.: Gewinner und Verlierer - Die Top Flop Kryptowährungen in KW 48/26",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-27T18:04+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VTWgwRkZiVy1lN2RJaUlkazQzSG5oczN0X0gwRHlpYlVSMW55b0FmcDhqVC1qLW41ZEMtVGlHTHpfRlVqOUJ5WTlRaW13RnZPQWpN?oc=5"
-      },
-      {
-       "titel": "Bitcoin-Prognose: Rutscht der Kurs vor der Fed-Sitzung im Dezember Richtung 50.000 US-Dollar?",
-       "quelle": "Finanzen.net",
-       "zeit": "2026-11-27T17:40+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa3E3YkFfOG56Yy1EdGxTUUxNM3VYOVB3bk9kWUV5WUpHRWhnVVJNUFpDR3dleXMtMmhLZXNGRXpwV3h1cjFhT0c1eUppUUpXOVpsSTdubU5uRlVYSGNBb2J3a29ISV9KMVdoTGg2SUNwWGZlOFlsTVNWMGJjdVBKMXN5YlBiZkxod05zd2RmY0xFTm5CcktwMGlKVEJlQW82TEIxbXR4RTRWSnUybkFUcDk4a1dpUXZoVHR3elQ0TEdoYlZ2bWRVZU9TQjUxUUdJSFYxRGxiRFExRDJlanljR2lMc2dUOURIeHl3cUxnN2REUQ?oc=5"
       }
      ]
     },
@@ -122,10 +122,10 @@
      ],
      "meldungen": [
       {
-       "titel": "Goat Funded launcht Perps-Prop-Firma mit Hyperliquid",
-       "quelle": "FinanceFeeds",
-       "zeit": "2026-11-27T14:30+01:00",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aaHIyaTNqMHBsU0tkTUpOY0RsTDhmeG9RWlJWd0hlUUF4a05oZ0JkakVRZWV2UXNDU0NkRTExSHdOdFRmZTdlQUw2akd4RkI0dUVxTHRXS1VsZGhxYmpfbTZIWURKN0hvNFNvX0dsTHlnWUk?oc=5"
+       "titel": "Hyperliquid-Kurs: Neue Preisvorlage erweitert HIP-4-Märkte",
+       "quelle": "ad-hoc-news.de",
+       "zeit": "2026-11-27T18:41+01:00",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnhDdFRROWo0c1BXNUh6SlFlMnp4bmJ0WEk0SmFVeHJaUVk2Mm1CY2RlSGxjT2hvUFFJZGQ5OTFfVGM1MWhnTHdMeElIWlBHcVUxTzlPWXdDZy12NnBmUGEzV0JGSUpNcVRTd05qSHpWTFpQaGlPNy1JM0M2R0Q1OE8wRkRLdXZEM3BYM1BnWW9UUFZVWXJ2d3NSaTAyMk9DdW5oMERhNFU0Mk14UWpRcHR2SHFxdVl1d21FYw?oc=5"
       },
       {
        "titel": "Kalshi fördert „Mikroversicherung“ für kleine Unternehmen, da Sportkontrakte auf Hindernisse stoßen",
@@ -134,16 +134,16 @@
        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlNzT0tRc3hoMTA3MmtyNnEzUXBJVXE2X0xSb05MdDVKOXFzOG9qNno5a0t2RVVvNV9lR25nUHBILURfU3VET0JEUl81T1NxZktHTW1kTWk3dlFiWENZdVFIbGRCakZNNGloZUFaTzlIb2FjUGRfaFpua3NRUXdiYl9wdVd2Y1oyVnVodnJISjhrbHlkZGpkVWJodUpCTW1jVnp5TFZRWDhkLWpob2pxNnoya3R6QWNUS01lbExwUW01dzU2?oc=5"
       },
       {
+       "titel": "Warum der Hyperliquid (HYPE)-Kurs heute den Kryptomarkt übertrifft",
+       "quelle": "BeInCrypto",
+       "zeit": "2026-11-27T13:04+01:00",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUU9GeXl4NmVVa2syMTQ3ZTVTaWxhWF83REpBVzlPSy1aSHduM0o2ZGs4cGY3QnVOMVlxWnNjVV9PbjIwS3F1NW5TTTJzZ2dZYVdySHQzUHBNNTZ2alBjSXRWci1kemJtNFpTWUhCVE4zRGd6YkF4RV9wSDVvN2cxc0VYaw?oc=5"
+      },
+      {
        "titel": "Warum übertrifft der Preis von Hyperliquid (HYPE) heute den Krypto-Markt?",
        "quelle": "Krypto News",
        "zeit": "2026-11-27T13:00+01:00",
        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmQ1MXItRENBajEzLWtGSk5fUmdIWGhnSTJwVEF5dk5PWk91cWpPR1JNT3RiaDdXSmc4bjFUQTFlOVhRUm9DNV9ubW9RbXJMNlM0Nld5SEFxbm9fVDlCZG5YUGNDYWh2OGFDRExkclBaVWIxMUk3U1JjZV9OcXBuM0RhLXpmV2RCSmxxNEVXRDhYTXRDTEFXSFQwamFveVQtcXNlZVhTXzlxNFU?oc=5"
-      },
-      {
-       "titel": "Warum der Hyperliquid (HYPE)-Kurs heute den Kryptomarkt übertrifft",
-       "quelle": "Yahoo Finanzen Deutschland",
-       "zeit": "2026-11-27T12:49+01:00",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXJuSllUWXF3Q0xodEFGRXVTQ2xRQXFGOVhsUDJaVTB0RmhnbS1UR0dwaWdpZEIyT05ockJST3RnQUxEaFA1aHE4VDVMQno4SWxrQjhCQXgyU0tkMWZtQkNuUTBqYVoyUDNJb3NaTHZFY1huNWJXWWJtaG5MaU43MW16UjREQlotVV9TMkhydXVaRWFQOFQtUnJFMA?oc=5"
       }
      ]
     },
@@ -153,28 +153,28 @@
      "maerkte": [],
      "meldungen": [
       {
-       "titel": "Cardano Kurs: 0,15 Dollar nach dem Sechsjahrestief, zweites Death Cross im November, Coinbase streicht ADA-ETH – dreht ADA oder fällt es weiter?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-27T18:15+01:00",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm50eFhHQTE2eXI3ZjVFbTMzd2Fsanp2NGY1VmFrdXE3YnhQYnhWZVpDN0FqSVdnd2szWmFPS2Y3bUpDSXJkblY4QzVxTzR5bjVmdjIzR1dPUF9ic3E5dGpWcHVWWVA1OWc3aDR2Rml2bWg4UGZ2Q2prRFBaek9EM3JsWHB1YS1lNEI1Q3JpVWhlaU4zU2M1WUo3eTVLNHE4N2hPZ3J3VjNnbUlQYnZsaQ?oc=5"
+       "titel": "NHL: Edmonton Oilers empfangen Seattle Kraken",
+       "quelle": "News.de",
+       "zeit": "2026-11-27T20:02+01:00",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVlUN25ReldYdl9EQ2hQeS1ZcDhoS3FmRFZRSC1mT1FmcWNYUkk2cUpKdm94R3hKdm44UlZnVUtqdklMZ25qSGZSeVV2SW80aTJhWmxkam53Sk1GRDRnY3JhZEd5U1lMMFp4VmJkNU9tZWhCU1VoWkh0TzBhamtSdGdUN2RYNEc0QnZfMlY2ZWNlWXRKRDJ1V1VRdGNlcHhyS1dQTmoxSmtsRHVuS1hr?oc=5"
       },
       {
-       "titel": "Seattle Kraken - Anaheim Ducks - 04.12.2026",
-       "quelle": "NHL.com",
-       "zeit": "2026-11-27T18:03+01:00",
-       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wRkw2MGhXajNLdzMybXM3dGdDclBnVjJzaEFPTWw0cTVfU1Fta0prdjJaQkFwdXZjSldWS1JsYWVXcVV0M0ItYTJjRGhLMzgyXzV4SmFXTmI3LVJyRG4wVS1UNGRoenN1Q1NBbHdrQUlaeEE3?oc=5"
+       "titel": "Binance gibt Auszahlungen nach Rekord-Hack fast überall wieder frei",
+       "quelle": "exxpress",
+       "zeit": "2026-11-27T20:00+01:00",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXlwcGVneEF4bjhtazlvcVNhNzcwUElpamNITlp5Q3llZEFTRTdVSEVrNTZzdDZvMG5keXZpUUUyc1FRaHZKYVBqeGJTbzJIUnJFcnhEYUhra1ZXekJmUWJqcUlVWU1FWUxIUXMyTTJLMTJYRVhKRDNYV3A2aTVUMEh0YkxER2dJRHVUQ0V0cGxKampsRm1odjBwOGQ?oc=5"
       },
       {
-       "titel": "Krypto-Hack bei Binance: Kommen Anleger endlich wieder an ihr Geld?",
-       "quelle": "BTC-ECHO",
-       "zeit": "2026-11-27T16:53+01:00",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVmZxbzVkelBJd1pNNHk1WEhSUlN3OFUtTFdoM1dwblYzd2xVMVoxaFgxUWZLN3VXbjVMM1UwUEEtdzNWWWlfMGJCcXp1bU95eUdhQmtvR0stZWxPMGltcnZNamxVT21ZY0lZRmRpc0I0eVo3NjFXa2s4Ukplc244S0M4Slc4WHZaNUtUeFRfcVE0X3BuQU1BQ0M1ZG90TG8?oc=5"
+       "titel": "Dogecoin-Kurs: Binance stellt Auszahlungen wieder vollständig her",
+       "quelle": "ad-hoc-news.de",
+       "zeit": "2026-11-27T18:38+01:00",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT1d6R0N2WTJ4ZlFwSXkxWGlxN2VFVTlhaXExU2NLWFRfOXdYcEJYTTZ5ajNSbFNUYUdId29jSjhPS3I4RmhmYWJ6ei1IYUN1VnBPTWtDUHlWZ3VjYXBsODl6QVRyT2FOU2d6c1NBLXR0VHV3d25zY0VLakp1dkZJQWZKbDRtYkIwdE5lemk5MmhvT0xialdBMVFJdGZCeHhHdHRsdHVzelFRdVFOTXV3djFFRXZWX005ay1pa0duTW80ZXozQWc?oc=5"
       },
       {
-       "titel": "Coinbase Aktie: 719 Millionen Gewinn, minus 42 Prozent seit Jahresbeginn – wann dreht die Krypto-Börse?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-27T16:16+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZnJ6aEtTQXBFenVzTXFLSVNTSVA3ZU1zZGdIYWNoaVh4b3A3ZmY1NDNSQzI3ei0zbGhQNl9DVmFMaExsT1VDTm9zeDJ6TTRSOVk1ak9tYWNFclBZUVlhQTI2VHRRSzlpb0JWamVSQmJxZ21aYUJMMDlVT2FHTVNsSXR1cXI0cHJXYjRwbGpFODdweUc3a1RkeU5DMFBzQnpDQmxSd3NCbFhHQQ?oc=5"
+       "titel": "BNB-Kurs: Binance kündigt 0G-Vertragswechsel auf der BNB Smart Chain an",
+       "quelle": "ad-hoc-news.de",
+       "zeit": "2026-11-27T18:32+01:00",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRm5oaDBRUzVjaUdSXzR3Y0t0WXd5SWt3UjkydVZQU19mVDh5Z3lrV1lDTEpvN2MxNGNlV3ZvQVBLWnB2WG1RQjBlR19HczRRTzFFQWdOTlpmLVEycDk2WFdLZk9RVFd4N2psd2UyREJaUVFmR1p0NkpnWFl2b0xVMXZHclF2SDdtdGlGTks3a2RjWXQtWEhHemNaRXhNZGEzZU9kdEdPQnpGdThZRzFKMFVjZ25nZGsyVHpJdnExUEdLcThTQ3g4U1dZQ3lkZw?oc=5"
       }
      ]
     }
@@ -192,28 +192,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Endeavour-Mining-Aktie CBOE UK 100 Gewinner: Goldförderer steigt um 4,7 Prozent – Goldpreis erholt sich",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-27T18:18+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1hMS1FqVVIwY18zb3V2THZNbXJISk9PUDd5NGtfLWc2b2xralBtWWNVdzkxNzNEZzQ5Z3FOWHFpZ0NXYlV0UFZOeW9wUktzYmVhRGF6NWRGRTNrWENteEtSRHhuNEQwVFFreC1OOHNUeUZ5WGZlX2RKaVptSGswaVlJVWZVanN6NjdDdTFXYkQ4YzRZSXdHMEs0cHZPS0FZVUFlNU95QU8zbzRjb1E?oc=5"
-      },
-      {
-       "titel": "Newmont Aktie: Mit dem Goldpreis zurück über 105 Dollar – wie lange tragen hohe Margen steigende Kosten?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-27T18:14+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjBLQ2V6YThKR3h0RkNkTXBxZkhra0JpTDk5N095ZncxamMxWVE5WEFIU3oyRXk4NXBoSDhwbUZoQWwzcGdocXg2WDUta0tqc1FLWWZFSHh0cE5XTXoyWVhVQzVneFBxalZRa21CUkNYd2tfbkIyc2d6aklGNG5wM211TFpUM1pzdXQ5aU9XSWVqRWp3V2FEZF96QVd1V2ZscUlYUUZTM2VFei1Fdmc?oc=5"
-      },
-      {
-       "titel": "Goldpreis: Erstes Wochenplus nach drei Verlustwochen – trägt die Erholung über 3.650 Dollar?",
-       "quelle": "AktienCheck.de",
-       "zeit": "2026-11-27T18:14+01:00",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaExyRksxZTBfamU5YXNEbW54cEozSFRGSFZoR2xETVVrRUE1RFNvdUdYX0kxMmpMR3JsVXhTZDYtQnBXeDZXQmVBOFBQM3pOVm5PYmI4WWw1TWp0SmZJOTFzeGI3UjhmUGZEaGtKdEpxdnNLZmZpbXNwX0ZRZ0NVZS0tbDdQck9CX1dWVkVneEQ0RUNWdG1NVG5QMVQxZmZCckRCZkVMT213c1Jr?oc=5"
+       "titel": "US-Börsen legen deutlich zu – Goldpreis steigt",
+       "quelle": "nachrichten-heute.net",
+       "zeit": "2026-11-27T19:34+01:00",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFoxemJjM1lXWjk2R2hhSW5zaUlRTGpvNDV3aGVLT1FKbzV5bW1KbDBuM0dOWHhneElHTGptenE0bVFYdGtpWWJmLW80VWN3bkMtdG1YbWVQZGpPU3pqcWdDQVBDd0d0NDRMclI4ZzZDVzN4eDBYeV9WLXJKRjhtUG1TX0Y3d0lMZWZNdUVCZkdDeFVGXzJj?oc=5"
       },
       {
        "titel": "Gold: Wie tief kann der Goldpreis noch stürzen und wie stehen die Chancen für Einsteiger?",
        "quelle": "WELT",
-       "zeit": "2026-11-27T17:58+01:00",
+       "zeit": "2026-11-27T19:30+01:00",
        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT0ZvdmtHVE5rUGI0czBVQmpoV2cxUUdseFZ0bHNqcngtbkEyTE45MHVNMjlwTWFieDkzMHM0aW45WHBJamZJQ2NTNzVKVlFNNTBBY0hDUVhab3g2Y1BrYk00eThvSVRtZVRrdkpzTzloS3Iyd01FQXdBOS1QNWZDcGVkR0E1WG10WFVDRm1BbEtGWThhSFZxVHYzTWVkNnlidmRSdTVLQUo2LXJCdmZSaWU0XzUxbHpXb0NYbnlsV21FVEVGb0tqQ3AyMWp6alUtc0xOaC1LakxEdUZtQlpOdXV3Q2QwbjN3c2c?oc=5"
+      },
+      {
+       "titel": "Goldpreis verliert in Euro weniger: Wie viel Sicherheit bietet der Wechselkurseffekt noch?",
+       "quelle": "Finanzen.net",
+       "zeit": "2026-11-27T19:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSnpHaVVTX1Y5NXJWZ0k2bi1fQ0ZEc3k5cExxUGZCcTJwTGN6b0hfWWdiOW9qRjMyTzlWSGh4TUdGTzVyTi14Q29zak8yeXNCa2tpZ1loVzB2WXRRcS01ajNBR0l6MURFQUQ3YlpoYnVzNGZOamNuUHQ3WjRZNmE5bnZIM08tYjJ4cGpYeWFhUkRCdzVTTXZhNlpzNVp3ZWRZN3FxNGs5RFYyeWZWOWptYU9iZFRSTS1GY0h6SVNtakVhN1EwelFCWnhzeTU5N2Mzd0xMd1RSQVM4ZEtzbXJUSDhJbEJka2prc0NlQ1RoUVl0M1k5Q3prU0lmNEJLdmhQM3V1MkRaMjc?oc=5"
+      },
+      {
+       "titel": "US-Börsen legen deutlich zu – Goldpreis steigt stark",
+       "quelle": "Presse Augsburg",
+       "zeit": "2026-11-27T19:30+01:00",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MOVVlbXdCQkdDaEJyUWFDa2lUenpMTnZ5QWwyelJ1RlFvMF9JTU95TlRpTG1rQzlySTlob2V2cUdnSzFuVGRuZ21VSC1kNENzMHBLa1UtazgwUDR4WEV1NktTa243aEc4TXlDXzVfbWlTcV9pS1pldThiaFQtdw?oc=5"
       }
      ]
     },
@@ -258,28 +258,28 @@
      ],
      "meldungen": [
       {
-       "titel": "Brent fällt nach Angriffen im Nahen Osten, steuert jedoch auf ersten Wochengewinn seit 5 Wochen zu",
-       "quelle": "MarketScreener Schweiz",
-       "zeit": "2026-11-27T17:39+01:00",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVHJ4UU8xSkZQMno5WkYzbVZjeU04NlI2TVlnV1c3Q29XSkp6bFM0NkdBXzhGUHpxaTltRlF2NW9Ta1VyeUVkRThfdlB5TjItdV9ickJqeU5SVVoyU0hmaWVXLVkxZVozODRwOVBDbHJkOFRpaXNvZlFjQjByYmFoQ2JhM00tLXlrTGYxcXdpdG5PQ05oY2pXTGs4WDVZQUtValRELVJVN3FRLU5YM0stNHREN3NGQ2lYYnE0RkowdlZPeGQyMEd2ZmZsSVAyeXRqMWtnMjI5QzROQXBpS2xFY1FkN2NVclBFYzl2YVBhYkRJb0dqd2RR?oc=5"
+       "titel": "Angriff auf das Ölkartell: Trump-Regierung wollte OPEC aufbrechen - einer der mächtigsten Männer griff ein!",
+       "quelle": "FinanzNachrichten.de",
+       "zeit": "2026-11-27T19:23+01:00",
+       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMEJTdGU3QjVjY0V6a3htNlV2UVo3YXJTNTZxVGhGVHQwN1JBdVplNV95aTBIMUJtdC1rMVlnSVhWOWRJZ3VWbDVjeDdaN3FrRmlxTkVLd1d4dlI4UmxPaHhEdjhMZ2tsakVRVVNTa2I1UldWTVlGeHpJRmxKSUVON3lWeXoxOGtQcTUtWXJJVG1nNTJXLUxqbHRIM08xQzU5YjJyaERuX3VDNW14YmpQcXZOTnZzYnBkRDJFbklDNm5wd1lSX2tMNU0zS04ySy0tS3JZZng5eEgwQXVNQ1czVmxBZFJTTnk3Yy1SUTBHM1RwMnBfQ0lGRFZ1ejM1Wk84VFhhcGd6UQ?oc=5"
       },
       {
-       "titel": "Abverkauf am Ölmarkt: Ölpreis verliert 1,36 %",
+       "titel": "Trump-Regierung wollte OPEC aufbrechen – einer der mächtigsten Männer griff ein!",
        "quelle": "wallstreetONLINE",
-       "zeit": "2026-11-27T17:30+01:00",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeUk1Y1g1bGhrSEUwblQxbGxyUXRNdy1ucDdNS1pUcEJzMXM2WTRHaFZHcTRRWjhnN0xSdUt0bFBCdjZ6RkZLLUtRZDRMSTNSaF9hUkZQUGZWOFN1R0VMRmt2bWE1bHVfc2c2cmV5TkpiT2FsOHM5bFNYVG5FeTVtc2pwN0JaU0VTcFJ6dnBUcmRnU2xwX1dkTXYwbnpiaEFiY21jZQ?oc=5"
+       "zeit": "2026-11-27T18:59+01:00",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTBLTUhKc01OcklOMEt6X19wemxpaFB0ZlVPYTBhRDEwNi1CbkZhNm9qN043RWZTR3NsbHdUMHFsTVl0NmZLSGNxWmFscklsNmxyTVZ0ZnVvLWlsN3Jzb0Fnb1RHbzVaYkZ5YVE2R1hfN0NXeVlsb0NncFFSb0Q4RHhGUzJqWlBLSk4zWWpzOEFjY0ozTERYZ25oMTdGMnIxd1Q4a0p3aXliMHpvR3ZwQkcxc0FkQnJkTmJsWHMzS0paT25UTnhyQk9vai1sdw?oc=5"
       },
       {
-       "titel": "USA drängen Venezuela und Irak zum OPEC-Austritt, Saudi-Arabien interveniert",
-       "quelle": "IDNFinancials",
-       "zeit": "2026-11-27T17:20+01:00",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXFIclB0VW5YQnlScHdLd2ZoVWk3S0NUNHk3UUhnMGtPdVVvWS1CNE44Q0ktb3ZTUlVCQTlPLVNpSlJCQUpWTGRSQjBrNUMtVHpBOGlwNHRSSkJZUXlwYlIwcmJwOE5zUlhKYkpfX3Y1aEVrOERkU01ES0trNWIxaThxV3RORF9CU1pOc19RUENxcGFVbjBFMnpqeXFVYWJuZFkxYkptb18wcko5eWNjTVY1LWotT01ZaVR6bERHZGVudw?oc=5"
+       "titel": "Irak fordert höhere OPEC-Quote vor OPEC+-Gesprächen über Förderziele 2027 - Nachrichten und Statistiken",
+       "quelle": "IndexBox",
+       "zeit": "2026-11-27T18:41+01:00",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHNNRl96NHlsb1FyX3JrdjlrZ0dxUU4tOWkyNlMxUlVPbFRVVWdLQzhZTzlUQUVfSjNVQjlDQVotM2w2YnNvSFF5QVJ2a09tOWV3TmY3RXJuTzYxOUVicmFNNjJqNW9BMTZtalFwYzhOMXlldWtTdHFKN1pzV1BLNE92anpGaVNwOVpFcU9LYXBQRC1iekJRRTZjQlR5ZWJzU0ZMbA?oc=5"
       },
       {
-       "titel": "Prognose für den Ölpreis 2027: Wohin BofA Brent schickt",
-       "quelle": "aktien.news",
-       "zeit": "2026-11-27T16:00+01:00",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnRNSjd4STJmUmMwaHRpbklkWFRqekpSZC0tNkFfcHBEbUN6UEhIdW0zeElpQW40UlBpRVYxSGp2dTlKR09rMjdDbUs5TlZjRkVUQXRUdU4tZUlNQjdvaTJkWEEwUXJPRmZ0UHZvUlN6UkNqWjBESHUtX2l4My16cktEbFA?oc=5"
+       "titel": "Ölpreis: Brent mit Wochenplus von rund 4 Prozent vor dem OPEC+-Treffen – reicht die Förderdisziplin gegen das Überangebot?",
+       "quelle": "AktienCheck.de",
+       "zeit": "2026-11-27T18:14+01:00",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0h2V0JpMURTcmx4NG5XR3FtcmF5aXpSSmZUNmRZZmphWjBRRUVVSTdhc1RyYVFBOFlhNXdSejRldUtOT2lPMmtYVWpfVE10eS0yZmVVNlhsX0dMTHNJVDlPREtnZHpMdWxZYVZJcGJZcFFzMkU1NUZNb2ExVHkxaHRNRnVLLUlWSnozekNzRkZLWllLOU1QZzFKS0lOVnFWV1hJOGYzWEd3aDdmaVk0Tw?oc=5"
       }
      ]
     }
