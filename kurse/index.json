@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-28T06:15:36+00:00",
+ "stand": "2026-11-28T06:16:24+00:00",
  "quelle_url": {
   "Dukascopy": "https://www.dukascopy.com/swiss/english/marketwatch/historical/",
   "Coinbase": "https://www.coinbase.com/"
@@ -69,7 +69,7 @@
    "quelle": "Dukascopy WTI Light Crude (CFD, Bid)",
    "nk": 2,
    "von": 1420156800,
-   "bis": 1795734000,
+   "bis": 1795806000,
    "dateien": [
     "2015",
     "2016",
