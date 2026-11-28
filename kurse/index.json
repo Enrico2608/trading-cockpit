@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27T06:18:04+00:00",
+ "stand": "2026-11-28T06:13:04+00:00",
  "quelle_url": {
   "Dukascopy": "https://www.dukascopy.com/swiss/english/marketwatch/historical/",
   "Coinbase": "https://www.coinbase.com/"
@@ -189,7 +189,7 @@
    "quelle": "Coinbase BTC-USD",
    "nk": 2,
    "von": 1437426000,
-   "bis": 1795734000,
+   "bis": 1795820400,
    "dateien": [
     "2015",
     "2016",
