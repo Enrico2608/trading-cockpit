@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-28T06:15:14+00:00",
+ "stand": "2026-11-28T06:15:36+00:00",
  "quelle_url": {
   "Dukascopy": "https://www.dukascopy.com/swiss/english/marketwatch/historical/",
   "Coinbase": "https://www.coinbase.com/"
@@ -99,7 +99,7 @@
    "quelle": "Dukascopy S&P 500 (CFD, Bid)",
    "nk": 1,
    "von": 1420156800,
-   "bis": 1795734000,
+   "bis": 1795802400,
    "dateien": [
     "2015",
     "2016",
